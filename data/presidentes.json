@@ -1,468 +1,552 @@
 [
   {
     "id": 1,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Justo_José_de_Urquiza.jpg",
-    "name": "Justo José",
-    "lastName": "de Urquiza",
-    "startPeriodDate": "1854-03-05",
-    "endPeriodDate": "1860-10-06",
-    "politicalParty": "Partido Federal",
-    "description": "Justo José de Urquiza was an Argentine general and politician who served as President of the Argentine Confederation from 1854 to 1860. He was instrumental in leading Argentina through the turbulent period following independence from Spain.",
-    "cityId": 1,
-    "city": null
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bernardino_Rivadavia_2.jpg/800px-Bernardino_Rivadavia_2.jpg",
+    "name": "Bernardino",
+    "lastName": "Rivadavia",
+    "startPeriodDate": "1826-02-08",
+    "endPeriodDate": "1827-06-27",
+    "politicalParty": "Partido Unitario",
+    "description": "Bernardino de la Trinidad González de Rivadavia y Rodríguez de Rivadavia fue un político rioplatense y primer jefe de Estado de las Provincias Unidas del Río de la Plata ejerciendo con el cargo de presidente, que desempeñó entre el 8 de febrero de 1826 y el 27 de junio de 1827. Poco después de iniciada la Revolución de Mayo tuvo una fuerte influencia sobre el Primer Triunvirato, formando parte como uno de sus secretarios."
   },
   {
     "id": 2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Santiago_Derqui.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Vicente_Lopez_1860.jpg",
+    "name": "Vicente",
+    "lastName": "López y Planes",
+    "startPeriodDate": "1827-07-07",
+    "endPeriodDate": "1827-08-18",
+    "politicalParty": "Partido Unitario",
+    "description": "Vicente López y Planes fue un escritor, abogado y político argentino, autor de la letra del Himno Nacional Argentino, adoptado el 11 de mayo de 1813, y presidente provisional de las Provincias Unidas del Río de la Plata, entre el 7 de julio y el 18 de agosto de 1827."
+  },
+  {
+    "id": 3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Urquiza.jpg/113px-Urquiza.jpg",
+    "name": "Justo José",
+    "lastName": "de Urquiza",
+    "startPeriodDate": "1854-03-05",
+    "endPeriodDate": "1860-03-05",
+    "politicalParty": "Partido Federal",
+    "description": "Justo José de Urquiza fue un político, militar y caudillo argentino, presidente de la Confederación Argentina desde el 5 de marzo de 1854 hasta el 5 de marzo de 1860. También fue dos veces gobernador de la provincia de Entre Ríos."
+  },
+  {
+    "id": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Santiago_Derqui%2C_pr%C3%A9sident_de_l%27Argentine.jpg/113px-Santiago_Derqui%2C_pr%C3%A9sident_de_l%27Argentine.jpg",
     "name": "Santiago",
     "lastName": "Derqui",
     "startPeriodDate": "1860-03-05",
     "endPeriodDate": "1861-11-05",
     "politicalParty": "Partido Federal",
-    "description": "Santiago Derqui was an Argentine lawyer and politician who served as President of the Argentine Confederation from 1860 to 1861. His term was marked by political instability and conflict.",
-    "cityId": 2,
-    "city": null
+    "description": "Santiago Derqui fue un político y abogado argentino, presidente de la Confederación Argentina entre el 5 de marzo de 1860 y el 5 de noviembre de 1861. Su mandato terminó tras la batalla de Pavón, que resultó en la unificación del país bajo el liderazgo de Buenos Aires."
   },
   {
-    "id": 3,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bartolome_mitre.jpg",
+    "id": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/JEPedernera.jpg/113px-JEPedernera.jpg",
+    "name": "Juan Esteban",
+    "lastName": "Pedernera",
+    "startPeriodDate": "1861-11-05",
+    "endPeriodDate": "1861-12-12",
+    "politicalParty": "Partido Federal",
+    "description": "Juan Esteban Pedernera fue un militar argentino que fue vicepresidente y brevemente presidente de su país en 1861, tras la renuncia del hasta entonces presidente Santiago Derqui. Participó en la guerra de la Independencia y en las guerras civiles de su país, y ejerció el cargo de gobernador de la provincia de San Luis. Fue el último presidente argentino nacido antes de la Revolución de Mayo."
+  },
+  {
+    "id": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mitre_2_%28cropped%29.jpg/112px-Mitre_2_%28cropped%29.jpg",
     "name": "Bartolomé",
     "lastName": "Mitre",
     "startPeriodDate": "1862-10-12",
     "endPeriodDate": "1868-10-12",
     "politicalParty": "Partido Nacionalista",
-    "description": "Bartolomé Mitre was an Argentine statesman, military figure, and author. He was President of Argentina from 1862 to 1868 and played a key role in the country's unification.",
-    "cityId": 3,
-    "city": null
+    "description": "Bartolomé Mitre fue un político, militar, periodista e historiador argentino, presidente de la Nación Argentina entre 1862 y 1868. Fue uno de los líderes de la Guerra de la Triple Alianza y fundador del diario La Nación."
   },
   {
-    "id": 4,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Domingo_Faustino_Sarmiento_1874.jpg",
+    "id": 7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sarmiento_%281873%29.jpg/111px-Sarmiento_%281873%29.jpg",
     "name": "Domingo Faustino",
     "lastName": "Sarmiento",
     "startPeriodDate": "1868-10-12",
     "endPeriodDate": "1874-10-12",
     "politicalParty": "Partido Liberal",
-    "description": "Domingo Faustino Sarmiento was an Argentine activist, intellectual, writer, statesman and the seventh President of Argentina. His presidency was notable for his efforts in education reform.",
-    "cityId": 4,
-    "city": null
+    "description": "Domingo Faustino Sarmiento fue un político, pedagogo, escritor, docente, periodista y militar argentino. Gobernador de la provincia de San Juan, fue presidente de la Nación Argentina entre 1868 y 1874. Es conocido como el 'padre del aula' por su incansable trabajo en la educación."
   },
   {
-    "id": 5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nicolas_Avellaneda_-_foto_color.jpg",
+    "id": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nicol%C3%A1s_Avellaneda_2.jpg/113px-Nicol%C3%A1s_Avellaneda_2.jpg",
     "name": "Nicolás",
     "lastName": "Avellaneda",
     "startPeriodDate": "1874-10-12",
     "endPeriodDate": "1880-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Nicolás Avellaneda was an Argentine lawyer and politician who served as President from 1874 to 1880. His administration was marked by efforts to modernize the country's economy and infrastructure.",
-    "cityId": 5,
-    "city": null
+    "description": "Nicolás Avellaneda fue un abogado, periodista, estadista y político argentino, presidente de la Nación Argentina entre 1874 y 1880. Durante su mandato enfrentó la crisis económica derivada de la guerra con Paraguay."
   },
   {
-    "id": 6,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Julio_Argentino_Roca_-_retrato_oficial_1898.jpg",
+    "id": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Roca%2C_Julio_Argentino.jpg/113px-Roca%2C_Julio_Argentino.jpg",
     "name": "Julio Argentino",
     "lastName": "Roca",
     "startPeriodDate": "1880-10-12",
     "endPeriodDate": "1886-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Julio Argentino Roca was an Argentine general and politician who served as President of Argentina twice, from 1880 to 1886 and from 1898 to 1904. He is best known for his leadership during the Conquest of the Desert.",
-    "cityId": 6,
-    "city": null
+    "description": "Julio Argentino Roca fue un militar y político argentino, presidente de la Nación Argentina en dos períodos (1880-1886 y 1898-1904). Es conocido por su política de 'Conquista del Desierto', destinada a expandir el territorio argentino hacia la Patagonia."
   },
   {
-    "id": 7,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Miguel_Juarez_Celman.jpg",
-    "name": "Miguel",
+    "id": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Juarez_celman_president.jpg/113px-Juarez_celman_president.jpg",
+    "name": "Miguel Ángel",
     "lastName": "Juárez Celman",
     "startPeriodDate": "1886-10-12",
     "endPeriodDate": "1890-08-06",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Miguel Juárez Celman was an Argentine lawyer and politician who served as President from 1886 until his resignation in 1890. His term was marked by economic turmoil and political instability.",
-    "cityId": 7,
-    "city": null
+    "description": "Miguel Ángel Juárez Celman fue un abogado y político argentino, presidente de la Nación Argentina entre 1886 y 1890. Su mandato estuvo marcado por una grave crisis económica y política que llevó a su renuncia."
   },
   {
-    "id": 8,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Carlos_Pellegrini.jpg",
+    "id": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Retrato_de_Carlos_Pellegrini.jpg/113px-Retrato_de_Carlos_Pellegrini.jpg",
     "name": "Carlos",
     "lastName": "Pellegrini",
     "startPeriodDate": "1890-08-06",
     "endPeriodDate": "1892-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Carlos Pellegrini was an Argentine lawyer and politician who served as President from 1890 to 1892 following the resignation of Juárez Celman. He is known for stabilizing the Argentine economy during a time of crisis.",
-    "cityId": 8,
-    "city": null
+    "description": "Carlos Pellegrini fue un abogado y político argentino, presidente de la Nación Argentina entre 1890 y 1892, tras la renuncia de Juárez Celman. Conocido como el 'piloto de tormentas', logró estabilizar la economía del país."
   },
   {
-    "id": 9,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Luis_Saenz_Pena.jpg",
+    "id": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/LSaenzpe%C3%B1a.jpg/113px-LSaenzpe%C3%B1a.jpg",
     "name": "Luis",
     "lastName": "Sáenz Peña",
     "startPeriodDate": "1892-10-12",
     "endPeriodDate": "1895-01-23",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Luis Sáenz Peña was an Argentine lawyer and politician who served as President from 1892 to 1895. His term was marked by political instability, leading to his resignation.",
-    "cityId": 9,
-    "city": null
+    "description": "Luis Sáenz Peña fue un abogado y político argentino, presidente de la Nación Argentina entre 1892 y 1895. Su mandato estuvo marcado por una gran inestabilidad política que resultó en su renuncia."
   },
   {
-    "id": 10,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Jose_Evaristo_Uriburu.JPG",
+    "id": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/JEUriburu.jpg/113px-JEUriburu.jpg",
     "name": "José Evaristo",
     "lastName": "Uriburu",
     "startPeriodDate": "1895-01-23",
     "endPeriodDate": "1898-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "José Evaristo Uriburu was an Argentine lawyer and politician who served as President from 1895 to 1898. He is known for his efforts to maintain stability and support economic growth.",
-    "cityId": 10,
-    "city": null
+    "description": "José Evaristo Uriburu fue un abogado y político argentino, presidente de la Nación Argentina entre 1895 y 1898, tras la renuncia de Luis Sáenz Peña. Su gobierno se destacó por la paz y la estabilidad política."
   },
   {
-    "id": 11,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Julio_Argentino_Roca_-_retrato_oficial_1898.jpg",
+    "id": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Julio_Argentino_Roca_con_la_banda_presidencial.jpg/113px-Julio_Argentino_Roca_con_la_banda_presidencial.jpg",
     "name": "Julio Argentino",
     "lastName": "Roca",
     "startPeriodDate": "1898-10-12",
     "endPeriodDate": "1904-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Julio Argentino Roca was an Argentine general and politician who served as President of Argentina twice, from 1880 to 1886 and from 1898 to 1904. He is best known for his leadership during the Conquest of the Desert.",
-    "cityId": 11,
-    "city": null
+    "description": "Julio Argentino Roca fue un militar y político argentino, presidente de la Nación Argentina en dos períodos (1880-1886 y 1898-1904). Es conocido por su política de 'Conquista del Desierto', destinada a expandir el territorio argentino hacia la Patagonia."
   },
   {
-    "id": 12,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Manuel_Quintana.jpg",
+    "id": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Manuelquintana2.jpg/113px-Manuelquintana2.jpg",
     "name": "Manuel",
     "lastName": "Quintana",
     "startPeriodDate": "1904-10-12",
     "endPeriodDate": "1906-03-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Manuel Quintana was an Argentine lawyer and politician who served as President from 1904 until his death in 1906. His presidency was marked by continued economic growth and modernization.",
-    "cityId": 12,
-    "city": null
+    "description": "Manuel Quintana fue un abogado y político argentino, presidente de la Nación Argentina entre 1904 y 1906. Su mandato estuvo marcado por conflictos sociales y su fallecimiento en el cargo."
   },
   {
-    "id": 13,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/José_Figueroa_Alcorta.jpg",
+    "id": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Jos%C3%A9_Figueroa_Alcorta_-_1910.JPG/113px-Jos%C3%A9_Figueroa_Alcorta_-_1910.JPG",
     "name": "José",
     "lastName": "Figueroa Alcorta",
     "startPeriodDate": "1906-03-12",
     "endPeriodDate": "1910-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "José Figueroa Alcorta was an Argentine lawyer and politician who served as President from 1906 to 1910. His administration was notable for its progressive reforms and economic policies.",
-    "cityId": 13,
-    "city": null
+    "description": "José Figueroa Alcorta fue un abogado y político argentino, presidente de la Nación Argentina entre 1906 y 1910. Su mandato estuvo marcado por la consolidación del desarrollo económico y la celebración del Centenario de la Revolución de Mayo."
   },
   {
-    "id": 14,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Roque_Saenz_Pena.jpg",
+    "id": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roque_Saenz_Pe%C3%B1a_%28obituario_1914%29.jpg/112px-Roque_Saenz_Pe%C3%B1a_%28obituario_1914%29.jpg",
     "name": "Roque",
     "lastName": "Sáenz Peña",
     "startPeriodDate": "1910-10-12",
     "endPeriodDate": "1914-08-09",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Roque Sáenz Peña was an Argentine lawyer and politician who served as President from 1910 until his death in 1914. He is best known for implementing the Sáenz Peña Law, which introduced secret, universal, and mandatory male suffrage.",
-    "cityId": 14,
-    "city": null
+    "description": "Roque Sáenz Peña fue un abogado y político argentino, presidente de la Nación Argentina entre 1910 y 1914. Es conocido por la Ley Sáenz Peña, que estableció el voto secreto y obligatorio, transformando el sistema electoral argentino."
   },
   {
-    "id": 15,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Victorino_de_la_Plaza.jpg",
+    "id": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Victorino_de_la_Plaza.JPG/113px-Victorino_de_la_Plaza.JPG",
     "name": "Victorino",
     "lastName": "de la Plaza",
     "startPeriodDate": "1914-08-09",
     "endPeriodDate": "1916-10-12",
     "politicalParty": "Partido Autonomista Nacional",
-    "description": "Victorino de la Plaza was an Argentine lawyer and politician who served as President from 1914 to 1916. His term was marked by the continuation of progressive reforms initiated by his predecessor.",
-    "cityId": 15,
-    "city": null
+    "description": "Victorino de la Plaza fue un abogado y político argentino, presidente de la Nación Argentina entre 1914 y 1916, tras la muerte de Roque Sáenz Peña. Su mandato estuvo marcado por la Primera Guerra Mundial y sus efectos sobre la economía argentina."
   },
   {
-    "id": 16,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Hipólito_Yrigoyen.jpg",
+    "id": 19,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Retrato_Yrigoyen_Museo_Bicentenario.jpg/113px-Retrato_Yrigoyen_Museo_Bicentenario.jpg",
     "name": "Hipólito",
     "lastName": "Yrigoyen",
     "startPeriodDate": "1916-10-12",
     "endPeriodDate": "1922-10-12",
     "politicalParty": "Unión Cívica Radical",
-    "description": "Hipólito Yrigoyen was an Argentine politician and the first President to be elected by secret ballot. His presidency from 1916 to 1922 was marked by social reforms and efforts to democratize the country.",
-    "cityId": 16,
-    "city": null
+    "description": "Hipólito Yrigoyen fue un político argentino, líder de la Unión Cívica Radical y presidente de la Nación Argentina en dos períodos (1916-1922 y 1928-1930). Su primer mandato se destacó por la implementación de políticas sociales y la expansión de la educación pública."
   },
   {
-    "id": 17,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Marcelo_T_de_Alvear.jpg",
+    "id": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Presidente_Marcelo_T._De_Alvear.jpg/113px-Presidente_Marcelo_T._De_Alvear.jpg",
     "name": "Marcelo Torcuato",
     "lastName": "de Alvear",
     "startPeriodDate": "1922-10-12",
     "endPeriodDate": "1928-10-12",
     "politicalParty": "Unión Cívica Radical",
-    "description": "Marcelo Torcuato de Alvear was an Argentine lawyer and politician who served as President from 1922 to 1928. His administration focused on economic development and modernization.",
-    "cityId": 17,
-    "city": null
+    "description": "Marcelo Torcuato de Alvear fue un abogado y político argentino, presidente de la Nación Argentina entre 1922 y 1928. Su gobierno se caracterizó por el crecimiento económico y la modernización del país."
   },
   {
-    "id": 18,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Hipólito_Yrigoyen.jpg",
+    "id": 21,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hip%C3%B3lito_Yrigoyen.jpg/113px-Hip%C3%B3lito_Yrigoyen.jpg",
     "name": "Hipólito",
     "lastName": "Yrigoyen",
     "startPeriodDate": "1928-10-12",
     "endPeriodDate": "1930-09-06",
     "politicalParty": "Unión Cívica Radical",
-    "description": "Hipólito Yrigoyen served as President of Argentina twice, from 1916 to 1922 and from 1928 to 1930. His second term ended in a military coup.",
-    "cityId": 18,
-    "city": null
+    "description": "Hipólito Yrigoyen fue un político argentino, líder de la Unión Cívica Radical y presidente de la Nación Argentina en dos períodos (1916-1922 y 1928-1930). Su segundo mandato terminó abruptamente con un golpe de estado en 1930."
   },
   {
-    "id": 19,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/José_Félix_Uriburu.jpg",
+    "id": 22,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jos%C3%A9_F%C3%A9lix_Uriburu.jpg/113px-Jos%C3%A9_F%C3%A9lix_Uriburu.jpg",
     "name": "José Félix",
     "lastName": "Uriburu",
     "startPeriodDate": "1930-09-06",
     "endPeriodDate": "1932-02-20",
-    "politicalParty": "Independent",
-    "description": "José Félix Uriburu was an Argentine general who led a coup d'état against President Hipólito Yrigoyen and served as de facto President from 1930 to 1932.",
-    "cityId": 19,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "José Félix Uriburu fue un militar y dictador argentino que asumió la presidencia de facto tras el golpe de estado de 1930. Su gobierno estuvo marcado por la represión y la instauración del régimen conservador conocido como la 'Década Infame'."
   },
   {
-    "id": 20,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Agustín_Pedro_Justo.jpg",
+    "id": 23,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Agustin_Pedro_Justo_en_1936.jpg/113px-Agustin_Pedro_Justo_en_1936.jpg",
     "name": "Agustín Pedro",
     "lastName": "Justo",
     "startPeriodDate": "1932-02-20",
     "endPeriodDate": "1938-02-20",
-    "politicalParty": "Concordancia",
-    "description": "Agustín Pedro Justo was an Argentine military officer and politician who served as President from 1932 to 1938. His administration focused on economic recovery and political stabilization.",
-    "cityId": 20,
-    "city": null
+    "politicalParty": "Partido Demócrata Nacional",
+    "description": "Agustín Pedro Justo fue un militar y político argentino, presidente de la Nación Argentina entre 1932 y 1938. Su mandato estuvo caracterizado por la política económica conocida como 'acuerdos de Roca-Runciman', que buscó fortalecer los lazos comerciales con el Reino Unido."
   },
   {
-    "id": 21,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Roberto_Marcelino_Ortiz.jpg",
+    "id": 24,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Robertomortiz.jpg/113px-Robertomortiz.jpg",
     "name": "Roberto Marcelino",
     "lastName": "Ortiz",
     "startPeriodDate": "1938-02-20",
     "endPeriodDate": "1942-06-27",
-    "politicalParty": "Radical Civic Union - Antipersonalist",
-    "description": "Roberto Marcelino Ortiz was an Argentine lawyer and politician who served as President from 1938 until his resignation due to illness in 1942. His term was marked by efforts to combat electoral fraud.",
-    "cityId": 21,
-    "city": null
+    "politicalParty": "Partido Demócrata Nacional",
+    "description": "Roberto Marcelino Ortiz fue un abogado y político argentino, presidente de la Nación Argentina entre 1938 y 1942. Su mandato estuvo marcado por intentos de democratización del país y la lucha contra el fraude electoral, pero debió renunciar debido a problemas de salud."
   },
   {
-    "id": 22,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Ramon_Castillo.jpg",
+    "id": 25,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ramoncastillo.jpg/113px-Ramoncastillo.jpg",
     "name": "Ramón",
     "lastName": "Castillo",
     "startPeriodDate": "1942-06-27",
     "endPeriodDate": "1943-06-04",
-    "politicalParty": "Concordancia",
-    "description": "Ramón Castillo was an Argentine lawyer and politician who served as President from 1942 to 1943. His term ended in a military coup.",
-    "cityId": 22,
-    "city": null
+    "politicalParty": "Partido Demócrata Nacional",
+    "description": "Ramón Castillo fue un abogado y político argentino, presidente de la Nación Argentina entre 1942 y 1943. Su gobierno terminó con el golpe de estado de 1943, que dio inicio a la denominada 'Revolución del 43'."
   },
   {
-    "id": 23,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pedro_Pablo_Ramírez.jpg",
+    "id": 26,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/PRamirez.jpg/113px-PRamirez.jpg",
     "name": "Pedro Pablo",
     "lastName": "Ramírez",
     "startPeriodDate": "1943-06-07",
-    "endPeriodDate": "1944-03-09",
-    "politicalParty": "Military",
-    "description": "Pedro Pablo Ramírez was an Argentine general who led a coup in 1943 and served as de facto President until 1944. His government enacted significant labor reforms.",
-    "cityId": 23,
-    "city": null
+    "endPeriodDate": "1944-02-25",
+    "politicalParty": "De facto",
+    "description": "Pedro Pablo Ramírez fue un militar y dictador argentino que asumió la presidencia de facto tras el golpe de estado de 1943. Su gobierno fue breve y concluyó con su renuncia, siendo sucedido por Edelmiro Farrell."
   },
   {
-    "id": 24,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Edelmiro_Julián_Farrell.jpg",
-    "name": "Edelmiro Julián",
+    "id": 27,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/E_Farrell.jpg/113px-E_Farrell.jpg",
+    "name": "Edelmiro",
     "lastName": "Farrell",
-    "startPeriodDate": "1944-03-09",
+    "startPeriodDate": "1944-02-25",
     "endPeriodDate": "1946-06-04",
-    "politicalParty": "Military",
-    "description": "Edelmiro Julián Farrell was an Argentine general who served as de facto President from 1944 to 1946. He played a key role in the rise of Juan Domingo Perón.",
-    "cityId": 24,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Edelmiro Farrell fue un militar y dictador argentino que asumió la presidencia de facto tras la renuncia de Pedro Pablo Ramírez. Durante su gobierno, Juan Domingo Perón comenzó a ganar popularidad, lo que preparó el camino para su ascenso al poder."
   },
   {
-    "id": 25,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Juan_Domingo_Perón.jpg",
+    "id": 28,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/RETRATO_FOTOGR%C3%81FICO_DE_PER%C3%93N.jpg/113px-RETRATO_FOTOGR%C3%81FICO_DE_PER%C3%93N.jpg",
     "name": "Juan Domingo",
     "lastName": "Perón",
     "startPeriodDate": "1946-06-04",
     "endPeriodDate": "1955-09-21",
     "politicalParty": "Partido Justicialista",
-    "description": "Juan Domingo Perón was an Argentine military officer and politician who served as President three times. His presidencies were marked by significant social, economic, and political changes.",
-    "cityId": 25,
-    "city": null
+    "description": "Juan Domingo Perón fue un militar y político argentino, presidente de la Nación Argentina en tres ocasiones (1946-1955, 1973-1974). Su primera y segunda presidencia estuvieron marcadas por la implementación de políticas de justicia social y el fortalecimiento de los derechos laborales."
   },
   {
-    "id": 26,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Eduardo_Lonardi.jpg",
+    "id": 29,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eduardo_Lonardi_sentado_con_microfono_%28cropped%29.jpg/111px-Eduardo_Lonardi_sentado_con_microfono_%28cropped%29.jpg",
     "name": "Eduardo",
     "lastName": "Lonardi",
     "startPeriodDate": "1955-09-23",
     "endPeriodDate": "1955-11-13",
-    "politicalParty": "Military",
-    "description": "Eduardo Lonardi was an Argentine general who briefly served as de facto President following the coup that ousted Juan Domingo Perón.",
-    "cityId": 26,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Eduardo Lonardi fue un militar argentino que asumió la presidencia de facto tras el golpe de estado que derrocó a Juan Domingo Perón en 1955. Su gobierno duró poco tiempo, siendo sucedido por Pedro Eugenio Aramburu."
   },
   {
-    "id": 27,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pedro_Eugenio_Aramburu.jpg",
+    "id": 30,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Aramburu_ca_1956.jpg/112px-Aramburu_ca_1956.jpg",
     "name": "Pedro Eugenio",
     "lastName": "Aramburu",
     "startPeriodDate": "1955-11-13",
     "endPeriodDate": "1958-05-01",
-    "politicalParty": "Military",
-    "description": "Pedro Eugenio Aramburu was an Argentine general who served as de facto President from 1955 to 1958. His government was marked by efforts to stabilize the economy and suppress Peronism.",
-    "cityId": 27,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Pedro Eugenio Aramburu fue un militar argentino que asumió la presidencia de facto tras la destitución de Eduardo Lonardi en 1955. Su gobierno se caracterizó por la proscripción del peronismo y la implementación de políticas de corte liberal."
   },
   {
-    "id": 28,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Arturo_Frondizi.jpg",
+    "id": 31,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Arturo_Frondizi_%28cropped%292.jpg/112px-Arturo_Frondizi_%28cropped%292.jpg",
     "name": "Arturo",
     "lastName": "Frondizi",
     "startPeriodDate": "1958-05-01",
     "endPeriodDate": "1962-03-29",
     "politicalParty": "Unión Cívica Radical Intransigente",
-    "description": "Arturo Frondizi was an Argentine lawyer and politician who served as President from 1958 to 1962. His administration focused on industrialization and economic development.",
-    "cityId": 28,
-    "city": null
+    "description": "Arturo Frondizi fue un abogado y político argentino, presidente de la Nación Argentina entre 1958 y 1962. Su gobierno se destacó por una política de desarrollo industrial y el establecimiento de relaciones diplomáticas con Cuba."
   },
   {
-    "id": 29,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/José_María_Guido.jpg",
+    "id": 32,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jos%C3%A9_Mar%C3%ADa_Guido_official_portrait_%28cropped%29.jpg/111px-Jos%C3%A9_Mar%C3%ADa_Guido_official_portrait_%28cropped%29.jpg",
     "name": "José María",
     "lastName": "Guido",
     "startPeriodDate": "1962-03-29",
     "endPeriodDate": "1963-10-12",
     "politicalParty": "Unión Cívica Radical del Pueblo",
-    "description": "José María Guido was an Argentine lawyer and politician who served as President from 1962 to 1963. He assumed the presidency following a military coup that ousted Arturo Frondizi.",
-    "cityId": 29,
-    "city": null
+    "description": "José María Guido fue un abogado y político argentino que asumió la presidencia de facto tras el derrocamiento de Arturo Frondizi en 1962. Durante su gobierno se mantuvo la proscripción del peronismo y se convocaron a elecciones generales."
   },
   {
-    "id": 30,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Arturo_Humberto_Illia.jpg",
-    "name": "Arturo Humberto",
+    "id": 33,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Illia_banda_presidencial_%28cropped%29.jpg/112px-Illia_banda_presidencial_%28cropped%29.jpg",
+    "name": "Arturo Umberto",
     "lastName": "Illia",
     "startPeriodDate": "1963-10-12",
     "endPeriodDate": "1966-06-28",
     "politicalParty": "Unión Cívica Radical del Pueblo",
-    "description": "Arturo Humberto Illia was an Argentine physician and politician who served as President from 1963 until his ousting in a military coup in 1966. His administration was marked by progressive reforms and economic development.",
-    "cityId": 30,
-    "city": null
+    "description": "Arturo Umberto Illia fue un médico y político argentino, presidente de la Nación Argentina entre 1963 y 1966. Su gobierno se destacó por una política de desarrollo social y económico, así como por la anulación de los contratos petroleros firmados por Frondizi."
   },
   {
-    "id": 31,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Juan_Carlos_Onganía_1966.jpg",
+    "id": 34,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ongan%C3%ADa_%28cropped%29.jpg/112px-Ongan%C3%ADa_%28cropped%29.jpg",
     "name": "Juan Carlos",
     "lastName": "Onganía",
-    "startPeriodDate": "1966-06-28",
+    "startPeriodDate": "1966-06-29",
     "endPeriodDate": "1970-06-08",
-    "politicalParty": "Military",
-    "description": "Juan Carlos Onganía was an Argentine general who led a coup in 1966 and served as de facto President until 1970. His government was marked by efforts to modernize the economy and suppress political dissent.",
-    "cityId": 31,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Juan Carlos Onganía fue un militar argentino que asumió la presidencia de facto tras el golpe de estado de 1966. Su gobierno se caracterizó por una política autoritaria y represiva, así como por la implementación del 'Plan de Lucha contra la Subversión'."
   },
   {
-    "id": 32,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Roberto_Levingston.jpg",
+    "id": 35,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Levingston_%28cropped%29.jpg/112px-Levingston_%28cropped%29.jpg",
     "name": "Roberto Marcelo",
     "lastName": "Levingston",
     "startPeriodDate": "1970-06-18",
     "endPeriodDate": "1971-03-22",
-    "politicalParty": "Military",
-    "description": "Roberto Marcelo Levingston was an Argentine general who served as de facto President from 1970 to 1971. His administration focused on economic policies and political stabilization.",
-    "cityId": 32,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Roberto Marcelo Levingston fue un militar argentino que asumió la presidencia de facto tras la destitución de Juan Carlos Onganía en 1970. Su gobierno duró menos de un año, siendo sucedido por Alejandro Agustín Lanusse."
   },
   {
-    "id": 33,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Alejandro_Agustin_Lanusse.jpg",
+    "id": 36,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Alejandro_Agust%C3%ADn_Lanusse_%28cropped%29.jpg/110px-Alejandro_Agust%C3%ADn_Lanusse_%28cropped%29.jpg",
     "name": "Alejandro Agustín",
     "lastName": "Lanusse",
     "startPeriodDate": "1971-03-22",
     "endPeriodDate": "1973-05-25",
-    "politicalParty": "Military",
-    "description": "Alejandro Agustín Lanusse was an Argentine general who served as de facto President from 1971 to 1973. He is known for initiating the return to democratic rule with the election of 1973.",
-    "cityId": 33,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Alejandro Agustín Lanusse fue un militar argentino que asumió la presidencia de facto tras la destitución de Roberto Marcelo Levingston en 1971. Su gobierno se caracterizó por la apertura política y la convocatoria a elecciones generales en 1973."
   },
   {
-    "id": 34,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Héctor_Cámpora_1973.jpg",
+    "id": 37,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/H%C3%A9ctor_Jos%C3%A9_C%C3%A1mpora.jpg/113px-H%C3%A9ctor_Jos%C3%A9_C%C3%A1mpora.jpg",
     "name": "Héctor José",
     "lastName": "Cámpora",
     "startPeriodDate": "1973-05-25",
     "endPeriodDate": "1973-07-13",
     "politicalParty": "Partido Justicialista",
-    "description": "Héctor José Cámpora was an Argentine politician who served as President for a brief period in 1973. He resigned to allow Juan Domingo Perón to return to power.",
-    "cityId": 34,
-    "city": null
+    "description": "Héctor José Cámpora fue un odontólogo y político argentino, presidente de la Nación Argentina por un breve período en 1973. Su mandato, conocido como el 'Cámpora al gobierno, Perón al poder', preparó el regreso de Juan Domingo Perón al país."
   },
   {
-    "id": 35,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Raúl_Lastiri.jpg",
+    "id": 38,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LastiriPresidente_%28cropped%29.jpg/112px-LastiriPresidente_%28cropped%29.jpg",
     "name": "Raúl Alberto",
     "lastName": "Lastiri",
     "startPeriodDate": "1973-07-13",
     "endPeriodDate": "1973-10-12",
     "politicalParty": "Partido Justicialista",
-    "description": "Raúl Alberto Lastiri was an Argentine politician who served as interim President from July to October 1973, facilitating the transition to Juan Domingo Perón's presidency.",
-    "cityId": 35,
-    "city": null
+    "description": "Raúl Alberto Lastiri fue un político argentino que asumió la presidencia interina de la Nación Argentina tras la renuncia de Héctor José Cámpora en 1973. Su breve mandato preparó el camino para la elección de Juan Domingo Perón."
   },
   {
-    "id": 36,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Juan_Domingo_Perón.jpg",
+    "id": 39,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Juan_Domingo_Peron_1973_-1977.png/113px-Juan_Domingo_Peron_1973_-1977.png",
     "name": "Juan Domingo",
     "lastName": "Perón",
     "startPeriodDate": "1973-10-12",
     "endPeriodDate": "1974-07-01",
     "politicalParty": "Partido Justicialista",
-    "description": "Juan Domingo Perón was an Argentine military officer and politician who served as President three times. His third term was cut short by his death in 1974.",
-    "cityId": 36,
-    "city": null
+    "description": "Juan Domingo Perón fue un militar y político argentino, presidente de la Nación Argentina en tres ocasiones (1946-1955, 1973-1974). Su tercer mandato fue interrumpido por su muerte en 1974."
   },
   {
-    "id": 37,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Isabel_Perón.png",
+    "id": 40,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ma._Estela_Martinez_Cartas_de_Peron.jpg/113px-Ma._Estela_Martinez_Cartas_de_Peron.jpg",
     "name": "María Estela",
     "lastName": "Martínez de Perón",
     "startPeriodDate": "1974-07-01",
     "endPeriodDate": "1976-03-24",
     "politicalParty": "Partido Justicialista",
-    "description": "María Estela Martínez de Perón, also known as Isabel Perón, was an Argentine politician and the third wife of Juan Domingo Perón. She served as President from 1974 to 1976.",
-    "cityId": 37,
-    "city": null
+    "description": "María Estela Martínez de Perón, conocida como Isabel Perón, fue una política argentina y la primera mujer en asumir la presidencia de la Nación Argentina, tras la muerte de su esposo, Juan Domingo Perón. Su gobierno fue derrocado por un golpe de estado en 1976."
   },
   {
-    "id": 38,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Jorge_Rafael_Videla.jpg",
+    "id": 41,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Retrato_Oficial_Jorge_Rafael_Videla_1976_%28cropped%292.jpg/112px-Retrato_Oficial_Jorge_Rafael_Videla_1976_%28cropped%292.jpg",
     "name": "Jorge Rafael",
     "lastName": "Videla",
     "startPeriodDate": "1976-03-24",
     "endPeriodDate": "1981-03-29",
-    "politicalParty": "Military",
-    "description": "Jorge Rafael Videla was an Argentine general who led a coup in 1976 and served as de facto President until 1981. His regime was marked by widespread human rights abuses.",
-    "cityId": 38,
-    "city": null
+    "politicalParty": "De facto",
+    "description": "Jorge Rafael Videla fue un militar argentino que encabezó el golpe de estado de 1976 y asumió la presidencia de facto. Su gobierno fue marcado por una severa represión y violaciones a los derechos humanos en la conocida 'Guerra Sucia'."
   },
   {
-    "id": 39,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Roberto_Viola.jpg",
+    "id": 42,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Roberto_Viola_con_banda_presidencial.jpg/113px-Roberto_Viola_con_banda_presidencial.jpg",
     "name": "Roberto Eduardo",
     "lastName": "Viola",
     "startPeriodDate": "1981-03-29",
     "endPeriodDate": "1981-12-11",
-    "politicalParty": "Military",
-    "description": "Roberto Eduardo Viola"
+    "politicalParty": "De facto",
+    "description": "Roberto Eduardo Viola fue un militar argentino que asumió la presidencia de facto tras la renuncia de Jorge Rafael Videla en 1981. Su mandato fue breve y terminó con su destitución en diciembre del mismo año."
+  },
+  {
+    "id": 43,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Carlos_Alberto_Lacoste_IMS.jpg/300px-Carlos_Alberto_Lacoste_IMS.jpg",
+    "name": "Carlos Alberto",
+    "lastName": "Lacoste",
+    "startPeriodDate": "1981-12-11",
+    "endPeriodDate": "1981-12-22",
+    "politicalParty": "De facto",
+    "description": "Carlos Alberto Lacoste fue un militar argentino que asumió interinamente la presidencia de facto en diciembre de 1981, tras la destitución de Roberto Eduardo Viola. Su breve mandato duró solo once días."
+  },
+  {
+    "id": 44,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Retrato_Oficial_Galtieri_%28cropped%29.jpg/112px-Retrato_Oficial_Galtieri_%28cropped%29.jpg",
+    "name": "Leopoldo Fortunato",
+    "lastName": "Galtieri",
+    "startPeriodDate": "1981-12-22",
+    "endPeriodDate": "1982-06-18",
+    "politicalParty": "De facto",
+    "description": "Leopoldo Fortunato Galtieri fue un militar argentino que asumió la presidencia de facto tras Carlos Alberto Lacoste en 1981. Su gobierno estuvo marcado por la Guerra de las Malvinas, que resultó en la derrota argentina y su posterior destitución."
+  },
+  {
+    "id": 45,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Bignone_banda_presidencial_%28cropped%29.png/111px-Bignone_banda_presidencial_%28cropped%29.png",
+    "name": "Reynaldo Benito Antonio",
+    "lastName": "Bignone",
+    "startPeriodDate": "1982-07-01",
+    "endPeriodDate": "1983-12-10",
+    "politicalParty": "De facto",
+    "description": "Reynaldo Benito Antonio Bignone fue un militar argentino que asumió la presidencia de facto tras la destitución de Leopoldo Fortunato Galtieri en 1982. Su gobierno marcó el final de la dictadura militar y la transición hacia la democracia en 1983."
+  },
+  {
+    "id": 46,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ra%C3%BAl_Alfons%C3%ADn_con_banda_presidencial.jpg/113px-Ra%C3%BAl_Alfons%C3%ADn_con_banda_presidencial.jpg",
+    "name": "Raúl Ricardo",
+    "lastName": "Alfonsín",
+    "startPeriodDate": "1983-12-10",
+    "endPeriodDate": "1989-07-08",
+    "politicalParty": "Unión Cívica Radical",
+    "description": "Raúl Ricardo Alfonsín fue un abogado y político argentino, presidente de la Nación Argentina entre 1983 y 1989. Su gobierno se destacó por la recuperación de la democracia, el juicio a las Juntas Militares y la implementación de políticas de derechos humanos."
+  },
+  {
+    "id": 47,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Menemposaretrato_%28cropped%29.png/112px-Menemposaretrato_%28cropped%29.png",
+    "name": "Carlos Saúl",
+    "lastName": "Menem",
+    "startPeriodDate": "1989-07-08",
+    "endPeriodDate": "1999-12-10",
+    "politicalParty": "Partido Justicialista",
+    "description": "Carlos Saúl Menem fue un abogado y político argentino, presidente de la Nación Argentina entre 1989 y 1999. Su gobierno se caracterizó por la implementación de políticas neoliberales, la privatización de empresas estatales y la reforma constitucional de 1994."
+  },
+  {
+    "id": 48,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg/113px-Fernando_de_la_R%C3%BAa_con_bast%C3%B3n_y_banda_de_presidente.jpg",
+    "name": "Fernando",
+    "lastName": "de la Rúa",
+    "startPeriodDate": "1999-12-10",
+    "endPeriodDate": "2001-12-21",
+    "politicalParty": "Alianza",
+    "description": "Fernando de la Rúa fue un abogado y político argentino, presidente de la Nación Argentina entre 1999 y 2001. Su gobierno terminó abruptamente en medio de una severa crisis económica y social, con su renuncia en diciembre de 2001."
+  },
+  {
+    "id": 49,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Asunci%C3%B3n_Rodr%C3%ADguez_Sa%C3%A1_%28cropped%29.jpg/113px-Asunci%C3%B3n_Rodr%C3%ADguez_Sa%C3%A1_%28cropped%29.jpg",
+    "name": "Adolfo",
+    "lastName": "Rodríguez Saá",
+    "startPeriodDate": "2001-12-23",
+    "endPeriodDate": "2001-12-30",
+    "politicalParty": "Partido Justicialista",
+    "description": "Adolfo Rodríguez Saá fue un político argentino que asumió la presidencia interina de la Nación Argentina en diciembre de 2001, tras la renuncia de Fernando de la Rúa. Su breve mandato duró solo una semana."
+  },
+  {
+    "id": 50,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Eduardo_duhalde_presidente.jpg/113px-Eduardo_duhalde_presidente.jpg",
+    "name": "Eduardo",
+    "lastName": "Duhalde",
+    "startPeriodDate": "2002-01-02",
+    "endPeriodDate": "2003-05-25",
+    "politicalParty": "Partido Justicialista",
+    "description": "Eduardo Duhalde fue un político argentino que asumió la presidencia interina de la Nación Argentina en enero de 2002, tras la crisis de diciembre de 2001. Su gobierno se centró en la estabilización económica y la recuperación de la confianza pública."
+  },
+  {
+    "id": 51,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kirchner_-_Galer%C3%ADa_de_Presidentes_de_casarosada.gob.ar.jpg/113px-Kirchner_-_Galer%C3%ADa_de_Presidentes_de_casarosada.gob.ar.jpg",
+    "name": "Néstor Carlos",
+    "lastName": "Kirchner",
+    "startPeriodDate": "2003-05-25",
+    "endPeriodDate": "2007-12-10",
+    "politicalParty": "Partido Justicialista",
+    "description": "Néstor Carlos Kirchner fue un abogado y político argentino, presidente de la Nación Argentina entre 2003 y 2007. Su gobierno se caracterizó por la recuperación económica, la reestructuración de la deuda externa y el fortalecimiento de las políticas de derechos humanos."
+  },
+  {
+    "id": 52,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cristina_Fernandez_de_Kirchner_-_Foto_Oficial_2.jpg/113px-Cristina_Fernandez_de_Kirchner_-_Foto_Oficial_2.jpg",
+    "name": "Cristina Elisabet",
+    "lastName": "Fernández de Kirchner",
+    "startPeriodDate": "2007-12-10",
+    "endPeriodDate": "2015-12-10",
+    "politicalParty": "Partido Justicialista",
+    "description": "Cristina Elisabet Fernández de Kirchner es una abogada y política argentina, presidenta de la Nación Argentina entre 2007 y 2015. Su gobierno se destacó por la implementación de políticas sociales, la estatización de empresas y la reforma de la justicia."
+  },
+  {
+    "id": 53,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Retrato_oficial_del_Presidente_Mauricio_Macri_%28cropped%292.jpg/113px-Retrato_oficial_del_Presidente_Mauricio_Macri_%28cropped%292.jpg",
+    "name": "Mauricio",
+    "lastName": "Macri",
+    "startPeriodDate": "2015-12-10",
+    "endPeriodDate": "2019-12-10",
+    "politicalParty": "Propuesta Republicana (PRO)",
+    "description": "Mauricio Macri es un empresario y político argentino, presidente de la Nación Argentina entre 2015 y 2019. Su gobierno se caracterizó por políticas económicas liberales, la apertura al mercado internacional y la implementación de reformas estructurales."
+  },
+  {
+    "id": 54,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alberto_fernandez_presidente_%28cropped%29.jpg/113px-Alberto_fernandez_presidente_%28cropped%29.jpg",
+    "name": "Alberto",
+    "lastName": "Fernández",
+    "startPeriodDate": "2019-12-10",
+    "endPeriodDate": "2023-12-10",
+    "politicalParty": "Partido Justicialista",
+    "description": "Alberto Ángel Fernández, es un abogado, profesor y político argentino que ejerció el cargo de presidente de la Nación Argentina desde el 10 de diciembre de 2019 hasta el 10 de diciembre de 2023 y el cargo de jefe de Gabinete de Ministros entre 2003 y 2008."
+  },
+  {
+    "id": 55,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Javier_Milei_en_el_Sal%C3%B3n_Blanco_%28cropped%29.jpg/113px-Javier_Milei_en_el_Sal%C3%B3n_Blanco_%28cropped%29.jpg",
+    "name": "Javier",
+    "lastName": "Milei",
+    "startPeriodDate": "2023-12-10",
+    "endPeriodDate": "Presente",
+    "politicalParty": "La Libertad Avanza",
+    "description": "Javier Gerardo Milei es un economista, político y docente argentino, actual presidente de la Nación Argentina desde el 10 de diciembre de 2023 y líder del espacio político La Libertad Avanza."
   }
 ]
