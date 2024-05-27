@@ -1,5 +1,12 @@
 import json
 
-def parse_json(file_path: str) -> dict:
-    with open(file_path, "r", encoding="utf-8") as file:
-        return json.load(file)
+def parse_json(file_path: str):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    
+    if isinstance(data, list):
+        return data
+    elif isinstance(data, dict):
+        return [data]  # Convert single object to a list
+    else:
+        raise ValueError("Invalid JSON data format")
