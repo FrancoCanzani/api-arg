@@ -1,0 +1,22 @@
+{
+  "id": 32,
+  "name": "Argentina",
+  "description": "Argentina, oficialmente República Argentina, es un país soberano de América del Sur, ubicado en el extremo sur y sudeste de dicho subcontinente. Adopta la forma de gobierno republicana, democrática, representativa y federal.",
+  "stateCapital": "Buenos Aires",
+  "surface": 2780400,
+  "population": 45195774,
+  "languages": ["Español"],
+  "timeZone": "Hora de Argentina (ART, GMT-3)",
+  "currency": "Peso argentino",
+  "currencyCode": "ARS",
+  "currencySymbol": "$",
+  "isoCode": "AR",
+  "internetDomain": ".ar",
+  "phonePrefix": "+54",
+  "radioPrefix": "LAA-LW",
+  "aircraftPrefix": "LV",
+  "subRegion": "América del Sur",
+  "region": "Américas",
+  "borders": ["Bolivia", "Brasil", "Chile", "Paraguay", "Uruguay"],
+  "flags": ["https://flagpedia.net/data/flags/normal/ar.png"]
+}
