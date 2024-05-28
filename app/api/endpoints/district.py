@@ -17,7 +17,7 @@ def get_district():
 
 
 @router.get("/id/{district_id}")
-def get_president_by_id(district_id: int):
+def get_district_by_id(district_id: int):
     filtered_districts = [
         district for district in district_data if district["id"] == district_id
     ]
