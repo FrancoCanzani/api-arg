@@ -1,4 +1,4 @@
-from fastapi import APIRouter, Depends
+from fastapi import APIRouter
 from app.utils.json_parser import parse_json
 
 router = APIRouter(
@@ -8,6 +8,7 @@ router = APIRouter(
 )
 
 argentina_data = parse_json("app/data/argentina.json")
+
 
 @router.get("/")
 def get_argentina():

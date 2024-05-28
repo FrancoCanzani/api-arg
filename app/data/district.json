@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Bandera_de_la_Provincia_de_Buenos_Aires.svg/150px-Bandera_de_la_Provincia_de_Buenos_Aires.svg.png",
+    "name": "Buenos Aires",
+    "capital": "La Plata",
+    "population": 17523996,
+    "surface": 307571,
+    "description": "Buenos Aires es una de las veinticuatro jurisdicciones de primer orden o «estados autogobernados» que conforman la República Argentina, uno de los veinticuatro distritos electorales legislativos nacionales y una de las veintitrés provincias que integran el país."
+  },
+  {
+    "id": 2,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bandera_de_la_Provincia_de_Catamarca.svg/150px-Bandera_de_la_Provincia_de_Catamarca.svg.png",
+    "name": "Catamarca",
+    "capital": "San Fernando del Valle de Catamarca",
+    "population": 429562,
+    "surface": 102602,
+    "description": "Catamarca es una de las veintitrés provincias en las que está dividida la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es San Fernando del Valle de Catamarca."
+  },
+  {
+    "id": 3,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandera_de_la_Provincia_del_Chaco.svg/150px-Bandera_de_la_Provincia_del_Chaco.svg.png",
+    "name": "Chaco",
+    "capital": "Resistencia",
+    "population": 1129606,
+    "surface": 99633,
+    "description": "Chaco es una de las veintitrés provincias de la República Argentina. A su vez, es una de las veinticuatro jurisdicciones autogobernadas que conforman el país y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es Resistencia."
+  },
+  {
+    "id": 4,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandera_de_la_Provincia_del_Chubut.svg/150px-Bandera_de_la_Provincia_del_Chubut.svg.png",
+    "name": "Chubut",
+    "capital": "Rawson",
+    "population": 592621,
+    "surface": 224686,
+    "description": "Chubut es una de las veintitrés provincias en las que está dividido administrativamente el territorio de la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital es Rawson y su ciudad más poblada, Comodoro Rivadavia. Está ubicada al centro sur de la región patagónica (entre los paralelos 42 y 46 de latitud sur), que ocupa la mitad sur del país, limitando al norte con Río Negro, al este con el mar Argentino (océano Atlántico), al sur con Santa Cruz y al oeste con las regiones chilenas de Los Lagos y de Aysén, cuyo límite está determinado por la divisoria de aguas de la cordillera de los Andes."
+  },
+  {
+    "id": 5,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bandera_de_la_Ciudad_de_Buenos_Aires.svg/150px-Bandera_de_la_Ciudad_de_Buenos_Aires.svg.png",
+    "name": "Ciudad Autónoma de Buenos Aires",
+    "capital": "",
+    "population": 3121707,
+    "surface": 203,
+    "description": "Buenos Aires es la capital y ciudad más poblada de la República Argentina. Sus nombres oficiales son Ciudad de Buenos Aires o Ciudad Autónoma de Buenos Aires (CABA). También es llamada Capital Federal, por ser la sede del Gobierno nacional. Es uno de los 24 distritos, o «jurisdicciones de primer orden», que conforman el país. Desde 1996 es una ciudad autónoma, por lo que tiene sus propios poderes ejecutivo, legislativo y judicial. Está situada en la región centro-este del país, sobre la orilla sur del Río de la Plata, en la región pampeana. La ciudad de Buenos Aires fue cedida en 1880 por la provincia de Buenos Aires para que fuera la capital federal del país; a partir de 2020 es considerada «capital principal», junto a 24 capitales alternas. En virtud de la reforma constitucional de 1994 goza de un régimen de autonomía."
+  },
+  {
+    "id": 6,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg/150px-Bandera_de_la_Provincia_de_C%C3%B3rdoba_2014.svg.png",
+    "name": "Cordoba",
+    "capital": "Córdoba",
+    "population": 3840905,
+    "surface": 165321,
+    "description": "Córdoba es una de las veintitrés provincias autónomas que integran la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima Córdoba, teniendo además como capital alterna a la ciudad de Villa de la Concepción del Río Cuarto según la Ley provincial N.º 10.169 promulgada el 25 de octubre de 2013."
+  },
+  {
+    "id": 7,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bandera_de_la_Provincia_de_Corrientes.svg/150px-Bandera_de_la_Provincia_de_Corrientes.svg.png",
+    "name": "Corrientes",
+    "capital": "Corrientes",
+    "population": 1212696,
+    "surface": 88199,
+    "description": "Corrientes es una de las veintitrés provincias de la República Argentina y de los veinticuatro estados autogobernados (o jurisdicciones de primer orden) que conforman el país, así como también uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y urbe más poblada es la homónima ciudad de Corrientes."
+  },
+  {
+    "id": 8,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg/150px-Bandera_de_la_Provincia_de_Entre_R%C3%ADos.svg.png",
+    "name": "Entre Ríos",
+    "capital": "Paraná",
+    "population": 1425578,
+    "surface": 78781,
+    "description": "Entre Ríos es una de las veintitrés provincias que conforman la República Argentina. A su vez, es uno de los 24 estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los 24 distritos electorales legislativos nacionales. Su capital y ciudad más poblada es Paraná."
+  },
+  {
+    "id": 9,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bandera_de_la_Provincia_de_Formosa.svg/150px-Bandera_de_la_Provincia_de_Formosa.svg.png",
+    "name": "Formosa",
+    "capital": "Formosa",
+    "population": 607419,
+    "surface": 72066,
+    "description": "Formosa es una de las veintitrés provincias de la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados que conforman el país y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima Formosa. Está ubicada en el noreste del país, en la región del Norte Grande Argentino, limitando al norte con el río Pilcomayo que la separa de Paraguay, al este con el río Paraguay que la separa de nuevo de Paraguay, al sur con los ríos Bermejo y Teuco que la separan de Chaco, y al oeste con Salta, mediante un meridiano."
+  },
+  {
+    "id": 10,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_the_Civil_Freedom_of_Argentina.svg/103px-Flag_of_the_Civil_Freedom_of_Argentina.svg.png",
+    "name": "Jujuy",
+    "iata_abbrev": "JY",
+    "capital": "San Salvador de Jujuy",
+    "population": 811611,
+    "surface": 53219,
+    "description": "Jujuy es una de las veintitrés provincias de la República Argentina que limita con Chile al Oeste y con Bolivia al Norte. A su vez, es uno de los estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Se ubica al noroeste del país, limitando al oeste con la República de Chile hasta el trifinio cerro Zapaleri, donde comienza su frontera con el Estado Plurinacional de Bolivia (hacia el norte), y al este y sur con la provincia de Salta. Su capital y ciudad más poblada es San Salvador de Jujuy, mientras que San Pedro de Jujuy, es su segundo centro de población más importante."
+  },
+  {
+    "id": 11,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bandera_de_la_Provincia_de_La_Pampa.svg/150px-Bandera_de_la_Provincia_de_La_Pampa.svg.png",
+    "name": "La Pampa",
+    "capital": "Santa Rosa",
+    "population": 361859,
+    "surface": 143440,
+    "description": "La Pampa, en el texto de la Constitución provincial: Provincia de La Pampa, es una de las veinticuatro jurisdicciones (23 provincias y una ciudad autónoma) que conforman la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es Santa Rosa."
+  },
+  {
+    "id": 12,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bandera_de_la_Provincia_de_La_Rioja.svg/150px-Bandera_de_la_Provincia_de_La_Rioja.svg.png",
+    "name": "La Rioja",
+    "capital": "La Rioja",
+    "population": 383865,
+    "surface": 89680,
+    "description": "La Rioja es una de las veintitrés provincias o estados federados de la República Argentina. Es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima La Rioja. Está ubicada en el noroeste del país, limitando al norte con Catamarca, al este con Córdoba, al sur con San Luis, al suroeste con San Juan y al noroeste con Chile, cuya frontera está determinada por la divisoria de aguas de la Cordillera de los Andes."
+  },
+  {
+    "id": 13,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Bandera_de_la_Provincia_de_Mendoza.svg/99px-Bandera_de_la_Provincia_de_Mendoza.svg.png",
+    "name": "Mendoza",
+    "capital": "Mendoza",
+    "population": 2043540,
+    "surface": 148827,
+    "description": "Mendoza es una de las veintitrés provincias de la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital es la homónima Mendoza."
+  },
+  {
+    "id": 14,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Misiones.svg/150px-Bandera_de_la_Provincia_de_Misiones.svg.png",
+    "name": "Misiones",
+    "capital": "Posadas",
+    "population": 1278873,
+    "surface": 29801,
+    "description": "Misiones es una de las veintitrés provincias de la República Argentina, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es Posadas. Está ubicada en el noreste del país, en la región del Norte Grande Argentino, limitando al norte y este con los ríos Iguazú, San Antonio, Pepirí Guazú y Uruguay que la separan de Brasil, al sur con Corrientes, por medio de los arroyos Itaembé y Chimiray, y al oeste con el río Paraná que la separa de Paraguay."
+  },
+  {
+    "id": 15,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bandera_de_la_Provincia_del_Neuquen.svg/150px-Bandera_de_la_Provincia_del_Neuquen.svg.png",
+    "name": "Neuquén",
+    "capital": "Neuquén",
+    "population": 710814,
+    "surface": 94078,
+    "description": "Neuquén es una de las veintitrés provincias que hay en la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima ciudad de Neuquén."
+  },
+  {
+    "id": 16,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg/150px-Bandera_de_la_Provincia_del_R%C3%ADo_Negro.svg.png",
+    "name": "Río Negro",
+    "capital": "Viedma",
+    "population": 750768,
+    "surface": 203013,
+    "description": "Río Negro es una de las veintitrés provincias que componen la República Argentina y uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y que a su vez son distritos electorales legislativos nacionales. Su capital es Viedma y su ciudad más poblada, San Carlos de Bariloche."
+  },
+  {
+    "id": 17,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bandera_de_la_Provincia_de_Salta.svg/150px-Bandera_de_la_Provincia_de_Salta.svg.png",
+    "name": "Salta",
+    "capital": "Salta",
+    "population": 1441351,
+    "surface": 155488,
+    "description": "Salta es una de las veintitrés provincias de la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital es la homónima Salta. Está ubicada al noroeste del país, limitando al norte con la provincia de Jujuy y con los departamentos de Potosí y Tarija, en Bolivia, hasta el trifinio hito Esmeralda, donde comienza su frontera con el departamento de Boquerón, en Paraguay, (hacia el noreste), al este con las provincias de Formosa y Chaco, al sur con las de Santiago del Estero, Tucumán y Catamarca, y al oeste con la Región de Antofagasta en Chile."
+  },
+  {
+    "id": 18,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_San_Juan_Province.svg/150px-Flag_of_the_San_Juan_Province.svg.png",
+    "name": "San Juan",
+    "capital": "San Juan",
+    "population": 822853,
+    "surface": 89651,
+    "description": "San Juan es una de las veintitrés provincias de la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima San Juan. Está ubicada en el noroeste de la región de Cuyo y más exactamente al oeste del país, limitando al noreste con La Rioja, al sureste con San Luis, al sur con Mendoza y al oeste con las regiones chilenas de Atacama, Coquimbo y Valparaíso."
+  },
+  {
+    "id": 19,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_la_Provincia_de_San_Luis.svg/150px-Bandera_de_la_Provincia_de_San_Luis.svg.png",
+    "name": "San Luis",
+    "capital": "San Luis",
+    "population": 542069,
+    "surface": 76748,
+    "description": "San Luis es una de las veintitrés provincias que integran la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima San Luis. Está ubicada al sureste de la región del Nuevo Cuyo, al oeste del país, limitando al norte con La Rioja, al este con Córdoba, al sureste y sur con la provincia de La Pampa, al oeste con el río Desaguadero que la separa de Mendoza, y al noroeste con San Juan."
+  },
+  {
+    "id": 20,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandera_de_la_Provincia_de_Santa_Cruz.svg/150px-Bandera_de_la_Provincia_de_Santa_Cruz.svg.png",
+    "name": "Santa Cruz",
+    "capital": "Río Gallegos",
+    "population": 337226,
+    "surface": 243943,
+    "description": "Santa Cruz es una de las veinticuatro provincias que hay en la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden y uno de los veinticuatro distritos electorales que conforman el país legislativos nacionales. Su capital y ciudad más poblada es Río Gallegos."
+  },
+  {
+    "id": 21,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bandera_de_la_Provincia_de_Santa_Fe.svg/150px-Bandera_de_la_Provincia_de_Santa_Fe.svg.png",
+    "name": "Santa Fe",
+    "capital": "Santa Fe",
+    "population": 3544908,
+    "surface": 133007,
+    "description": "Santa Fe es una de las veintitrés provincias que integran la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital es la ciudad de Santa Fe. Está ubicada en el oeste de la Región del Litoral y forma parte de la región integrada Centro, limitando al norte con Chaco, al este con el río Paraná que la separa de Corrientes y Entre Ríos, al sur con la provincia de Buenos Aires y al oeste con la provincia de Córdoba y Santiago del Estero."
+  },
+  {
+    "id": 22,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bandera_de_la_Provincia_de_Santiago_del_Estero.svg/150px-Bandera_de_la_Provincia_de_Santiago_del_Estero.svg.png",
+    "name": "Santiago del Estero",
+    "capital": "Santiago del Estero",
+    "population": 1060906,
+    "surface": 136351,
+    "description": "Santiago del Estero es una de las veintitrés provincias que integran la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital y ciudad más poblada es la homónima Santiago del Estero. Está ubicada al norte del país, en la región del Norte Grande Argentino, limitando al norte con Salta y Chaco, al este nuevamente con Chaco y Santa Fe, al sur con Córdoba y al oeste con Catamarca y Tucumán."
+  },
+  {
+    "id": 23,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg/150px-Bandera_de_la_Provincia_de_Tierra_del_Fuego.svg.png",
+    "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "capital": "Ushuaia",
+    "population": 185732,
+    "surface": 21571,
+    "description": "Tierra del Fuego, Antártida e Islas del Atlántico Sur es una de las veintitrés provincias que conforman la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital es Ushuaia y su ciudad más poblada es Río Grande."
+  },
+  {
+    "id": 24,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg/150px-Bandera_de_la_Provincia_de_Tucum%C3%A1n.svg.png",
+    "name": "Tucumán",
+    "capital": "San Miguel de Tucumán",
+    "population": 1731820,
+    "surface": 22524,
+    "description": "Tucumán es una de las veintitrés provincias que hay en la República Argentina. A su vez, es uno de los veinticuatro estados autogobernados o jurisdicciones de primer orden que conforman el país, y uno de los veinticuatro distritos electorales legislativos nacionales. Su capital es San Miguel de Tucumán, la ciudad más grande del Norte Argentino y la 5.ª más extensa y poblada del país con más de un millón de habitantes en su área metropolitana. Está ubicada en el noroeste del país, en la región del Norte Grande Argentino, limitando al norte con Salta, al este con Santiago del Estero y al sur y oeste con Catamarca."
+  }
+]
