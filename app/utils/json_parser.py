@@ -7,6 +7,6 @@ def parse_json(file_path: str):
     if isinstance(data, list):
         return data
     elif isinstance(data, dict):
-        return [data]  # Convert single object to a list
+        return [data] 
     else:
         raise ValueError("Invalid JSON data format")

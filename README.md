@@ -19,3 +19,9 @@ api-arg/
 │ └── presidentes.json
 │
 └── requirements.txt
+
+Fuentes:
+
+Wikipedia
+ChatGPT
+Censo 2022 https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165
