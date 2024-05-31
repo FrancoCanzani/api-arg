@@ -2,6 +2,8 @@ from fastapi import APIRouter, HTTPException
 from app.utils.json_parser import parse_json
 from datetime import datetime
 from app.utils.unidecode_parser import remove_accents
+from app.api.models.president import President
+from typing import List
 
 router = APIRouter(
     prefix="/api/v1/President",
@@ -9,27 +11,27 @@ router = APIRouter(
     responses={404: {"description": "Not found"}},
 )
 
-presidentes_data = parse_json("app/data/president.json")
+president_data = parse_json("app/data/president.json")
 
 
 @router.get("/")
-def get_presidents():
-    return presidentes_data
+def get_presidents() -> List[President]:
+    return president_data
 
 @router.get("/id/{president_id}")
-def get_president_by_id(president_id: int):
-    filtered_presidents = [president for president in presidentes_data if president["id"] == president_id]
+def get_president_by_id(president_id: int) -> President:
+    filtered_presidents = [president for president in president_data if president["id"] == president_id]
     if not filtered_presidents:
         raise HTTPException(status_code=404, detail="President not found")
     return filtered_presidents[0]
 
 @router.get("/name/{president_name}")
-def get_president_by_name(president_name: str):
+def get_president_by_name(president_name: str) -> List[President]:
     president_name_lower = president_name.lower()
     president_name_no_accents = remove_accents(president_name_lower)
     filtered_presidents = [
         president
-        for president in presidentes_data
+        for president in president_data
         if president_name_lower in president["name"].lower()
         or president_name_no_accents in remove_accents(president["name"]).lower()
         or president_name_lower in president["lastName"].lower()
@@ -40,9 +42,9 @@ def get_president_by_name(president_name: str):
     return filtered_presidents
 
 @router.get("/year/{period_year}")
-def get_president_by_year(period_year: str):
+def get_president_by_year(period_year: str) -> List[President]:
     filtered_presidents = []
-    for president in presidentes_data:
+    for president in president_data:
         start_year = int(president["startPeriodDate"][:4])
         end_year = None
         if president["endPeriodDate"].lower() == "presente":
@@ -56,12 +58,12 @@ def get_president_by_year(period_year: str):
     return filtered_presidents
 
 @router.get("/search/{keyword}")
-def get_president_by_keyword(keyword: str):
+def get_president_by_keyword(keyword: str) -> List[President]:
     keyword_lower = keyword.lower()
     keyword_no_accents = remove_accents(keyword_lower)
     filtered_presidents = [
         president
-        for president in presidentes_data
+        for president in president_data
         if keyword_lower in president["name"].lower()
         or keyword_no_accents in remove_accents(president["name"]).lower()
         or keyword_lower in president["lastName"].lower()

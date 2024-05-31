@@ -7,9 +7,9 @@
     "iata": "AEP",
     "anac": "AER",
     "name": "Aeroparque Jorge Newbery",
-    "district_id": 5,
+    "districtId": 5,
     "type": "national",
-    "total_passengers_2023": 15566000
+    "totalPassengers2023": 15566000
   },
   {
     "id": 2,
@@ -19,9 +19,9 @@
     "iata": "EZE",
     "anac": "EZE",
     "name": "Aeropuerto Internacional Ministro Pistarini",
-    "district_id": 1,
+    "districtId": 1,
     "type": "international",
-    "total_passengers_2023": 10297000
+    "totalPassengers2023": 10297000
   },
   {
     "id": 3,
@@ -31,9 +31,9 @@
     "iata": "BRC",
     "anac": "BAR",
     "name": "Aeropuerto Internacional Teniente Luis Candelaria",
-    "district_id": 16,
+    "districtId": 16,
     "type": "international",
-    "total_passengers_2023": 2534000
+    "totalPassengers2023": 2534000
   },
   {
     "id": 4,
@@ -43,9 +43,9 @@
     "iata": "COR",
     "anac": "CBA",
     "name": "Aeropuerto Internacional Ingeniero Ambrosio Taravella",
-    "district_id": 6,
+    "districtId": 6,
     "type": "international",
-    "total_passengers_2023": 2928000
+    "totalPassengers2023": 2928000
   },
   {
     "id": 5,
@@ -55,9 +55,9 @@
     "iata": "MDZ",
     "anac": "MDZ",
     "name": "Aeropuerto Internacional Gobernador Francisco Gabrielli",
-    "district_id": 13,
+    "districtId": 13,
     "type": "international",
-    "total_passengers_2023": 2404000
+    "totalPassengers2023": 2404000
   },
   {
     "id": 6,
@@ -67,9 +67,9 @@
     "iata": "IGR",
     "anac": "IGR",
     "name": "Aeropuerto Internacional Cataratas del Iguazú",
-    "district_id": 14,
+    "districtId": 14,
     "type": "international",
-    "total_passengers_2023": 1550000
+    "totalPassengers2023": 1550000
   },
   {
     "id": 7,
@@ -79,9 +79,9 @@
     "iata": "SLA",
     "anac": "SLA",
     "name": "Aeropuerto Internacional Martín Miguel de Güemes",
-    "district_id": 17,
+    "districtId": 17,
     "type": "international",
-    "total_passengers_2023": 1460000
+    "totalPassengers2023": 1460000
   },
   {
     "id": 8,
@@ -91,9 +91,9 @@
     "iata": "USH",
     "anac": "USH",
     "name": "Aeropuerto Internacional Malvinas Argentinas",
-    "district_id": 23,
+    "districtId": 23,
     "type": "international",
-    "total_passengers_2023": 1187000
+    "totalPassengers2023": 1187000
   },
   {
     "id": 9,
@@ -103,9 +103,9 @@
     "iata": "NQN",
     "anac": "NEU",
     "name": "Aeropuerto Internacional Presidente Perón",
-    "district_id": 15,
+    "districtId": 15,
     "type": "international",
-    "total_passengers_2023": 1126000
+    "totalPassengers2023": 1126000
   },
   {
     "id": 10,
@@ -115,9 +115,9 @@
     "iata": "FTE",
     "anac": "FTE",
     "name": "Aeropuerto Internacional Comandante Armando Tola",
-    "district_id": 20,
+    "districtId": 20,
     "type": "international",
-    "total_passengers_2023": 892000
+    "totalPassengers2023": 892000
   },
   {
     "id": 11,
@@ -127,9 +127,9 @@
     "iata": "TUC",
     "anac": "TUC",
     "name": "Aeropuerto Internacional Teniente Benjamín Matienzo",
-    "district_id": 24,
+    "districtId": 24,
     "type": "international",
-    "total_passengers_2023": 869000
+    "totalPassengers2023": 869000
   },
   {
     "id": 12,
@@ -139,9 +139,9 @@
     "iata": "JUJ",
     "anac": "JUJ",
     "name": "Aeropuerto Internacional Gobernador Horacio Guzmán",
-    "district_id": 10,
+    "districtId": 10,
     "type": "international",
-    "total_passengers_2023": 589000
+    "totalPassengers2023": 589000
   },
   {
     "id": 13,
@@ -151,9 +151,9 @@
     "iata": "CRD",
     "anac": "CRD",
     "name": "Aeropuerto Internacional General Enrique Mosconi",
-    "district_id": 4,
+    "districtId": 4,
     "type": "international",
-    "total_passengers_2023": 567000
+    "totalPassengers2023": 567000
   },
   {
     "id": 14,
@@ -163,9 +163,9 @@
     "iata": "ROS",
     "anac": "ROS",
     "name": "Aeropuerto Internacional Islas Malvinas",
-    "district_id": 21,
+    "districtId": 21,
     "type": "international",
-    "total_passengers_2023": 493000
+    "totalPassengers2023": 493000
   },
   {
     "id": 15,
@@ -175,9 +175,9 @@
     "iata": "PSS",
     "anac": "POS",
     "name": "Aeropuerto Internacional Libertador General José de San Martín",
-    "district_id": 14,
+    "districtId": 14,
     "type": "international",
-    "total_passengers_2023": 408000
+    "totalPassengers2023": 408000
   },
   {
     "id": 16,
@@ -187,9 +187,9 @@
     "iata": "CNQ",
     "anac": "CNQ",
     "name": "Aeropuerto Internacional Doctor Fernando Piragine Niveyro",
-    "district_id": 7,
+    "districtId": 7,
     "type": "international",
-    "total_passengers_2023": 309000
+    "totalPassengers2023": 309000
   },
   {
     "id": 17,
@@ -199,9 +199,9 @@
     "iata": "MDQ",
     "anac": "MDQ",
     "name": "Aeropuerto Internacional Astor Piazzolla",
-    "district_id": 1,
+    "districtId": 1,
     "type": "international",
-    "total_passengers_2023": 303000
+    "totalPassengers2023": 303000
   },
   {
     "id": 18,
@@ -211,9 +211,9 @@
     "iata": "REL",
     "anac": "REL",
     "name": "Aeropuerto Internacional Almirante Marcos A. Zar",
-    "district_id": 4,
+    "districtId": 4,
     "type": "international",
-    "total_passengers_2023": 298000
+    "totalPassengers2023": 298000
   },
   {
     "id": 19,
@@ -223,9 +223,9 @@
     "iata": "CPC",
     "anac": "CPC",
     "name": "Aeropuerto Aviador Carlos Campos",
-    "district_id": 15,
+    "districtId": 15,
     "type": "national",
-    "total_passengers_2023": 262000
+    "totalPassengers2023": 262000
   },
   {
     "id": 20,
@@ -235,9 +235,9 @@
     "iata": "BHI",
     "anac": "BHI",
     "name": "Aeropuerto Comandante Espora",
-    "district_id": 1,
+    "districtId": 1,
     "type": "national",
-    "total_passengers_2023": 253000
+    "totalPassengers2023": 253000
   },
   {
     "id": 21,
@@ -247,9 +247,9 @@
     "iata": "SDE",
     "anac": "SDE",
     "name": "Aeropuerto Vicecomodoro Ángel de la Paz Aragonés",
-    "district_id": 22,
+    "districtId": 22,
     "type": "national",
-    "total_passengers_2023": 237000
+    "totalPassengers2023": 237000
   },
   {
     "id": 22,
@@ -259,9 +259,9 @@
     "iata": "RGL",
     "anac": "RGL",
     "name": "Aeropuerto Internacional Piloto Civil Norberto Fernández",
-    "district_id": 20,
+    "districtId": 20,
     "type": "national",
-    "total_passengers_2023": 231000
+    "totalPassengers2023": 231000
   },
   {
     "id": 23,
@@ -271,9 +271,9 @@
     "iata": "UAQ",
     "anac": "UAQ",
     "name": "Aeropuerto Domingo Faustino Sarmiento",
-    "district_id": 18,
+    "districtId": 18,
     "type": "national",
-    "total_passengers_2023": 219000
+    "totalPassengers2023": 219000
   },
   {
     "id": 24,
@@ -283,9 +283,9 @@
     "iata": "PMY",
     "anac": "PMY",
     "name": "Aeropuerto El Tehuelche",
-    "district_id": 4,
+    "districtId": 4,
     "type": "national",
-    "total_passengers_2023": 196000
+    "totalPassengers2023": 196000
   },
   {
     "id": 25,
@@ -295,9 +295,9 @@
     "iata": "RES",
     "anac": "RES",
     "name": "Aeropuerto Internacional Doctor Fernando Piragine Niveyro",
-    "district_id": 3,
+    "districtId": 3,
     "type": "international",
-    "total_passengers_2023": 191000
+    "totalPassengers2023": 191000
   },
   {
     "id": 26,
@@ -307,9 +307,9 @@
     "iata": "RGA",
     "anac": "RGA",
     "name": "Aeropuerto Internacional Piloto Civil Norberto Fernández",
-    "district_id": 23,
+    "districtId": 23,
     "type": "international",
-    "total_passengers_2023": 154000
+    "totalPassengers2023": 154000
   },
   {
     "id": 27,
@@ -319,9 +319,9 @@
     "iata": "FMA",
     "anac": "FMA",
     "name": "Aeropuerto Internacional El Pucú",
-    "district_id": 9,
+    "districtId": 9,
     "type": "international",
-    "total_passengers_2023": 107000
+    "totalPassengers2023": 107000
   },
   {
     "id": 28,
@@ -331,9 +331,9 @@
     "iata": "EQS",
     "anac": "EQS",
     "name": "Aeropuerto Brigadier General Antonio Parodi",
-    "district_id": 4,
+    "districtId": 4,
     "type": "national",
-    "total_passengers_2023": 90000
+    "totalPassengers2023": 90000
   },
   {
     "id": 29,
@@ -343,9 +343,9 @@
     "iata": "SFN",
     "anac": "SFN",
     "name": "Aeropuerto Internacional Sauce Viejo",
-    "district_id": 21,
+    "districtId": 21,
     "type": "international",
-    "total_passengers_2023": 88000
+    "totalPassengers2023": 88000
   },
   {
     "id": 30,
@@ -355,9 +355,9 @@
     "iata": "IRJ",
     "anac": "IRJ",
     "name": "Aeropuerto Capitán Vicente Almandos Almonacid",
-    "district_id": 12,
+    "districtId": 12,
     "type": "national",
-    "total_passengers_2023": 79000
+    "totalPassengers2023": 79000
   },
   {
     "id": 31,
@@ -367,9 +367,9 @@
     "iata": "CTC",
     "anac": "CTC",
     "name": "Aeropuerto Coronel Felipe Varela",
-    "district_id": 2,
+    "districtId": 2,
     "type": "national",
-    "total_passengers_2023": 75000
+    "totalPassengers2023": 75000
   },
   {
     "id": 32,
@@ -379,9 +379,9 @@
     "iata": "LUQ",
     "anac": "LUQ",
     "name": "Aeropuerto Brigadier Mayor César Raúl Ojeda",
-    "district_id": 19,
+    "districtId": 19,
     "type": "national",
-    "total_passengers_2023": 70000
+    "totalPassengers2023": 70000
   },
   {
     "id": 33,
@@ -391,9 +391,9 @@
     "iata": "RSA",
     "anac": "RSA",
     "name": "Aeropuerto de Santa Rosa",
-    "district_id": 11,
+    "districtId": 11,
     "type": "national",
-    "total_passengers_2023": 52000
+    "totalPassengers2023": 52000
   },
   {
     "id": 34,
@@ -403,9 +403,9 @@
     "iata": "PRA",
     "anac": "PRA",
     "name": "Aeropuerto General Justo José de Urquiza",
-    "district_id": 8,
+    "districtId": 8,
     "type": "national",
-    "total_passengers_2023": 51000
+    "totalPassengers2023": 51000
   },
   {
     "id": 35,
@@ -415,9 +415,9 @@
     "iata": "AFA",
     "anac": "AFA",
     "name": "Aeropuerto Suboficial Ayudante Santiago Germanó",
-    "district_id": 13,
+    "districtId": 13,
     "type": "national",
-    "total_passengers_2023": 43000
+    "totalPassengers2023": 43000
   },
   {
     "id": 36,
@@ -427,9 +427,9 @@
     "iata": "VDM",
     "anac": "VDM",
     "name": "Aeropuerto Gobernador Edgardo Castello",
-    "district_id": 16,
+    "districtId": 16,
     "type": "national",
-    "total_passengers_2023": 37000
+    "totalPassengers2023": 37000
   },
   {
     "id": 37,
@@ -439,9 +439,9 @@
     "iata": "RCU",
     "anac": "RCU",
     "name": "Aeropuerto Ingeniero Ambrosio Taravella",
-    "district_id": 6,
+    "districtId": 6,
     "type": "national",
-    "total_passengers_2023": 28000
+    "totalPassengers2023": 28000
   },
   {
     "id": 38,
@@ -451,9 +451,9 @@
     "iata": "RHD",
     "anac": "RHD",
     "name": "Aeropuerto Internacional Termas de Río Hondo",
-    "district_id": 22,
+    "districtId": 22,
     "type": "international",
-    "total_passengers_2023": 13000
+    "totalPassengers2023": 13000
   },
   {
     "id": 39,
@@ -463,8 +463,8 @@
     "iata": "FDO",
     "anac": "SDF",
     "name": "Aeropuerto San Fernando",
-    "district_id": 1,
+    "districtId": 1,
     "type": "national",
-    "total_passengers_2023": 13000
+    "totalPassengers2023": 13000
   }
 ]

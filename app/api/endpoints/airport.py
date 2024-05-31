@@ -1,6 +1,8 @@
 from fastapi import APIRouter, HTTPException
 from app.utils.json_parser import parse_json
 from app.utils.unidecode_parser import remove_accents
+from app.api.models.airport import Airport
+from typing import List
 
 router = APIRouter(
     prefix="/api/v1/Airport",
@@ -12,12 +14,12 @@ airport_data = parse_json("app/data/airport.json")
 
 
 @router.get("/")
-def get_airport():
+def get_airport() -> List[Airport]:
     return airport_data
 
 
 @router.get("/id/{airport_id}")
-def get_airport_by_id(airport_id: int):
+def get_airport_by_id(airport_id: int) -> Airport:
     filtered_airports = [
         airport for airport in airport_data if airport["id"] == airport_id
     ]
@@ -29,7 +31,7 @@ def get_airport_by_id(airport_id: int):
 
 
 @router.get("/name/{airport_name}")
-def get_airport_by_name(airport_name: str):
+def get_airport_by_name(airport_name: str) -> List[Airport]:
     airport_name_lower = airport_name.lower()
     airport_name_no_accents = remove_accents(airport_name_lower)
     filtered_airports = [
@@ -46,7 +48,7 @@ def get_airport_by_name(airport_name: str):
 
 
 @router.get("/city/{airport_city}")
-def get_airport_by_city(airport_city: str):
+def get_airport_by_city(airport_city: str) -> List[Airport]:
     airport_city_lower = airport_city.lower()
     airport_city_no_accents = remove_accents(airport_city_lower)
     filtered_airports = [
@@ -63,7 +65,7 @@ def get_airport_by_city(airport_city: str):
 
 
 @router.get("/district/{airport_district}")
-def get_airport_by_district(airport_district: str):
+def get_airport_by_district(airport_district: str) -> List[Airport]:
     airport_district_lower = airport_district.lower()
     airport_district_no_accents = remove_accents(airport_district_lower)
     filtered_airports = [
@@ -80,7 +82,7 @@ def get_airport_by_district(airport_district: str):
 
 
 @router.get("/code/{airport_code}")
-def get_airport_by_code(airport_code: str):
+def get_airport_by_code(airport_code: str) -> List[Airport]:
     airport_code_lower = airport_code.lower()
     filtered_airports = [
         airport

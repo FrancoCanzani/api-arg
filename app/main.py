@@ -5,7 +5,7 @@ app = FastAPI(title="Api-Argentina")
 
 
 @app.get("/")
-async def root():
+def root():
     return "Hello world!"
 
 

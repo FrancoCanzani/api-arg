@@ -63,7 +63,7 @@
     "id": 5,
     "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bandera_de_la_Ciudad_de_Buenos_Aires.svg/150px-Bandera_de_la_Ciudad_de_Buenos_Aires.svg.png",
     "name": "Ciudad Autónoma de Buenos Aires",
-    "capital": "",
+    "capital": null,
     "population": 3121707,
     "surface": 203,
     "category": "Ciudad Autónoma",
