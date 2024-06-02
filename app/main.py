@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.api.endpoints import president, argentina, district, airport
+from app.api.endpoints import president, argentina, district, airport, department
 
 app = FastAPI(title="Api-Argentina")
 
@@ -13,3 +13,4 @@ app.include_router(president.router)
 app.include_router(argentina.router)
 app.include_router(district.router)
 app.include_router(airport.router)
+app.include_router(department.router)

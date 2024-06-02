@@ -5,7 +5,7 @@ from app.api.models.district import District
 from typing import List
 
 router = APIRouter(
-    prefix="/api/v1/District",
+    prefix="/api/v1/district",
     tags=["District"],
     responses={404: {"description": "Not found"}},
 )
@@ -20,14 +20,10 @@ def get_district() -> List[District]:
 
 @router.get("/id/{district_id}")
 def get_district_by_id(district_id: int) -> District:
-    filtered_districts = [
-        district for district in district_data if district["id"] == district_id
-    ]
-
-    if not filtered_districts:
+    for district in district_data:
+        if district["id"] == district_id:
+            return district
         raise HTTPException(status_code=404, detail="District not found")
-
-    return filtered_districts[0]
 
 
 @router.get("/name/{district_name}")
@@ -38,13 +34,14 @@ def get_district_by_name(district_name: str) -> List[District]:
         district
         for district in district_data
         if district_name_lower in district["name"].lower()
-        or district_name_no_accents in remove_accents(district["name"]).lower() 
+        or district_name_no_accents in remove_accents(district["name"]).lower()
     ]
 
     if not filtered_districts:
         raise HTTPException(status_code=404, detail="District not found")
 
     return filtered_districts
+
 
 @router.get("/capital/{district_capital}")
 def get_district_by_capital(district_capital: str) -> List[District]:
@@ -53,8 +50,8 @@ def get_district_by_capital(district_capital: str) -> List[District]:
     filtered_districts = [
         district
         for district in district_data
-        if district_capital_lower in district["capital"].lower() 
-        or district_capital_no_accents in remove_accents(district["capital"]).lower() 
+        if district_capital_lower in district["capital"].lower()
+        or district_capital_no_accents in remove_accents(district["capital"]).lower()
     ]
 
     if not filtered_districts:

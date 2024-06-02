@@ -10,5 +10,5 @@ class Airport(BaseModel):
     anac: str
     name: str
     districtId: int
-    type: Literal["national", "international"] 
+    type: Literal["nacional", "internacional"] 
     totalPassengers2023: int

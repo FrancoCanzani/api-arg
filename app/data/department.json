@@ -1,0 +1,6334 @@
+[
+  {
+    "id": 1,
+    "name": "Adolfo Gonzales Chaves",
+    "fullName": "Partido de Adolfo Gonzales Chaves",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0125815079288771
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.2482821323384, "lat": -37.9646159068483 }
+  },
+  {
+    "id": 2,
+    "name": "Concordia",
+    "fullName": "Departamento Concordia",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0414681664516468
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.2378696898985, "lat": -31.2902983724746 }
+  },
+  {
+    "id": 3,
+    "name": "Federal",
+    "fullName": "Departamento Federal",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0657426173552007
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.8918600477175, "lat": -30.9924267798293 }
+  },
+  {
+    "id": 4,
+    "name": "Gualeguaychú",
+    "fullName": "Departamento Gualeguaychú",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0970757725759829
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.7858051710614, "lat": -33.0223490410459 }
+  },
+  {
+    "id": 5,
+    "name": "Islas del Ibicuy",
+    "fullName": "Departamento Islas del Ibicuy",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0641372927357608
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.9338958542555, "lat": -33.6249961546235 }
+  },
+  {
+    "id": 6,
+    "name": "Victoria",
+    "fullName": "Departamento Victoria",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.08535097955251
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.2180700308372, "lat": -32.7839424597941 }
+  },
+  {
+    "id": 7,
+    "name": "Diamante",
+    "fullName": "Departamento Diamante",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.03422446464709
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.5239335893593, "lat": -32.228040549074 }
+  },
+  {
+    "id": 8,
+    "name": "Uruguay",
+    "fullName": "Departamento Uruguay",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0656693954597871
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.5842252100111, "lat": -32.4477599400377 }
+  },
+  {
+    "id": 9,
+    "name": "Paraná",
+    "fullName": "Departamento Paraná",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0648976911507347
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.0411744815271, "lat": -31.6952294494901 }
+  },
+  {
+    "id": 10,
+    "name": "Saladillo",
+    "fullName": "Partido de Saladillo",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0087272407383685
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.7026607444531, "lat": -35.676806451923 }
+  },
+  {
+    "id": 11,
+    "name": "Las Flores",
+    "fullName": "Partido de Las Flores",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0108187309918714
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1764609497072, "lat": -36.015826657022 }
+  },
+  {
+    "id": 12,
+    "name": "Rojas",
+    "fullName": "Partido de Rojas",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00652704312649808
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.7880234647739, "lat": -34.1928173894529 }
+  },
+  {
+    "id": 13,
+    "name": "Escobar",
+    "fullName": "Partido de Escobar",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000955034967498567
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.7711786108511, "lat": -34.3286828340822 }
+  },
+  {
+    "id": 14,
+    "name": "José C. Paz",
+    "fullName": "Partido de José C. Paz",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000159523784368258
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.7776345982883, "lat": -34.511853162718 }
+  },
+  {
+    "id": 15,
+    "name": "Bahía Blanca",
+    "fullName": "Partido de Bahía Blanca",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0076287302296
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.1694174494415, "lat": -38.5841892126256 }
+  },
+  {
+    "id": 16,
+    "name": "San Antonio de Areco",
+    "fullName": "Partido de San Antonio de Areco",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00273098396262856
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.5194434817548, "lat": -34.2207575658705 }
+  },
+  {
+    "id": 17,
+    "name": "Maipú",
+    "fullName": "Partido de Maipú",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00852590817145907
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.5861191040468, "lat": -36.886933208215 }
+  },
+  {
+    "id": 18,
+    "name": "General Alvarado",
+    "fullName": "Partido de General Alvarado",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00542289153650628
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.0718053725136, "lat": -38.2026277127362 }
+  },
+  {
+    "id": 19,
+    "name": "General Pueyrredón",
+    "fullName": "Partido de General Pueyrredón",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00485616159292092
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.743028347627, "lat": -37.9656831422541 }
+  },
+  {
+    "id": 20,
+    "name": "Mar Chiquita",
+    "fullName": "Partido de Mar Chiquita",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0101928457530162
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.6432660560016, "lat": -37.4986405981654 }
+  },
+  {
+    "id": 21,
+    "name": "Villa Gesell",
+    "fullName": "Partido de Villa Gesell",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000541777106644209
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.0633978822493, "lat": -37.3670719558785 }
+  },
+  {
+    "id": 22,
+    "name": "Pinamar",
+    "fullName": "Partido de Pinamar",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0002156207651597
+    },
+    "category": "partido",
+    "centroid": { "lon": -56.8702834122236, "lat": -37.1110742904936 }
+  },
+  {
+    "id": 23,
+    "name": "General Lavalle",
+    "fullName": "Partido de General Lavalle",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00882829392925035
+    },
+    "category": "partido",
+    "centroid": { "lon": -56.9410029895247, "lat": -36.650750377237 }
+  },
+  {
+    "id": 24,
+    "name": "La Costa",
+    "fullName": "Partido de La Costa",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000764027583219186
+    },
+    "category": "partido",
+    "centroid": { "lon": -56.7159402751909, "lat": -36.6971678213727 }
+  },
+  {
+    "id": 25,
+    "name": "Magdalena",
+    "fullName": "Partido de Magdalena",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00592850064090218
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.6861279818118, "lat": -35.1851030703307 }
+  },
+  {
+    "id": 26,
+    "name": "Sauce",
+    "fullName": "Departamento Sauce",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0282988986710765
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.7949968561603, "lat": -29.9995030631702 }
+  },
+  {
+    "id": 27,
+    "name": "Vicente López",
+    "fullName": "Partido de Vicente López",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000109553053877661
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5044865130649, "lat": -34.52653142362 }
+  },
+  {
+    "id": 28,
+    "name": "La Viña",
+    "fullName": "Departamento La Viña",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0130169439826571
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.5805831392571, "lat": -25.4471786730855 }
+  },
+  {
+    "id": 29,
+    "name": "Rauch",
+    "fullName": "Partido de Rauch",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0140638609551262
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.9441413666159, "lat": -36.5721944489319 }
+  },
+  {
+    "id": 30,
+    "name": "Metán",
+    "fullName": "Departamento Metán",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0341706113610445
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.5880714654829, "lat": -25.4252109663753 }
+  },
+  {
+    "id": 31,
+    "name": "Molinos",
+    "fullName": "Departamento Molinos",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0241553887647224
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.4548727525442, "lat": -25.5643165283563 }
+  },
+  {
+    "id": 32,
+    "name": "O'Higgins",
+    "fullName": "Departamento O'Higgins",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0158188618965095
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.6799749172166, "lat": -27.2556537688374 }
+  },
+  {
+    "id": 33,
+    "name": "Moreno",
+    "fullName": "Partido de Moreno",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000592812574517563
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.8108985084565, "lat": -34.6106807864965 }
+  },
+  {
+    "id": 34,
+    "name": "La Matanza",
+    "fullName": "Partido de La Matanza",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00104421888100573
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6254456945004, "lat": -34.7703481015398 }
+  },
+  {
+    "id": 35,
+    "name": "Tandil",
+    "fullName": "Partido de Tandil",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0159890350191502
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1819827896233, "lat": -37.3364293166464 }
+  },
+  {
+    "id": 36,
+    "name": "Coronel Suárez",
+    "fullName": "Partido de Coronel Suárez",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0197588558596591
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.8890922422146, "lat": -37.534856250067 }
+  },
+  {
+    "id": 37,
+    "name": "Chamical",
+    "fullName": "Departamento Chamical",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0605488854563919
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.9564977168655, "lat": -30.1676450229169 }
+  },
+  {
+    "id": 38,
+    "name": "Futaleufú",
+    "fullName": "Departamento Futaleufú",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0403243450762755
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.4554653748233, "lat": -43.0705971248375 }
+  },
+  {
+    "id": 39,
+    "name": "Río Chico",
+    "fullName": "Departamento Río Chico",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.137476439939694
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.113837498627, "lat": -48.2873290195571 }
+  },
+  {
+    "id": 40,
+    "name": "San Antonio",
+    "fullName": "Departamento San Antonio",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0714591672370002
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.3712443332326, "lat": -40.9526636914294 }
+  },
+  {
+    "id": 41,
+    "name": "Alberdi",
+    "fullName": "Departamento Alberdi",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0930587231610861
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.7280139284021, "lat": -26.5210423501695 }
+  },
+  {
+    "id": 42,
+    "name": "Juan Felipe Ibarra",
+    "fullName": "Departamento Juan Felipe Ibarra",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0676588956253692
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.5443747130478, "lat": -28.0394929915456 }
+  },
+  {
+    "id": 43,
+    "name": "General Taboada",
+    "fullName": "Departamento General Taboada",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0445275238257305
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.3387633833787, "lat": -28.5683250686056 }
+  },
+  {
+    "id": 44,
+    "name": "Salliqueló",
+    "fullName": "Partido de Salliqueló",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00260021005098978
+    },
+    "category": "partido",
+    "centroid": { "lon": -63.0479735266054, "lat": -36.6717775352133 }
+  },
+  {
+    "id": 45,
+    "name": "Berazategui",
+    "fullName": "Partido de Berazategui",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000702861385533554
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.155461508679, "lat": -34.8182447703794 }
+  },
+  {
+    "id": 46,
+    "name": "General Güemes",
+    "fullName": "Departamento General Güemes",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0141688649769075
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.9560620821107, "lat": -24.7646021168635 }
+  },
+  {
+    "id": 47,
+    "name": "San Carlos",
+    "fullName": "Departamento San Carlos",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0360647744849414
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.1746708204562, "lat": -25.8295042903902 }
+  },
+  {
+    "id": 48,
+    "name": "General Paz",
+    "fullName": "Partido de General Paz",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00385933575465238
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.389651959253, "lat": -35.466183010272 }
+  },
+  {
+    "id": 49,
+    "name": "General Guido",
+    "fullName": "Partido de General Guido",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00759535201216554
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.9957365952016, "lat": -36.6660345415851 }
+  },
+  {
+    "id": 50,
+    "name": "General Juan Madariaga",
+    "fullName": "Partido de General Juan Madariaga",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00979821124270234
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.2306605949345, "lat": -37.1535157186092 }
+  },
+  {
+    "id": 51,
+    "name": "Lago Argentino",
+    "fullName": "Departamento Lago Argentino",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.161094700744396
+    },
+    "category": "departamento",
+    "centroid": { "lon": -72.06547133431, "lat": -49.8364881436802 }
+  },
+  {
+    "id": 52,
+    "name": "Rivadavia",
+    "fullName": "Departamento Rivadavia",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0250912878062891
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.280260406999, "lat": -30.0205069976617 }
+  },
+  {
+    "id": 53,
+    "name": "Ojo de Agua",
+    "fullName": "Departamento Ojo de Agua",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0473615644009732
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.0144967880943, "lat": -29.3043766197306 }
+  },
+  {
+    "id": 54,
+    "name": "Choya",
+    "fullName": "Departamento Choya",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0456732041614853
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.7638924389835, "lat": -28.7541678003854 }
+  },
+  {
+    "id": 55,
+    "name": "Gobernador Dupuy",
+    "fullName": "Departamento Gobernador Dupuy",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.248865379651948
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.809487372821, "lat": -35.3684506230675 }
+  },
+  {
+    "id": 56,
+    "name": "Cachi",
+    "fullName": "Departamento Cachi",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0184272654698326
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.2026200885047, "lat": -25.038755786337 }
+  },
+  {
+    "id": 57,
+    "name": "Chicoana",
+    "fullName": "Departamento Chicoana",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0068253904301787
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.6063327574043, "lat": -25.1514413324719 }
+  },
+  {
+    "id": 58,
+    "name": "Gaiman",
+    "fullName": "Departamento Gaiman",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0513510410253859
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.1720705793314, "lat": -43.2725140893505 }
+  },
+  {
+    "id": 59,
+    "name": "Rawson",
+    "fullName": "Departamento Rawson",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0182374677148841
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.0757170605931, "lat": -43.1373292631623 }
+  },
+  {
+    "id": 60,
+    "name": "General Lamadrid",
+    "fullName": "Departamento General Lamadrid",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.06647462729753
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.6975444932226, "lat": -28.7904386774179 }
+  },
+  {
+    "id": 61,
+    "name": "Ayacucho",
+    "fullName": "Departamento Ayacucho",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.106278175822297
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.5423618070089, "lat": -32.1657217092103 }
+  },
+  {
+    "id": 62,
+    "name": "12 de Octubre",
+    "fullName": "Departamento 12 de Octubre",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0279260582227247
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.4758065480051, "lat": -27.3333760774448 }
+  },
+  {
+    "id": 63,
+    "name": "Tulumba",
+    "fullName": "Departamento Tulumba",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.057892422571753
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.8287887197042, "lat": -30.2195169248248 }
+  },
+  {
+    "id": 64,
+    "name": "Cruz del Eje",
+    "fullName": "Departamento Cruz del Eje",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0408160201155746
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.0782065927095, "lat": -30.6567576546802 }
+  },
+  {
+    "id": 65,
+    "name": "Punilla",
+    "fullName": "Departamento Punilla",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0148953248883072
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.5858722176043, "lat": -31.2187582835824 }
+  },
+  {
+    "id": 66,
+    "name": "Comuna 6",
+    "fullName": "Comuna 6",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0333181494150591
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4435682279951, "lat": -34.6168433901026 }
+  },
+  {
+    "id": 67,
+    "name": "Santa Rosa",
+    "fullName": "Departamento Santa Rosa",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0586184004432736
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.9638561142682, "lat": -33.6169989146657 }
+  },
+  {
+    "id": 68,
+    "name": "General Güemes",
+    "fullName": "Departamento General Güemes",
+    "district": { "id": 3, "name": "Chaco", "intersection": 0.255729006853091 },
+    "category": "departamento",
+    "centroid": { "lon": -61.3344270231873, "lat": -25.212576905898 }
+  },
+  {
+    "id": 69,
+    "name": "General Ortiz de Ocampo",
+    "fullName": "Departamento General Ortiz de Ocampo",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0414401905623246
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.0589849758729, "lat": -31.0067607030974 }
+  },
+  {
+    "id": 70,
+    "name": "General Roca",
+    "fullName": "Departamento General Roca",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0792845911385047
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.3730221441911, "lat": -34.6231276675475 }
+  },
+  {
+    "id": 71,
+    "name": "Pilagás",
+    "fullName": "Departamento Pilagás",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.0454733739158722
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.6616277481182, "lat": -25.1053773069172 }
+  },
+  {
+    "id": 72,
+    "name": "Laishi",
+    "fullName": "Departamento Laishi",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.0481299119517497
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.5654632415076, "lat": -26.4675822193402 }
+  },
+  {
+    "id": 73,
+    "name": "Rivadavia",
+    "fullName": "Departamento Rivadavia",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0139379904315996
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.6049732994365, "lat": -33.4170768899779 }
+  },
+  {
+    "id": 74,
+    "name": "Tornquist",
+    "fullName": "Partido de Tornquist",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0138642275437942
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.2905659977374, "lat": -38.2576421634805 }
+  },
+  {
+    "id": 75,
+    "name": "La Paz",
+    "fullName": "Departamento La Paz",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0499951009727235
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.2497236922759, "lat": -33.7012853202088 }
+  },
+  {
+    "id": 76,
+    "name": "Coronel Pringles",
+    "fullName": "Partido de Coronel Pringles",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0174995044798141
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.2644174529926, "lat": -38.1479172688233 }
+  },
+  {
+    "id": 77,
+    "name": "Conesa",
+    "fullName": "Departamento Conesa",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0482212733289042
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.3049127228304, "lat": -40.1487161931233 }
+  },
+  {
+    "id": 78,
+    "name": "Villarino",
+    "fullName": "Partido de Villarino",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0352925528699862
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.7245989548872, "lat": -39.1285652325867 }
+  },
+  {
+    "id": 79,
+    "name": "Pirané",
+    "fullName": "Departamento Pirané",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.11512914511408
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.1592563969217, "lat": -25.7672913544641 }
+  },
+  {
+    "id": 80,
+    "name": "General Pinto",
+    "fullName": "Partido de General Pinto",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00811763944867903
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.0398536742269, "lat": -34.6696214541604 }
+  },
+  {
+    "id": 81,
+    "name": "San Cayetano",
+    "fullName": "Partido de San Cayetano",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0100105599605396
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.5863264400332, "lat": -38.3890731972465 }
+  },
+  {
+    "id": 82,
+    "name": "Tres Arroyos",
+    "fullName": "Partido de Tres Arroyos",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0198292203846159
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.2374173247047, "lat": -38.5118142752579 }
+  },
+  {
+    "id": 83,
+    "name": "Coronel Dorrego",
+    "fullName": "Partido de Coronel Dorrego",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0195963244139277
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.0955505728699, "lat": -38.6708176079735 }
+  },
+  {
+    "id": 84,
+    "name": "Necochea",
+    "fullName": "Partido de Necochea",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0152226826107829
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1673869468897, "lat": -38.2554110045679 }
+  },
+  {
+    "id": 85,
+    "name": "Independencia",
+    "fullName": "Departamento Independencia",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0771605899117996
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.3355098029644, "lat": -30.1144556417024 }
+  },
+  {
+    "id": 86,
+    "name": "Chascomús",
+    "fullName": "Partido de Chascomús",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0101799067954983
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.9039810685242, "lat": -35.6186883086057 }
+  },
+  {
+    "id": 87,
+    "name": "Punta Indio",
+    "fullName": "Partido de Punta Indio",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00516090096133198
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.3992340402061, "lat": -35.4260558765566 }
+  },
+  {
+    "id": 88,
+    "name": "El Carmen",
+    "fullName": "Departamento El Carmen",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0172169730879855
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.1012859046503, "lat": -24.4475372667752 }
+  },
+  {
+    "id": 89,
+    "name": "Santa María",
+    "fullName": "Departamento Santa María",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0196554287066734
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.3059021632813, "lat": -31.7097123126909 }
+  },
+  {
+    "id": 90,
+    "name": "Valcheta",
+    "fullName": "Departamento Valcheta",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.105372741669725
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.3108907979663, "lat": -40.9744584304307 }
+  },
+  {
+    "id": 91,
+    "name": "Arauco",
+    "fullName": "Departamento Arauco",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0273199282584487
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.7191026010202, "lat": -28.5330436663011 }
+  },
+  {
+    "id": 92,
+    "name": "Lezama",
+    "fullName": "Partido de Lezama",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00338477188334675
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.8948443895452, "lat": -35.8492083919939 }
+  },
+  {
+    "id": 93,
+    "name": "Campana",
+    "fullName": "Partido de Campana",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00312248509034623
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.8829573786215, "lat": -34.1383889592817 }
+  },
+  {
+    "id": 94,
+    "name": "Magallanes",
+    "fullName": "Departamento Magallanes",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.0831418974898388
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4681621290535, "lat": -48.8383418227095 }
+  },
+  {
+    "id": 95,
+    "name": "Corpen Aike",
+    "fullName": "Departamento Corpen Aike",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.10981688469524
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.4469507226845, "lat": -49.9474837008291 }
+  },
+  {
+    "id": 96,
+    "name": "Minas",
+    "fullName": "Departamento Minas",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0214267460678437
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4119724397194, "lat": -31.0350313100891 }
+  },
+  {
+    "id": 97,
+    "name": "San Alberto",
+    "fullName": "Departamento San Alberto",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0204837249294779
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.1565147370037, "lat": -31.7080283283874 }
+  },
+  {
+    "id": 98,
+    "name": "Río Segundo",
+    "fullName": "Departamento Río Segundo",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0311408577814357
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.4748555205649, "lat": -31.7331087895549 }
+  },
+  {
+    "id": 99,
+    "name": "San Justo",
+    "fullName": "Departamento San Justo",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0934948511657996
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.5275890566991, "lat": -31.242567096662 }
+  },
+  {
+    "id": 100,
+    "name": "Unión",
+    "fullName": "Departamento Unión",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0666387409727991
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.7915970558691, "lat": -32.8783816611385 }
+  },
+  {
+    "id": 101,
+    "name": "Tercero Arriba",
+    "fullName": "Departamento Tercero Arriba",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0312458983469851
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.77900489607, "lat": -32.2876800226932 }
+  },
+  {
+    "id": 102,
+    "name": "Cerrillos",
+    "fullName": "Departamento Cerrillos",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.00349658406422265
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4038161087861, "lat": -24.9885439364757 }
+  },
+  {
+    "id": 103,
+    "name": "Río Cuarto",
+    "fullName": "Departamento Río Cuarto",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.114106099222601
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.4931343088767, "lat": -33.330534188986 }
+  },
+  {
+    "id": 104,
+    "name": "Tupungato",
+    "fullName": "Departamento Tupungato",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0162120665860152
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.2962859030556, "lat": -33.2934009869539 }
+  },
+  {
+    "id": 105,
+    "name": "9 de Julio",
+    "fullName": "Departamento 9 de Julio",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.119904659457391
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.4574916560521, "lat": -40.9255514713631 }
+  },
+  {
+    "id": 106,
+    "name": "Ñorquinco",
+    "fullName": "Departamento Ñorquinco",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0415805790545364
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.4011459093449, "lat": -41.7398229279456 }
+  },
+  {
+    "id": 107,
+    "name": "San Rafael",
+    "fullName": "Departamento San Rafael",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.211139849973339
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.384239783985, "lat": -34.9454490543358 }
+  },
+  {
+    "id": 108,
+    "name": "Anta",
+    "fullName": "Departamento Anta",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.145436111821103
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.8397263286188, "lat": -24.8754563539578 }
+  },
+  {
+    "id": 109,
+    "name": "Picún Leufú",
+    "fullName": "Departamento Picún Leufú",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0492045720295733
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.427190720517, "lat": -39.4039652237483 }
+  },
+  {
+    "id": 110,
+    "name": "Zapala",
+    "fullName": "Departamento Zapala",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0554898960703076
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.8223682005858, "lat": -38.9221765260283 }
+  },
+  {
+    "id": 111,
+    "name": "25 de Mayo",
+    "fullName": "Departamento 25 de Mayo",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.138158602752717
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.9063262041627, "lat": -41.1330450365746 }
+  },
+  {
+    "id": 112,
+    "name": "Telsen",
+    "fullName": "Departamento Telsen",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0847837179369281
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.176877305263, "lat": -42.4388519406853 }
+  },
+  {
+    "id": 113,
+    "name": "Pilcaniyeu",
+    "fullName": "Departamento Pilcaniyeu",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0546961572017353
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.4627105357719, "lat": -40.8875523576138 }
+  },
+  {
+    "id": 114,
+    "name": "Adolfo Alsina",
+    "fullName": "Partido de Adolfo Alsina",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0193344193827032
+    },
+    "category": "partido",
+    "centroid": { "lon": -63.0560551528803, "lat": -37.196762082356 }
+  },
+  {
+    "id": 115,
+    "name": "General Alvear",
+    "fullName": "Departamento General Alvear",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0994853305721354
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.0805881742222, "lat": -35.2188456896959 }
+  },
+  {
+    "id": 116,
+    "name": "La Caldera",
+    "fullName": "Departamento La Caldera",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.00704116329537906
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4290994435937, "lat": -24.5623996239199 }
+  },
+  {
+    "id": 117,
+    "name": "Sargento Cabral",
+    "fullName": "Departamento Sargento Cabral",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0166057700364561
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.5191057139149, "lat": -26.7997133020842 }
+  },
+  {
+    "id": 118,
+    "name": "Pellegrini",
+    "fullName": "Partido de Pellegrini",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00591539355058322
+    },
+    "category": "partido",
+    "centroid": { "lon": -63.2257521123403, "lat": -36.2711917055859 }
+  },
+  {
+    "id": 119,
+    "name": "Aluminé",
+    "fullName": "Departamento Aluminé",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0505556716084217
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.0463179632078, "lat": -39.1314863536249 }
+  },
+  {
+    "id": 120,
+    "name": "Iruya",
+    "fullName": "Departamento Iruya",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0224752365703669
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.9205141250691, "lat": -22.8153452313602 }
+  },
+  {
+    "id": 121,
+    "name": "Lácar",
+    "fullName": "Departamento Lácar",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0539400037312572
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.1842639628873, "lat": -40.314223088982 }
+  },
+  {
+    "id": 122,
+    "name": "Fray Mamerto Esquiú",
+    "fullName": "Departamento Fray Mamerto Esquiú",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.00184457359783941
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.731187897962, "lat": -28.3343382720204 }
+  },
+  {
+    "id": 123,
+    "name": "Valle Viejo",
+    "fullName": "Departamento Valle Viejo",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.00603917516405666
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.7079324164837, "lat": -28.6000684837485 }
+  },
+  {
+    "id": 124,
+    "name": "San Cosme",
+    "fullName": "Departamento San Cosme",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.00656267965068599
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.5174742251831, "lat": -27.3822986767274 }
+  },
+  {
+    "id": 125,
+    "name": "Sarmiento",
+    "fullName": "Departamento Sarmiento",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0665702915851048
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.0028400019161, "lat": -45.3450926864638 }
+  },
+  {
+    "id": 126,
+    "name": "Comuna 1",
+    "fullName": "Comuna 1",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0871020054010277
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.3715117424742, "lat": -34.6064435423382 }
+  },
+  {
+    "id": 127,
+    "name": "Comuna 4",
+    "fullName": "Comuna 4",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.110184004602526
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.3875614030278, "lat": -34.6421128950646 }
+  },
+  {
+    "id": 128,
+    "name": "El Cuy",
+    "fullName": "Departamento El Cuy",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.105337615212612
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4827895211107, "lat": -39.7003601698155 }
+  },
+  {
+    "id": 129,
+    "name": "Las Heras",
+    "fullName": "Departamento Las Heras",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0581331025066242
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.2679113756459, "lat": -32.5246239358788 }
+  },
+  {
+    "id": 130,
+    "name": "Tapenagá",
+    "fullName": "Departamento Tapenagá",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0606632712473233
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.827840211346, "lat": -27.6596299369227 }
+  },
+  {
+    "id": 131,
+    "name": "Lavalle",
+    "fullName": "Departamento Lavalle",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0661755198742047
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.8966912637568, "lat": -32.5754675617188 }
+  },
+  {
+    "id": 132,
+    "name": "Malargüe",
+    "fullName": "Departamento Malargüe",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.277196747900819
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.3130810458033, "lat": -36.1589400383152 }
+  },
+  {
+    "id": 133,
+    "name": "Presidente Roque Sáenz Peña",
+    "fullName": "Departamento Presidente Roque Sáenz Peña",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0511816720285519
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.4188652087471, "lat": -34.1404893695479 }
+  },
+  {
+    "id": 134,
+    "name": "Catán Lil",
+    "fullName": "Departamento Catán Lil",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0589853516427022
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.4335593332114, "lat": -39.4807942919835 }
+  },
+  {
+    "id": 135,
+    "name": "Presidencia de la Plaza",
+    "fullName": "Departamento Presidencia de la Plaza",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0226360157126791
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.7745640420007, "lat": -27.0446247369186 }
+  },
+  {
+    "id": 136,
+    "name": "Comuna 5",
+    "fullName": "Comuna 5",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0323918836977123
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4205721902504, "lat": -34.6173699237915 }
+  },
+  {
+    "id": 137,
+    "name": "Esquina",
+    "fullName": "Departamento Esquina",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0445714743057892
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.2413818424126, "lat": -29.985327366863 }
+  },
+  {
+    "id": 138,
+    "name": "Ushuaia",
+    "fullName": "Departamento Ushuaia",
+    "district": {
+      "id": 23,
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "intersection": 0.00189501966492348
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.6836200601613, "lat": -54.7704676359158 }
+  },
+  {
+    "id": 139,
+    "name": "Antofagasta de la Sierra",
+    "fullName": "Departamento Antofagasta de la Sierra",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.274022148805053
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.6778798484787, "lat": -25.9467556410811 }
+  },
+  {
+    "id": 140,
+    "name": "Ensenada",
+    "fullName": "Partido de Ensenada",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000362355107379883
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.9791090925538, "lat": -34.8421497421872 }
+  },
+  {
+    "id": 141,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.00403200129994109
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.2170208037282, "lat": -26.8332209186353 }
+  },
+  {
+    "id": 142,
+    "name": "Belgrano",
+    "fullName": "Departamento Belgrano",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0187400489977133
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.7047364516353, "lat": -32.6104361547012 }
+  },
+  {
+    "id": 143,
+    "name": "Pergamino",
+    "fullName": "Partido de Pergamino",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00948034134183856
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.5447828161659, "lat": -33.8360668139653 }
+  },
+  {
+    "id": 144,
+    "name": "Puán",
+    "fullName": "Partido de Puán",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0212075107214444
+    },
+    "category": "partido",
+    "centroid": { "lon": -63.0574326099086, "lat": -38.0760763207387 }
+  },
+  {
+    "id": 145,
+    "name": "General Villegas",
+    "fullName": "Partido de General Villegas",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0230643517196852
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.9541988413061, "lat": -34.7702605023112 }
+  },
+  {
+    "id": 146,
+    "name": "Comuna 12",
+    "fullName": "Comuna 12",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0759370848662676
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4904280414968, "lat": -34.5662276068999 }
+  },
+  {
+    "id": 147,
+    "name": "General Obligado",
+    "fullName": "Departamento General Obligado",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0815310573765514
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.5266963989458, "lat": -28.672536399396 }
+  },
+  {
+    "id": 148,
+    "name": "Vera",
+    "fullName": "Departamento Vera",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.152750984634252
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.4136679252075, "lat": -28.9706345150851 }
+  },
+  {
+    "id": 149,
+    "name": "9 de Julio",
+    "fullName": "Departamento 9 de Julio",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.127511919985812
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.3979945646643, "lat": -28.8486776771703 }
+  },
+  {
+    "id": 150,
+    "name": "Adolfo Alsina",
+    "fullName": "Departamento Adolfo Alsina",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0445239992656366
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.7651004404077, "lat": -40.7916894116905 }
+  },
+  {
+    "id": 151,
+    "name": "Quitilipi",
+    "fullName": "Departamento Quitilipi",
+    "district": { "id": 3, "name": "Chaco", "intersection": 0.015665623621735 },
+    "category": "departamento",
+    "centroid": { "lon": -60.1729742758302, "lat": -26.6663185244379 }
+  },
+  {
+    "id": 152,
+    "name": "Güer Aike",
+    "fullName": "Departamento Güer Aike",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.145191288324871
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.5618155469082, "lat": -51.4134125039336 }
+  },
+  {
+    "id": 153,
+    "name": "Capayán",
+    "fullName": "Departamento Capayán",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0432963524673839
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.9017191021383, "lat": -28.9094976289814 }
+  },
+  {
+    "id": 154,
+    "name": "Burruyacú",
+    "fullName": "Departamento Burruyacú",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.160147116921214
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.8195981132229, "lat": -26.5305481465544 }
+  },
+  {
+    "id": 155,
+    "name": "San Jerónimo",
+    "fullName": "Departamento San Jerónimo",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0337711906743083
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.0481265782097, "lat": -32.1537713587336 }
+  },
+  {
+    "id": 156,
+    "name": "Independencia",
+    "fullName": "Departamento Independencia",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0193349692759192
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.7563736019567, "lat": -26.735179032354 }
+  },
+  {
+    "id": 157,
+    "name": "Curuzú Cuatiá",
+    "fullName": "Departamento Curuzú Cuatiá",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0941121430129866
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.3248599040647, "lat": -29.6954668055505 }
+  },
+  {
+    "id": 158,
+    "name": "Luján de Cuyo",
+    "fullName": "Departamento Luján de Cuyo",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0317411828503623
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.4516850524047, "lat": -33.0384947617689 }
+  },
+  {
+    "id": 159,
+    "name": "Tinogasta",
+    "fullName": "Departamento Tinogasta",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.223132932847979
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.9307422147195, "lat": -27.5418355834148 }
+  },
+  {
+    "id": 160,
+    "name": "Comuna 7",
+    "fullName": "Comuna 7",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0604295563475675
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4518868569654, "lat": -34.636554414358 }
+  },
+  {
+    "id": 161,
+    "name": "Hucal",
+    "fullName": "Departamento Hucal",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0424522790423391
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.9544864276514, "lat": -37.9792315730965 }
+  },
+  {
+    "id": 162,
+    "name": "Itatí",
+    "fullName": "Departamento Itatí",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.00964913897414946
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.0713817911441, "lat": -27.3460559292444 }
+  },
+  {
+    "id": 163,
+    "name": "Comuna 10",
+    "fullName": "Comuna 10",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0614580246122407
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.5028178465965, "lat": -34.6278517920976 }
+  },
+  {
+    "id": 164,
+    "name": "Caleu Caleu",
+    "fullName": "Departamento Caleu Caleu",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0649222363776537
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.8968185406946, "lat": -38.6756398635536 }
+  },
+  {
+    "id": 165,
+    "name": "Lihuel Calel",
+    "fullName": "Departamento Lihuel Calel",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0884286195830349
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.0966893102146, "lat": -38.2616348854642 }
+  },
+  {
+    "id": 166,
+    "name": "Curacó",
+    "fullName": "Departamento Curacó",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0956600669055286
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.330067375997, "lat": -38.1797329921075 }
+  },
+  {
+    "id": 167,
+    "name": "Confluencia",
+    "fullName": "Departamento Confluencia",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0764841375638646
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.7940772839278, "lat": -38.8322794945189 }
+  },
+  {
+    "id": 168,
+    "name": "Picunches",
+    "fullName": "Departamento Picunches",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0639769151041468
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.3729610459357, "lat": -38.5742773422999 }
+  },
+  {
+    "id": 169,
+    "name": "Añelo",
+    "fullName": "Departamento Añelo",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.126937318587654
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.0157147264732, "lat": -38.0983759451619 }
+  },
+  {
+    "id": 170,
+    "name": "Loncopué",
+    "fullName": "Departamento Loncopué",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0578521994300578
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.3142327793889, "lat": -38.0659451614955 }
+  },
+  {
+    "id": 171,
+    "name": "Ñorquín",
+    "fullName": "Departamento Ñorquín",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0580030925188573
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.6780421229319, "lat": -37.6381186650332 }
+  },
+  {
+    "id": 172,
+    "name": "Pehuenches",
+    "fullName": "Departamento Pehuenches",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0868041193000128
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.4030432724945, "lat": -37.3984094176891 }
+  },
+  {
+    "id": 173,
+    "name": "Comuna 11",
+    "fullName": "Comuna 11",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0684139030743299
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4967420076817, "lat": -34.6061370106731 }
+  },
+  {
+    "id": 174,
+    "name": "Montecarlo",
+    "fullName": "Departamento Montecarlo",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0588598013287838
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.5631774506644, "lat": -26.6579081868111 }
+  },
+  {
+    "id": 175,
+    "name": "Eldorado",
+    "fullName": "Departamento Eldorado",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0573559435019427
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.4407363386816, "lat": -26.3138449972573 }
+  },
+  {
+    "id": 176,
+    "name": "San Pedro",
+    "fullName": "Departamento San Pedro",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.13614655907638
+    },
+    "category": "departamento",
+    "centroid": { "lon": -53.9629780421788, "lat": -26.62996077436 }
+  },
+  {
+    "id": 177,
+    "name": "Antártida Argentina",
+    "fullName": "Departamento Antártida Argentina",
+    "district": {
+      "id": 23,
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "intersection": 0.991219629079016
+    },
+    "category": "departamento",
+    "centroid": { "lon": -50.6480306037361, "lat": -82.7776766547034 }
+  },
+  {
+    "id": 178,
+    "name": "Minas",
+    "fullName": "Departamento Minas",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0626477435333247
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.78364814983, "lat": -36.8585578940124 }
+  },
+  {
+    "id": 179,
+    "name": "Chos Malal",
+    "fullName": "Departamento Chos Malal",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0474106205664361
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.2863793101158, "lat": -36.8805641891102 }
+  },
+  {
+    "id": 180,
+    "name": "Cushamen",
+    "fullName": "Departamento Cushamen",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0709886379754257
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.7119978032417, "lat": -42.3663973043627 }
+  },
+  {
+    "id": 181,
+    "name": "Lago Buenos Aires",
+    "fullName": "Departamento Lago Buenos Aires",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.112369788230935
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.6313995743965, "lat": -46.8342043710739 }
+  },
+  {
+    "id": 182,
+    "name": "Pichi Mahuida",
+    "fullName": "Departamento Pichi Mahuida",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0763799624980782
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.4007362191104, "lat": -39.4076049744942 }
+  },
+  {
+    "id": 183,
+    "name": "San Martín",
+    "fullName": "Departamento San Martín",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0131335064903253
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.854114579261, "lat": -28.1877612839021 }
+  },
+  {
+    "id": 184,
+    "name": "Yavi",
+    "fullName": "Departamento Yavi",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0560367790487708
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.5667394207971, "lat": -22.290645260596 }
+  },
+  {
+    "id": 185,
+    "name": "Santa Catalina",
+    "fullName": "Departamento Santa Catalina",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.054695033618386
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.227261407729, "lat": -22.1376406851166 }
+  },
+  {
+    "id": 186,
+    "name": "San Pedro",
+    "fullName": "Departamento San Pedro",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0387440651547718
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.8109899059972, "lat": -24.2985083171115 }
+  },
+  {
+    "id": 187,
+    "name": "Valle Grande",
+    "fullName": "Departamento Valle Grande",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0227911859564914
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.0120193444126, "lat": -23.4666140607053 }
+  },
+  {
+    "id": 188,
+    "name": "Patiño",
+    "fullName": "Departamento Patiño",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.347223533242539
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.9584280130313, "lat": -24.8750081858591 }
+  },
+  {
+    "id": 189,
+    "name": "Bermejo",
+    "fullName": "Departamento Bermejo",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.182567110064141
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.2828611773469, "lat": -24.0254990220968 }
+  },
+  {
+    "id": 190,
+    "name": "Susques",
+    "fullName": "Departamento Susques",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.191882155694169
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.6617118803761, "lat": -23.5206710927029 }
+  },
+  {
+    "id": 191,
+    "name": "Matacos",
+    "fullName": "Departamento Matacos",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.0532983170793434
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.0770650055764, "lat": -23.8544865427827 }
+  },
+  {
+    "id": 192,
+    "name": "Los Andes",
+    "fullName": "Departamento Los Andes",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.162031882941599
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.3440956899683, "lat": -24.6426248978878 }
+  },
+  {
+    "id": 193,
+    "name": "Orán",
+    "fullName": "Departamento Orán",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0744679766564289
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.150945650256, "lat": -23.4987916315192 }
+  },
+  {
+    "id": 194,
+    "name": "Tilcara",
+    "fullName": "Departamento Tilcara",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0398919318690272
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.3200105901478, "lat": -23.5604015183698 }
+  },
+  {
+    "id": 195,
+    "name": "Palpalá",
+    "fullName": "Departamento Palpalá",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.00922060669638629
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.1264498101135, "lat": -24.1949225166052 }
+  },
+  {
+    "id": 196,
+    "name": "Loventué",
+    "fullName": "Departamento Loventué",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0632271763147788
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.533063651288, "lat": -36.4785080840981 }
+  },
+  {
+    "id": 197,
+    "name": "Río Senguer",
+    "fullName": "Departamento Río Senguer",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.104668978044552
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.6400850098256, "lat": -45.3405591890669 }
+  },
+  {
+    "id": 198,
+    "name": "Bariloche",
+    "fullName": "Departamento Bariloche",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0272522226736633
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.5310863063756, "lat": -41.4981376652733 }
+  },
+  {
+    "id": 199,
+    "name": "Huiliches",
+    "fullName": "Departamento Huiliches",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0433605635228554
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.2590025540624, "lat": -39.7946776781884 }
+  },
+  {
+    "id": 200,
+    "name": "Limay Mahuida",
+    "fullName": "Departamento Limay Mahuida",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0700020806570264
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.5552326917265, "lat": -37.2419021199685 }
+  },
+  {
+    "id": 201,
+    "name": "Puelén",
+    "fullName": "Departamento Puelén",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0917966551942317
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.6045329036613, "lat": -37.4345215375332 }
+  },
+  {
+    "id": 202,
+    "name": "Chalileo",
+    "fullName": "Departamento Chalileo",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.060842373467729
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.5727424085761, "lat": -36.395699692841 }
+  },
+  {
+    "id": 203,
+    "name": "Chical Co",
+    "fullName": "Departamento Chical Co",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0623433099868185
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.6944669009179, "lat": -36.3969736431163 }
+  },
+  {
+    "id": 204,
+    "name": "Quebrachos",
+    "fullName": "Departamento Quebrachos",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0297173727865874
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.3484161216539, "lat": -29.3883234023198 }
+  },
+  {
+    "id": 205,
+    "name": "Monte Caseros",
+    "fullName": "Departamento Monte Caseros",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0307764860338142
+    },
+    "category": "departamento",
+    "centroid": { "lon": -57.870301871575, "lat": -30.2289612354938 }
+  },
+  {
+    "id": 206,
+    "name": "Mayor Luis J. Fontana",
+    "fullName": "Departamento Mayor Luis J. Fontana",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0375862973135226
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.6567128818538, "lat": -27.7429616104984 }
+  },
+  {
+    "id": 207,
+    "name": "Fray Justo Santa María de Oro",
+    "fullName": "Departamento Fray Justo Santa María de Oro",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0225438874241368
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.3012288739823, "lat": -27.8647076723602 }
+  },
+  {
+    "id": 208,
+    "name": "General Belgrano",
+    "fullName": "Departamento General Belgrano",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.031063913680683
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.9324739936757, "lat": -30.5778081168076 }
+  },
+  {
+    "id": 209,
+    "name": "Las Colonias",
+    "fullName": "Departamento Las Colonias",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0475450891415187
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.1094808023915, "lat": -31.3153379040603 }
+  },
+  {
+    "id": 210,
+    "name": "San Justo",
+    "fullName": "Departamento San Justo",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0420062321204617
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.4886940672178, "lat": -30.5304248144909 }
+  },
+  {
+    "id": 211,
+    "name": "San Cristóbal",
+    "fullName": "Departamento San Cristóbal",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.10942431471467
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.3599372073841, "lat": -30.2283897206038 }
+  },
+  {
+    "id": 212,
+    "name": "San Javier",
+    "fullName": "Departamento San Javier",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.049893566156432
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.8980704736792, "lat": -30.1041461062467 }
+  },
+  {
+    "id": 213,
+    "name": "Chapaleufú",
+    "fullName": "Departamento Chapaleufú",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0170093667454504
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.6603750662124, "lat": -35.2298937893695 }
+  },
+  {
+    "id": 214,
+    "name": "Realicó",
+    "fullName": "Departamento Realicó",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0166338437862428
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.2098498059179, "lat": -35.2306620563122 }
+  },
+  {
+    "id": 215,
+    "name": "Maracó",
+    "fullName": "Departamento Maracó",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0171826148806006
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.6624899647122, "lat": -35.6796161112326 }
+  },
+  {
+    "id": 216,
+    "name": "Trenel",
+    "fullName": "Departamento Trenel",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0137273538183808
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.2143766255202, "lat": -35.631875013139 }
+  },
+  {
+    "id": 217,
+    "name": "Copo",
+    "fullName": "Departamento Copo",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0937766069604329
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.7310972270609, "lat": -25.9391612005653 }
+  },
+  {
+    "id": 218,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0175767629252386
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.198128304565, "lat": -36.4980625982423 }
+  },
+  {
+    "id": 219,
+    "name": "Santa Bárbara",
+    "fullName": "Departamento Santa Bárbara",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0829076430130099
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.4023116738515, "lat": -24.007640144548 }
+  },
+  {
+    "id": 220,
+    "name": "Almirante Brown",
+    "fullName": "Departamento Almirante Brown",
+    "district": { "id": 3, "name": "Chaco", "intersection": 0.176482673443041 },
+    "category": "departamento",
+    "centroid": { "lon": -61.9589813624119, "lat": -25.7452119099225 }
+  },
+  {
+    "id": 221,
+    "name": "Rosario de la Frontera",
+    "fullName": "Departamento Rosario de la Frontera",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0353758828222837
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.7288089239246, "lat": -25.8715613006323 }
+  },
+  {
+    "id": 222,
+    "name": "Collón Curá",
+    "fullName": "Departamento Collón Curá",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0623305107879592
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.2813667759367, "lat": -40.0529194288429 }
+  },
+  {
+    "id": 223,
+    "name": "Comuna 3",
+    "fullName": "Comuna 3",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0310554413140466
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4026514511807, "lat": -34.6138430816924 }
+  },
+  {
+    "id": 224,
+    "name": "San Fernando",
+    "fullName": "Partido de San Fernando",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00341619505559662
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5345816568901, "lat": -34.1558361119161 }
+  },
+  {
+    "id": 225,
+    "name": "Tigre",
+    "fullName": "Partido de Tigre",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00137293522010512
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5881738725709, "lat": -34.382019907997 }
+  },
+  {
+    "id": 226,
+    "name": "Santa María",
+    "fullName": "Departamento Santa María",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0538396608134818
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.2612705245824, "lat": -26.7734648563207 }
+  },
+  {
+    "id": 227,
+    "name": "Santa Rosa",
+    "fullName": "Departamento Santa Rosa",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0158071301342941
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.3350824661739, "lat": -28.082107971849 }
+  },
+  {
+    "id": 228,
+    "name": "La Paz",
+    "fullName": "Departamento La Paz",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0831710778153799
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.1920338746874, "lat": -29.3955036215545 }
+  },
+  {
+    "id": 229,
+    "name": "Río Hondo",
+    "fullName": "Departamento Río Hondo",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0148991768678778
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.7601169003321, "lat": -27.4855424248983 }
+  },
+  {
+    "id": 230,
+    "name": "Vinchina",
+    "fullName": "Departamento Vinchina",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.12310962382507
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.5252928296074, "lat": -28.3166977149073 }
+  },
+  {
+    "id": 231,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.146560015973895
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.3526000997493, "lat": -29.4605896547988 }
+  },
+  {
+    "id": 232,
+    "name": "Río Seco",
+    "fullName": "Departamento Río Seco",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0401784049917181
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.1990187799045, "lat": -30.0450412488063 }
+  },
+  {
+    "id": 233,
+    "name": "Avellaneda",
+    "fullName": "Departamento Avellaneda",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.096722575961708
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.20639651701, "lat": -39.4102626929359 }
+  },
+  {
+    "id": 234,
+    "name": "General Roca",
+    "fullName": "Departamento General Roca",
+    "district": {
+      "id": 16,
+      "name": "Río Negro",
+      "intersection": 0.0703904436862414
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.5574036622512, "lat": -38.5298947783261 }
+  },
+  {
+    "id": 235,
+    "name": "Belgrano",
+    "fullName": "Departamento Belgrano",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.106028810154093
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.7150525486673, "lat": -32.7356111326592 }
+  },
+  {
+    "id": 236,
+    "name": "Los Lagos",
+    "fullName": "Departamento Los Lagos",
+    "district": {
+      "id": 15,
+      "name": "Neuquén",
+      "intersection": 0.0460172840025797
+    },
+    "category": "departamento",
+    "centroid": { "lon": -71.4867232511371, "lat": -40.7743503720999 }
+  },
+  {
+    "id": 237,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0039879717249771
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.8367262921682, "lat": -28.4117889646495 }
+  },
+  {
+    "id": 238,
+    "name": "Ancasti",
+    "fullName": "Departamento Ancasti",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0196296723382091
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.504299177941, "lat": -28.9274130674418 }
+  },
+  {
+    "id": 239,
+    "name": "Pomán",
+    "fullName": "Departamento Pomán",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0495295575286747
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.3888045363986, "lat": -28.2337589059236 }
+  },
+  {
+    "id": 240,
+    "name": "Comuna 2",
+    "fullName": "Comuna 2",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0307396555312833
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.3949035422527, "lat": -34.5857888788086 }
+  },
+  {
+    "id": 241,
+    "name": "9 de Julio",
+    "fullName": "Departamento 9 de Julio",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0218048381290827
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.264612522285, "lat": -26.9436383020752 }
+  },
+  {
+    "id": 242,
+    "name": "Pocho",
+    "fullName": "Departamento Pocho",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0184808477584561
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4351550968219, "lat": -31.4627416617352 }
+  },
+  {
+    "id": 243,
+    "name": "Ezeiza",
+    "fullName": "Partido de Ezeiza",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000760607577910911
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5647013731149, "lat": -34.8760968437468 }
+  },
+  {
+    "id": 244,
+    "name": "Andalgalá",
+    "fullName": "Departamento Andalgalá",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0535983009279175
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.3731024938335, "lat": -27.5728459104474 }
+  },
+  {
+    "id": 245,
+    "name": "Ambato",
+    "fullName": "Departamento Ambato",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.0180726497030384
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.9227878835948, "lat": -28.0199741656262 }
+  },
+  {
+    "id": 246,
+    "name": "Comuna 8",
+    "fullName": "Comuna 8",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.108858625526761
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.461948060155, "lat": -34.6745664758358 }
+  },
+  {
+    "id": 247,
+    "name": "Guasayán",
+    "fullName": "Departamento Guasayán",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0194738344899015
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.8712241216861, "lat": -27.9768511960939 }
+  },
+  {
+    "id": 248,
+    "name": "Paclín",
+    "fullName": "Departamento Paclín",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.00980737231272536
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.6743180153264, "lat": -28.1103167424607 }
+  },
+  {
+    "id": 249,
+    "name": "El Alto",
+    "fullName": "Departamento El Alto",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.019114912980991
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.3604289203864, "lat": -28.4317063831316 }
+  },
+  {
+    "id": 250,
+    "name": "Sobremonte",
+    "fullName": "Departamento Sobremonte",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0192087923431631
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.1425182645874, "lat": -29.7643092597004 }
+  },
+  {
+    "id": 251,
+    "name": "Río Grande",
+    "fullName": "Departamento Río Grande",
+    "district": {
+      "id": 23,
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "intersection": 0.00157954813734915
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.1361046544505, "lat": -53.7462919871752 }
+  },
+  {
+    "id": 252,
+    "name": "Comuna 13",
+    "fullName": "Comuna 13",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0728411752698025
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4540029618054, "lat": -34.5541262964697 }
+  },
+  {
+    "id": 253,
+    "name": "Banda",
+    "fullName": "Departamento Banda",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0251817731510724
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.2098658068652, "lat": -27.4347067680665 }
+  },
+  {
+    "id": 254,
+    "name": "Paso de Indios",
+    "fullName": "Departamento Paso de Indios",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0994483370030782
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.6858628378531, "lat": -44.0301843801728 }
+  },
+  {
+    "id": 255,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.00346989255240649
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.1835837727284, "lat": -31.4167568770155 }
+  },
+  {
+    "id": 256,
+    "name": "Mártires",
+    "fullName": "Departamento Mártires",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0697301733953713
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.2399811031767, "lat": -43.8138479495924 }
+  },
+  {
+    "id": 257,
+    "name": "Sarmiento",
+    "fullName": "Departamento Sarmiento",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0123264541477208
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.4461751488241, "lat": -28.1061147414452 }
+  },
+  {
+    "id": 258,
+    "name": "Deseado",
+    "fullName": "Departamento Deseado",
+    "district": {
+      "id": 20,
+      "name": "Santa Cruz",
+      "intersection": 0.250909000575024
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.0290548030539, "lat": -47.3305629962178 }
+  },
+  {
+    "id": 259,
+    "name": "Languiñeo",
+    "fullName": "Departamento Languiñeo",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0654155141491938
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.3484079877641, "lat": -43.3234918785199 }
+  },
+  {
+    "id": 260,
+    "name": "Belgrano",
+    "fullName": "Departamento Belgrano",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0246950664632845
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.2182795085019, "lat": -29.0815053728088 }
+  },
+  {
+    "id": 261,
+    "name": "Aguirre",
+    "fullName": "Departamento Aguirre",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0303582671038052
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.5150973801298, "lat": -29.2979732282428 }
+  },
+  {
+    "id": 262,
+    "name": "Maipú",
+    "fullName": "Departamento Maipú",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0291956625240508
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.4546439783309, "lat": -26.3190099893669 }
+  },
+  {
+    "id": 263,
+    "name": "San Carlos",
+    "fullName": "Departamento San Carlos",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.077034761586294
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.0973090508602, "lat": -34.0755248766466 }
+  },
+  {
+    "id": 264,
+    "name": "Tunuyán",
+    "fullName": "Departamento Tunuyán",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.022412326438272
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.5092965661889, "lat": -33.6228877049098 }
+  },
+  {
+    "id": 265,
+    "name": "Robles",
+    "fullName": "Departamento Robles",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0098975698223108
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.9075092603375, "lat": -27.8539440726978 }
+  },
+  {
+    "id": 266,
+    "name": "Loreto",
+    "fullName": "Departamento Loreto",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0229263538743628
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.3107274308462, "lat": -28.6244804370084 }
+  },
+  {
+    "id": 267,
+    "name": "Catriló",
+    "fullName": "Departamento Catriló",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0173707799637216
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.6648685343036, "lat": -36.581670209145 }
+  },
+  {
+    "id": 268,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0155202674735991
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.435667540413, "lat": -27.8847652276627 }
+  },
+  {
+    "id": 269,
+    "name": "Comuna 14",
+    "fullName": "Comuna 14",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0770527312124967
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4222940810483, "lat": -34.573874740768 }
+  },
+  {
+    "id": 270,
+    "name": "Colón",
+    "fullName": "Departamento Colón",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0351976870798207
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.3699129592392, "lat": -32.0114827530749 }
+  },
+  {
+    "id": 271,
+    "name": "Villaguay",
+    "fullName": "Departamento Villaguay",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0835415457146686
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.0594708103114, "lat": -31.6477388964372 }
+  },
+  {
+    "id": 272,
+    "name": "Castelli",
+    "fullName": "Partido de Castelli",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00684408053432825
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.6574251943684, "lat": -36.0414897439213 }
+  },
+  {
+    "id": 273,
+    "name": "San Salvador",
+    "fullName": "Departamento San Salvador",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0168883561457195
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.4863728567569, "lat": -31.576883538854 }
+  },
+  {
+    "id": 274,
+    "name": "Belén",
+    "fullName": "Departamento Belén",
+    "district": {
+      "id": 2,
+      "name": "Catamarca",
+      "intersection": 0.125106510838011
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.9224805098511, "lat": -27.1019560038189 }
+  },
+  {
+    "id": 275,
+    "name": "Almirante Brown",
+    "fullName": "Partido de Almirante Brown",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000412620123475506
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.36737293295, "lat": -34.8356191132679 }
+  },
+  {
+    "id": 276,
+    "name": "Nogoyá",
+    "fullName": "Departamento Nogoyá",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0559461451741784
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.7697019154662, "lat": -32.2187123476403 }
+  },
+  {
+    "id": 277,
+    "name": "Tala",
+    "fullName": "Departamento Tala",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0338087784002675
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.2672864854832, "lat": -32.3174117218427 }
+  },
+  {
+    "id": 278,
+    "name": "Gualeguay",
+    "fullName": "Departamento Gualeguay",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0851835193267055
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.6014598265182, "lat": -33.1192366285416 }
+  },
+  {
+    "id": 279,
+    "name": "Federación",
+    "fullName": "Departamento Federación",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0474493129776134
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.1591551818899, "lat": -30.7348532046962 }
+  },
+  {
+    "id": 280,
+    "name": "La Paz",
+    "fullName": "Departamento La Paz",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0836400513249795
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.5004308899395, "lat": -30.8973573249588 }
+  },
+  {
+    "id": 281,
+    "name": "Feliciano",
+    "fullName": "Departamento Feliciano",
+    "district": {
+      "id": 8,
+      "name": "Entre Ríos",
+      "intersection": 0.0397782239259862
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.7288907563202, "lat": -30.4138996015365 }
+  },
+  {
+    "id": 282,
+    "name": "Presidente Perón",
+    "fullName": "Partido de Presidente Perón",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000389799042279721
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.3980842106611, "lat": -34.9298478405731 }
+  },
+  {
+    "id": 283,
+    "name": "Junín",
+    "fullName": "Partido de Junín",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0071720175735617
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.0052501278322, "lat": -34.5464751322689 }
+  },
+  {
+    "id": 284,
+    "name": "Brandsen",
+    "fullName": "Partido de Brandsen",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00357312503746316
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.1752339039367, "lat": -35.2225197990076 }
+  },
+  {
+    "id": 285,
+    "name": "Chivilcoy",
+    "fullName": "Partido de Chivilcoy",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00657817741788237
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.9584194881488, "lat": -34.915487328433 }
+  },
+  {
+    "id": 286,
+    "name": "Alberti",
+    "fullName": "Partido de Alberti",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00359199439584897
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.2819765918318, "lat": -35.0369685106341 }
+  },
+  {
+    "id": 287,
+    "name": "Bragado",
+    "fullName": "Partido de Bragado",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00703640109962813
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.6040466528095, "lat": -35.0614122707821 }
+  },
+  {
+    "id": 288,
+    "name": "General Las Heras",
+    "fullName": "Partido de General Las Heras",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00240012385632979
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.9954466211925, "lat": -34.9094243780878 }
+  },
+  {
+    "id": 289,
+    "name": "Carlos Casares",
+    "fullName": "Partido de Carlos Casares",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00817124414045041
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.3743777867738, "lat": -35.7499222140362 }
+  },
+  {
+    "id": 290,
+    "name": "Marcos Paz",
+    "fullName": "Partido de Marcos Paz",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00134714287846732
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.8478312046572, "lat": -34.8140029646158 }
+  },
+  {
+    "id": 291,
+    "name": "General Viamonte",
+    "fullName": "Partido de General Viamonte",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00684444207281811
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.0496572343522, "lat": -34.9977788912459 }
+  },
+  {
+    "id": 292,
+    "name": "Carlos Tejedor",
+    "fullName": "Partido de Carlos Tejedor",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0125697168003616
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.4297895789754, "lat": -35.3797449374452 }
+  },
+  {
+    "id": 293,
+    "name": "25 de Mayo",
+    "fullName": "Partido de 25 de Mayo",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0154146158430423
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.2302837885052, "lat": -35.527208971772 }
+  },
+  {
+    "id": 294,
+    "name": "9 de Julio",
+    "fullName": "Partido de 9 de Julio",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0138032096041854
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.975425441559, "lat": -35.4812271475831 }
+  },
+  {
+    "id": 295,
+    "name": "Pehuajó",
+    "fullName": "Partido de Pehuajó",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0146228837047226
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.9281257343997, "lat": -35.8836208341768 }
+  },
+  {
+    "id": 296,
+    "name": "Tapalqué",
+    "fullName": "Partido de Tapalqué",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0135545739281409
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.1310650281756, "lat": -36.3471436403082 }
+  },
+  {
+    "id": 297,
+    "name": "Trenque Lauquen",
+    "fullName": "Partido de Trenque Lauquen",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0178135421020032
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.6350797832329, "lat": -36.0567662720701 }
+  },
+  {
+    "id": 298,
+    "name": "General Belgrano",
+    "fullName": "Partido de General Belgrano",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00600141635540254
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6980799686583, "lat": -35.8346623469788 }
+  },
+  {
+    "id": 299,
+    "name": "Monte",
+    "fullName": "Partido de Monte",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00603558600099046
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.7672358382292, "lat": -35.5098267581846 }
+  },
+  {
+    "id": 300,
+    "name": "Roque Pérez",
+    "fullName": "Partido de Roque Pérez",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00500602280256217
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.3575118159751, "lat": -35.481635701192 }
+  },
+  {
+    "id": 301,
+    "name": "Olavarría",
+    "fullName": "Partido de Olavarría",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0250908132457425
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.6702054013071, "lat": -36.8576340464573 }
+  },
+  {
+    "id": 302,
+    "name": "Merlo",
+    "fullName": "Partido de Merlo",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000554762057263936
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.7419584139756, "lat": -34.7110032783084 }
+  },
+  {
+    "id": 303,
+    "name": "Cainguás",
+    "fullName": "Departamento Cainguás",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.051901548357663
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.8023437852311, "lat": -27.1478365768268 }
+  },
+  {
+    "id": 304,
+    "name": "Islas del Atlántico Sur",
+    "fullName": "Departamento Islas del Atlántico Sur",
+    "district": {
+      "id": 23,
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "intersection": 0.00373105357744606
+    },
+    "category": "departamento",
+    "centroid": { "lon": -53.4026402162418, "lat": -52.5006628799787 }
+  },
+  {
+    "id": 305,
+    "name": "Esteban Echeverría",
+    "fullName": "Partido de Esteban Echeverría",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000387156216997533
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.4769479291405, "lat": -34.8312135656106 }
+  },
+  {
+    "id": 306,
+    "name": "Arrecifes",
+    "fullName": "Partido de Arrecifes",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00393173852597767
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.0626641477636, "lat": -34.0118119181559 }
+  },
+  {
+    "id": 307,
+    "name": "Capitán Sarmiento",
+    "fullName": "Partido de Capitán Sarmiento",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00173801246050464
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.8540147848747, "lat": -34.1498445273572 }
+  },
+  {
+    "id": 308,
+    "name": "Dr. Manuel Belgrano",
+    "fullName": "Departamento Dr. Manuel Belgrano",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0391643219687074
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4478782461086, "lat": -24.0891183755518 }
+  },
+  {
+    "id": 309,
+    "name": "Carmen de Areco",
+    "fullName": "Partido de Carmen de Areco",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00337088991200347
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.8844134882327, "lat": -34.4067977883926 }
+  },
+  {
+    "id": 310,
+    "name": "Salto",
+    "fullName": "Partido de Salto",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00510820801256123
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.3052878686828, "lat": -34.2710777868364 }
+  },
+  {
+    "id": 311,
+    "name": "Exaltación de la Cruz",
+    "fullName": "Partido de Exaltación de la Cruz",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00201880048872216
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1559461316089, "lat": -34.2951342236201 }
+  },
+  {
+    "id": 312,
+    "name": "San Miguel",
+    "fullName": "Partido de San Miguel",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000263265258351352
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6917835230047, "lat": -34.5521343486779 }
+  },
+  {
+    "id": 313,
+    "name": "San Andrés de Giles",
+    "fullName": "Partido de San Andrés de Giles",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00358744336285634
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.4731985905145, "lat": -34.4377314289072 }
+  },
+  {
+    "id": 314,
+    "name": "Mercedes",
+    "fullName": "Partido de Mercedes",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00334428173503462
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.4204811393582, "lat": -34.6973213261419 }
+  },
+  {
+    "id": 315,
+    "name": "Pilar",
+    "fullName": "Partido de Pilar",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00122227093091696
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.9033327303822, "lat": -34.4481640053043 }
+  },
+  {
+    "id": 316,
+    "name": "Luján",
+    "fullName": "Partido de Luján",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00245404828764411
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1584564399668, "lat": -34.5673224195595 }
+  },
+  {
+    "id": 317,
+    "name": "Famaillá",
+    "fullName": "Departamento Famaillá",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0203676309877116
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4789084982894, "lat": -26.9759689777425 }
+  },
+  {
+    "id": 318,
+    "name": "Hurlingham",
+    "fullName": "Partido de Hurlingham",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000113871768492897
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6495253867317, "lat": -34.5992830551765 }
+  },
+  {
+    "id": 319,
+    "name": "Morón",
+    "fullName": "Partido de Morón",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000175376993107983
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6198317111492, "lat": -34.6493861631091 }
+  },
+  {
+    "id": 320,
+    "name": "Chacabuco",
+    "fullName": "Partido de Chacabuco",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00729103246694235
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.3543081129662, "lat": -34.6182002950801 }
+  },
+  {
+    "id": 321,
+    "name": "Junín",
+    "fullName": "Departamento Junín",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.0017955082059707
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4973606539186, "lat": -33.1503940875751 }
+  },
+  {
+    "id": 322,
+    "name": "Malvinas Argentinas",
+    "fullName": "Partido de Malvinas Argentinas",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000199850698595174
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.7121372415949, "lat": -34.4873113444512 }
+  },
+  {
+    "id": 323,
+    "name": "Tres Lomas",
+    "fullName": "Partido de Tres Lomas",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00407891896445255
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.8639077725213, "lat": -36.4971002162064 }
+  },
+  {
+    "id": 324,
+    "name": "Ayacucho",
+    "fullName": "Partido de Ayacucho",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0221626941335175
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.4425565239465, "lat": -37.0354309121063 }
+  },
+  {
+    "id": 325,
+    "name": "Guaminí",
+    "fullName": "Partido de Guaminí",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0157958833332142
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.4185310608382, "lat": -36.8906755108534 }
+  },
+  {
+    "id": 326,
+    "name": "General San Martín",
+    "fullName": "Partido General San Martín",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000179743284204998
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5642821761285, "lat": -34.5527719180977 }
+  },
+  {
+    "id": 327,
+    "name": "Lincoln",
+    "fullName": "Partido de Lincoln",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0184959585821046
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.6824583851265, "lat": -35.0704479695471 }
+  },
+  {
+    "id": 328,
+    "name": "Laprida",
+    "fullName": "Partido de Laprida",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0113819873390458
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.7681481810422, "lat": -37.5165055849878 }
+  },
+  {
+    "id": 329,
+    "name": "San Isidro",
+    "fullName": "Partido de San Isidro",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000166500602070316
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5372090766799, "lat": -34.4868929544319 }
+  },
+  {
+    "id": 330,
+    "name": "Benito Juárez",
+    "fullName": "Partido de Benito Juárez",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0176306990956659
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.8883978406322, "lat": -37.586110705761 }
+  },
+  {
+    "id": 331,
+    "name": "Colón",
+    "fullName": "Partido de Colón",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0031442828625256
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.0624837286828, "lat": -33.885864543958 }
+  },
+  {
+    "id": 332,
+    "name": "Ituzaingó",
+    "fullName": "Partido de Ituzaingó",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000121220048392776
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6887595155761, "lat": -34.6360716118614 }
+  },
+  {
+    "id": 333,
+    "name": "General Rodríguez",
+    "fullName": "Partido de General Rodríguez",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00116715308230071
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.9878467982653, "lat": -34.6506156900812 }
+  },
+  {
+    "id": 334,
+    "name": "Suipacha",
+    "fullName": "Partido de Suipacha",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00300678286600358
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.7033860485774, "lat": -34.7485741352291 }
+  },
+  {
+    "id": 335,
+    "name": "Tres de Febrero",
+    "fullName": "Partido de Tres de Febrero",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000144389168331309
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.5791883855736, "lat": -34.5960100738691 }
+  },
+  {
+    "id": 336,
+    "name": "General Felipe Varela",
+    "fullName": "Departamento General Felipe Varela",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0903016109967145
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.3285566475246, "lat": -29.4499054722468 }
+  },
+  {
+    "id": 337,
+    "name": "Florencio Varela",
+    "fullName": "Partido de Florencio Varela",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000605119778724125
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.2585548857898, "lat": -34.8777448240057 }
+  },
+  {
+    "id": 338,
+    "name": "Navarro",
+    "fullName": "Partido de Navarro",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00518125879431068
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.4293585541147, "lat": -35.0304844816228 }
+  },
+  {
+    "id": 339,
+    "name": "Cañuelas",
+    "fullName": "Partido de Cañuelas",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00380035881229046
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6910941846835, "lat": -35.1448044957896 }
+  },
+  {
+    "id": 340,
+    "name": "Moreno",
+    "fullName": "Departamento Moreno",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.119258994548661
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.4639026540336, "lat": -27.2982006559922 }
+  },
+  {
+    "id": 341,
+    "name": "Chacabuco",
+    "fullName": "Departamento Chacabuco",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0152945103467984
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.3088349505972, "lat": -27.1153502635495 }
+  },
+  {
+    "id": 342,
+    "name": "San Vicente",
+    "fullName": "Partido de San Vicente",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00211524089320746
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.4318120603267, "lat": -35.0715087168304 }
+  },
+  {
+    "id": 343,
+    "name": "Lobos",
+    "fullName": "Partido de Lobos",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00553317603613114
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1457418827425, "lat": -35.2195857860094 }
+  },
+  {
+    "id": 344,
+    "name": "General Alvear",
+    "fullName": "Partido de General Alvear",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0109036063376756
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.1331531037654, "lat": -36.0347106495852 }
+  },
+  {
+    "id": 345,
+    "name": "Quilmes",
+    "fullName": "Partido de Quilmes",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000292131788340899
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.2768580209942, "lat": -34.7349707991152 }
+  },
+  {
+    "id": 346,
+    "name": "Pila",
+    "fullName": "Partido de Pila",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0111961204572951
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.3404430505536, "lat": -36.2029842239612 }
+  },
+  {
+    "id": 347,
+    "name": "General La Madrid",
+    "fullName": "Partido de General La Madrid",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0158578929261367
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.3441308948924, "lat": -37.3561277769109 }
+  },
+  {
+    "id": 348,
+    "name": "Bolívar",
+    "fullName": "Partido de Bolívar",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.016036472560036
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.1498600852285, "lat": -36.2989479582916 }
+  },
+  {
+    "id": 349,
+    "name": "Castro Barros",
+    "fullName": "Departamento Castro Barros",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0165783343976681
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.918584755618, "lat": -28.8599829479134 }
+  },
+  {
+    "id": 350,
+    "name": "Balcarce",
+    "fullName": "Partido de Balcarce",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0136349167295577
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.2717475616555, "lat": -37.7146198082264 }
+  },
+  {
+    "id": 351,
+    "name": "Hipólito Yrigoyen",
+    "fullName": "Partido de Hipólito Yrigoyen",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00534403504830688
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.660187626031, "lat": -36.2591890205909 }
+  },
+  {
+    "id": 352,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.000353688083534687
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.893648801808, "lat": -32.8828960440395 }
+  },
+  {
+    "id": 353,
+    "name": "Dolores",
+    "fullName": "Partido de Dolores",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00643452001231189
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.6319261244954, "lat": -36.3989376730385 }
+  },
+  {
+    "id": 354,
+    "name": "Azul",
+    "fullName": "Partido de Azul",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0213780032055176
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.696478337621, "lat": -36.7859352165928 }
+  },
+  {
+    "id": 355,
+    "name": "Daireaux",
+    "fullName": "Partido de Daireaux",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0124768454288579
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.8912495525965, "lat": -36.6408692174847 }
+  },
+  {
+    "id": 356,
+    "name": "Godoy Cruz",
+    "fullName": "Departamento Godoy Cruz",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.000691771875965055
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.9141362247952, "lat": -32.9320744395304 }
+  },
+  {
+    "id": 357,
+    "name": "Cafayate",
+    "fullName": "Departamento Cafayate",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.010128259065046
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.8767230578258, "lat": -26.1257489988731 }
+  },
+  {
+    "id": 358,
+    "name": "Figueroa",
+    "fullName": "Departamento Figueroa",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0517207132894978
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.579632022065, "lat": -27.3218567501665 }
+  },
+  {
+    "id": 359,
+    "name": "Saavedra",
+    "fullName": "Partido de Saavedra",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0117457073922025
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.4343829136658, "lat": -37.7706381329573 }
+  },
+  {
+    "id": 360,
+    "name": "Monte Hermoso",
+    "fullName": "Partido de Monte Hermoso",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000674275114875115
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.2921466954973, "lat": -38.9616237886799 }
+  },
+  {
+    "id": 361,
+    "name": "Lobería",
+    "fullName": "Partido de Lobería",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0157016062373857
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.6935497786696, "lat": -38.090052818611 }
+  },
+  {
+    "id": 362,
+    "name": "Berisso",
+    "fullName": "Partido de Berisso",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000461516287049349
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.8283797724826, "lat": -34.9093551143988 }
+  },
+  {
+    "id": 363,
+    "name": "Tordillo",
+    "fullName": "Partido de Tordillo",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00434153397990102
+    },
+    "category": "partido",
+    "centroid": { "lon": -57.2738116449804, "lat": -36.3905151218837 }
+  },
+  {
+    "id": 364,
+    "name": "Zárate",
+    "fullName": "Partido de Zárate",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00374559765787623
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.1282153004682, "lat": -33.9970897980955 }
+  },
+  {
+    "id": 365,
+    "name": "Ramallo",
+    "fullName": "Partido de Ramallo",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0032935602867276
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.0575064405905, "lat": -33.5871861466481 }
+  },
+  {
+    "id": 366,
+    "name": "San Nicolás",
+    "fullName": "Partido de San Nicolás",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00213859861214101
+    },
+    "category": "partido",
+    "centroid": { "lon": -60.2931487802824, "lat": -33.4829873308981 }
+  },
+  {
+    "id": 367,
+    "name": "Salavina",
+    "fullName": "Departamento Salavina",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0233925309145209
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.3035949539634, "lat": -28.9187435895832 }
+  },
+  {
+    "id": 368,
+    "name": "Pellegrini",
+    "fullName": "Departamento Pellegrini",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0499646477336209
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.0917498279144, "lat": -26.2199018368927 }
+  },
+  {
+    "id": 369,
+    "name": "Avellaneda",
+    "fullName": "Departamento Avellaneda",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0280155369202421
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.20376658846, "lat": -28.555362665393 }
+  },
+  {
+    "id": 370,
+    "name": "2 de Abril",
+    "fullName": "Departamento 2 de Abril",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0161698719339123
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.3289519563791, "lat": -27.6198551557059 }
+  },
+  {
+    "id": 371,
+    "name": "Guaymallén",
+    "fullName": "Departamento Guaymallén",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.00106683957785455
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.7333034931406, "lat": -32.8929748154748 }
+  },
+  {
+    "id": 372,
+    "name": "Juárez Celman",
+    "fullName": "Departamento Juárez Celman",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0487661438864747
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.6063858554279, "lat": -33.3295744809665 }
+  },
+  {
+    "id": 373,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0110943848552619
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.2713224010013, "lat": -24.8897949232452 }
+  },
+  {
+    "id": 374,
+    "name": "Silípica",
+    "fullName": "Departamento Silípica",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.00901460059088392
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.2732683808613, "lat": -28.1888486590344 }
+  },
+  {
+    "id": 375,
+    "name": "La Candelaria",
+    "fullName": "Departamento La Candelaria",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.00879574828051384
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.1760220468639, "lat": -26.0848731785427 }
+  },
+  {
+    "id": 376,
+    "name": "Rancul",
+    "fullName": "Departamento Rancul",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0338484887448348
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.7962057702449, "lat": -35.408324405275 }
+  },
+  {
+    "id": 377,
+    "name": "Maipú",
+    "fullName": "Departamento Maipú",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.00409989601910658
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.6563133629426, "lat": -32.9797495635853 }
+  },
+  {
+    "id": 378,
+    "name": "Guachipas",
+    "fullName": "Departamento Guachipas",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0181539135880509
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4445406244237, "lat": -25.7029584300217 }
+  },
+  {
+    "id": 379,
+    "name": "Atreucó",
+    "fullName": "Departamento Atreucó",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0244442643885574
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.7788849526284, "lat": -37.0324944038817 }
+  },
+  {
+    "id": 380,
+    "name": "San Martín",
+    "fullName": "Departamento San Martín",
+    "district": {
+      "id": 13,
+      "name": "Mendoza",
+      "intersection": 0.00990882194839183
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.2888458647488, "lat": -32.9140381657571 }
+  },
+  {
+    "id": 381,
+    "name": "Guatraché",
+    "fullName": "Departamento Guatraché",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0245826169040709
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.7813081297621, "lat": -37.4836471472851 }
+  },
+  {
+    "id": 382,
+    "name": "Sanagasta",
+    "fullName": "Departamento Sanagasta",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.01419237112477
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.0658836337284, "lat": -29.1585269700836 }
+  },
+  {
+    "id": 383,
+    "name": "Conhelo",
+    "fullName": "Departamento Conhelo",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0351855006680871
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.5086492198133, "lat": -36.0320043909386 }
+  },
+  {
+    "id": 384,
+    "name": "Libertador General San Martín",
+    "fullName": "Departamento Libertador General San Martín",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.048901659700546
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.9233629608393, "lat": -26.8931448896048 }
+  },
+  {
+    "id": 385,
+    "name": "Rosario Vera Peñaloza",
+    "fullName": "Departamento Rosario Vera Peñaloza",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0552984961866906
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.6741641296595, "lat": -31.4229834527921 }
+  },
+  {
+    "id": 386,
+    "name": "San Miguel",
+    "fullName": "Departamento San Miguel",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0340639677883074
+    },
+    "category": "departamento",
+    "centroid": { "lon": -57.4100421733803, "lat": -27.8758596571718 }
+  },
+  {
+    "id": 387,
+    "name": "General Juan Facundo Quiroga",
+    "fullName": "Departamento General Juan Facundo Quiroga",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0476221411171128
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.8678571954155, "lat": -30.8006382527121 }
+  },
+  {
+    "id": 388,
+    "name": "Ángel Vicente Peñaloza",
+    "fullName": "Departamento Ángel Vicente Peñaloza",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0344121556368639
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.6630521188297, "lat": -30.3128975387926 }
+  },
+  {
+    "id": 389,
+    "name": "Empedrado",
+    "fullName": "Departamento Empedrado",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.021839984716698
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.665840300338, "lat": -27.8961126654966 }
+  },
+  {
+    "id": 390,
+    "name": "Chilecito",
+    "fullName": "Departamento Chilecito",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0571830266271344
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.427886789152, "lat": -29.39593747537 }
+  },
+  {
+    "id": 391,
+    "name": "Toay",
+    "fullName": "Departamento Toay",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0353188518086181
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.6922110147401, "lat": -36.662162152652 }
+  },
+  {
+    "id": 392,
+    "name": "Colón",
+    "fullName": "Departamento Colón",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0142265828296706
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.149086867857, "lat": -31.1461809443167 }
+  },
+  {
+    "id": 393,
+    "name": "Ituzaingó",
+    "fullName": "Departamento Ituzaingó",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.107688816858105
+    },
+    "category": "departamento",
+    "centroid": { "lon": -56.790098223735, "lat": -27.9113085755074 }
+  },
+  {
+    "id": 394,
+    "name": "Famatina",
+    "fullName": "Departamento Famatina",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0451773678650213
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.5592543116777, "lat": -28.6973536209113 }
+  },
+  {
+    "id": 395,
+    "name": "General López",
+    "fullName": "Departamento General López",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0898926640148587
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.939680211795, "lat": -33.9221898209726 }
+  },
+  {
+    "id": 396,
+    "name": "Constitución",
+    "fullName": "Departamento Constitución",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.024354567772595
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.8374001304635, "lat": -33.4871399171909 }
+  },
+  {
+    "id": 397,
+    "name": "Caseros",
+    "fullName": "Departamento Caseros",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0268127756814519
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.5428621200429, "lat": -33.2249739383268 }
+  },
+  {
+    "id": 398,
+    "name": "Rosario",
+    "fullName": "Departamento Rosario",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0152682443724274
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.7232422315034, "lat": -33.1178472652264 }
+  },
+  {
+    "id": 399,
+    "name": "San Lorenzo",
+    "fullName": "Departamento San Lorenzo",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0145028160418538
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.9640078882428, "lat": -32.9413325358441 }
+  },
+  {
+    "id": 400,
+    "name": "Iriondo",
+    "fullName": "Departamento Iriondo",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.024662788684282
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.273387709005, "lat": -32.7060836089974 }
+  },
+  {
+    "id": 401,
+    "name": "Lanús",
+    "fullName": "Partido de Lanús",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.000160051704610363
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.3946965048442, "lat": -34.7056542439723 }
+  },
+  {
+    "id": 402,
+    "name": "General San Martín",
+    "fullName": "Departamento General San Martín",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.0499894713868413
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.1458162300477, "lat": -31.6414651427458 }
+  },
+  {
+    "id": 403,
+    "name": "San Blas de Los Sauces",
+    "fullName": "Departamento San Blas de Los Sauces",
+    "district": {
+      "id": 12,
+      "name": "La Rioja",
+      "intersection": 0.015567249695042
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.1581352967929, "lat": -28.5432938438178 }
+  },
+  {
+    "id": 404,
+    "name": "San Antonio",
+    "fullName": "Departamento San Antonio",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0131039751572657
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4465034514555, "lat": -24.3466655289394 }
+  },
+  {
+    "id": 405,
+    "name": "Rinconada",
+    "fullName": "Departamento Rinconada",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.115255520574651
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.5415632203904, "lat": -22.621441999219 }
+  },
+  {
+    "id": 406,
+    "name": "Ramón Lista",
+    "fullName": "Departamento Ramón Lista",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.050154353429119
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.1378892144612, "lat": -23.120377014683 }
+  },
+  {
+    "id": 407,
+    "name": "La Poma",
+    "fullName": "Departamento La Poma",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.025736399263753
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.2072973644748, "lat": -24.146976523836 }
+  },
+  {
+    "id": 408,
+    "name": "Biedma",
+    "fullName": "Departamento Biedma",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0562443966666396
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.9333479901808, "lat": -42.4435913808796 }
+  },
+  {
+    "id": 409,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.00616192117193642
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.7624842360155, "lat": -27.5223367116017 }
+  },
+  {
+    "id": 410,
+    "name": "San Luis del Palmar",
+    "fullName": "Departamento San Luis del Palmar",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0286057713290461
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.2683508234644, "lat": -27.6020530782378 }
+  },
+  {
+    "id": 411,
+    "name": "Formosa",
+    "fullName": "Departamento Formosa",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.086885936522673
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.3773174492375, "lat": -25.9396352320143 }
+  },
+  {
+    "id": 412,
+    "name": "Pilcomayo",
+    "fullName": "Departamento Pilcomayo",
+    "district": {
+      "id": 9,
+      "name": "Formosa",
+      "intersection": 0.0711380258184748
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.0626062654551, "lat": -25.3700377166163 }
+  },
+  {
+    "id": 413,
+    "name": "Tehuelches",
+    "fullName": "Departamento Tehuelches",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0655041827342155
+    },
+    "category": "departamento",
+    "centroid": { "lon": -70.5769493727789, "lat": -44.2001445034306 }
+  },
+  {
+    "id": 414,
+    "name": "Escalante",
+    "fullName": "Departamento Escalante",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0652507349585136
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.7088649201803, "lat": -45.2828915460529 }
+  },
+  {
+    "id": 415,
+    "name": "Ischilín",
+    "fullName": "Departamento Ischilín",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.030071137682986
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.609928019562, "lat": -30.3985157855081 }
+  },
+  {
+    "id": 416,
+    "name": "Totoral",
+    "fullName": "Departamento Totoral",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0182475018754225
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.9844039885161, "lat": -30.7263442710895 }
+  },
+  {
+    "id": 417,
+    "name": "General San Martín",
+    "fullName": "Departamento General San Martín",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0304210269755881
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.2562056057504, "lat": -32.5143227869566 }
+  },
+  {
+    "id": 418,
+    "name": "San Javier",
+    "fullName": "Departamento San Javier",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.00939912319348512
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.1422236066015, "lat": -32.0760871294213 }
+  },
+  {
+    "id": 419,
+    "name": "Río Primero",
+    "fullName": "Departamento Río Primero",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0403787502220151
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.436114778127, "lat": -31.0315240757859 }
+  },
+  {
+    "id": 420,
+    "name": "Marcos Juárez",
+    "fullName": "Departamento Marcos Juárez",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0563483131216886
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.2775947053165, "lat": -33.0308431509632 }
+  },
+  {
+    "id": 421,
+    "name": "General Donovan",
+    "fullName": "Departamento General Donovan",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0153222098522473
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.3467829351985, "lat": -27.1388899905163 }
+  },
+  {
+    "id": 422,
+    "name": "Leandro N. Alem",
+    "fullName": "Partido de Leandro N. Alem",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0050999961045909
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.6125874742962, "lat": -34.4985652798534 }
+  },
+  {
+    "id": 423,
+    "name": "Libertador General San Martín",
+    "fullName": "Departamento Libertador General San Martín",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0721212666493741
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.4877181570758, "lat": -26.3775454900773 }
+  },
+  {
+    "id": 424,
+    "name": "Gastre",
+    "fullName": "Departamento Gastre",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0700375956516298
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.8023248035912, "lat": -42.7490296126002 }
+  },
+  {
+    "id": 425,
+    "name": "General Arenales",
+    "fullName": "Partido de General Arenales",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00470115742651847
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.2833812257449, "lat": -34.2379020431362 }
+  },
+  {
+    "id": 426,
+    "name": "Bermejo",
+    "fullName": "Departamento Bermejo",
+    "district": { "id": 3, "name": "Chaco", "intersection": 0.02575234586044 },
+    "category": "departamento",
+    "centroid": { "lon": -58.709116096044, "lat": -26.9580421515067 }
+  },
+  {
+    "id": 427,
+    "name": "Calamuchita",
+    "fullName": "Departamento Calamuchita",
+    "district": {
+      "id": 6,
+      "name": "Córdoba",
+      "intersection": 0.0285410985040589
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.6151725606746, "lat": -32.2020591306015 }
+  },
+  {
+    "id": 428,
+    "name": "Cruz Alta",
+    "fullName": "Departamento Cruz Alta",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0534640665108381
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.9738642266054, "lat": -26.9180036848972 }
+  },
+  {
+    "id": 429,
+    "name": "Lules",
+    "fullName": "Departamento Lules",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0273000911427296
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4310245938907, "lat": -26.8622353459017 }
+  },
+  {
+    "id": 430,
+    "name": "Yerba Buena",
+    "fullName": "Departamento Yerba Buena",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.00659759435683079
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.3411739273315, "lat": -26.7839244723358 }
+  },
+  {
+    "id": 431,
+    "name": "Tafí Viejo",
+    "fullName": "Departamento Tafí Viejo",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.051819330596634
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4640739296384, "lat": -26.6601491447319 }
+  },
+  {
+    "id": 432,
+    "name": "Libertador General San Martín",
+    "fullName": "Departamento Libertador General San Martín",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.045386425965814
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.7095887718459, "lat": -32.5784192378867 }
+  },
+  {
+    "id": 433,
+    "name": "Coronel Pringles",
+    "fullName": "Departamento Coronel Pringles",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.0506182315169812
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.9007902060388, "lat": -33.1068820570862 }
+  },
+  {
+    "id": 434,
+    "name": "Chacabuco",
+    "fullName": "Departamento Chacabuco",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.0316068453540056
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.198209788321, "lat": -32.7270768664399 }
+  },
+  {
+    "id": 435,
+    "name": "Rivadavia",
+    "fullName": "Partido de Rivadavia",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0127385166227405
+    },
+    "category": "partido",
+    "centroid": { "lon": -63.0947616852349, "lat": -35.581056985938 }
+  },
+  {
+    "id": 436,
+    "name": "Patagones",
+    "fullName": "Partido de Patagones",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.0466025403566974
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.8508023633523, "lat": -40.1963833078675 }
+  },
+  {
+    "id": 437,
+    "name": "Juan Martín de Pueyrredón",
+    "fullName": "Departamento Juan Martín de Pueyrredón",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.179741697548732
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.5024402257537, "lat": -33.900714617211 }
+  },
+  {
+    "id": 438,
+    "name": "General Pedernera",
+    "fullName": "Departamento General Pedernera",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.197047768066415
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.5597745631101, "lat": -33.8922244453095 }
+  },
+  {
+    "id": 439,
+    "name": "Trancas",
+    "fullName": "Departamento Trancas",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.132761548897074
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4058207897255, "lat": -26.3434123363847 }
+  },
+  {
+    "id": 440,
+    "name": "Tafí del Valle",
+    "fullName": "Departamento Tafí del Valle",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.108190872092607
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.8893504834043, "lat": -26.5914686020616 }
+  },
+  {
+    "id": 441,
+    "name": "Comuna 9",
+    "fullName": "Comuna 9",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0801222180510709
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4991751735853, "lat": -34.6517887970418 }
+  },
+  {
+    "id": 442,
+    "name": "Junín",
+    "fullName": "Departamento Junín",
+    "district": {
+      "id": 19,
+      "name": "San Luis",
+      "intersection": 0.0344266659182431
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.3948431186635, "lat": -32.2163016656263 }
+  },
+  {
+    "id": 443,
+    "name": "Mitre",
+    "fullName": "Departamento Mitre",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0251782542452749
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.7386757564942, "lat": -29.6150490318213 }
+  },
+  {
+    "id": 444,
+    "name": "Atamisqui",
+    "fullName": "Departamento Atamisqui",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0177767130418954
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.8815639977726, "lat": -28.6918181695012 }
+  },
+  {
+    "id": 445,
+    "name": "Berón de Astrada",
+    "fullName": "Departamento Berón de Astrada",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.00944413123833806
+    },
+    "category": "departamento",
+    "centroid": { "lon": -57.6113807712108, "lat": -27.4779704395686 }
+  },
+  {
+    "id": 446,
+    "name": "Tolhuin",
+    "fullName": "Departamento Tolhuin",
+    "district": {
+      "id": 23,
+      "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+      "intersection": 0.00157464841634478
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.5034849447963, "lat": -54.4245608947124 }
+  },
+  {
+    "id": 447,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0327044476988459
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.8565833366475, "lat": -27.5505259291655 }
+  },
+  {
+    "id": 448,
+    "name": "Candelaria",
+    "fullName": "Departamento Candelaria",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0309003351978077
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.5826900383218, "lat": -27.4608500546705 }
+  },
+  {
+    "id": 449,
+    "name": "Jiménez",
+    "fullName": "Departamento Jiménez",
+    "district": {
+      "id": 22,
+      "name": "Santiago del Estero",
+      "intersection": 0.0404005597352531
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.2724736671085, "lat": -26.8996081032586 }
+  },
+  {
+    "id": 450,
+    "name": "Coronel de Marina Leonardo Rosales",
+    "fullName": "Partido de Coronel de Marina Leonardo Rosales",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00433523886054252
+    },
+    "category": "partido",
+    "centroid": { "lon": -61.8355844196542, "lat": -38.8490773280679 }
+  },
+  {
+    "id": 451,
+    "name": "Baradero",
+    "fullName": "Partido de Baradero",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00483118540483929
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.4927871380553, "lat": -33.9319613769628 }
+  },
+  {
+    "id": 452,
+    "name": "San Pedro",
+    "fullName": "Partido de San Pedro",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00430673144957843
+    },
+    "category": "partido",
+    "centroid": { "lon": -59.7826260109294, "lat": -33.7809860202918 }
+  },
+  {
+    "id": 453,
+    "name": "Santa Victoria",
+    "fullName": "Departamento Santa Victoria",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0256935803042811
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.8955647956079, "lat": -22.3958917322092 }
+  },
+  {
+    "id": 454,
+    "name": "General José de San Martín",
+    "fullName": "Departamento General José de San Martín",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.102449726398612
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.6582864287813, "lat": -22.7144623805907 }
+  },
+  {
+    "id": 455,
+    "name": "Rivadavia",
+    "fullName": "Departamento Rivadavia",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.167676292039284
+    },
+    "category": "departamento",
+    "centroid": { "lon": -62.8285940219747, "lat": -23.5194718277586 }
+  },
+  {
+    "id": 456,
+    "name": "Rosario de Lerma",
+    "fullName": "Departamento Rosario de Lerma",
+    "district": {
+      "id": 17,
+      "name": "Salta",
+      "intersection": 0.0331176185550765
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.8530078405525, "lat": -24.5457519055916 }
+  },
+  {
+    "id": 457,
+    "name": "Ledesma",
+    "fullName": "Departamento Ledesma",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0561887375245148
+    },
+    "category": "departamento",
+    "centroid": { "lon": -64.8288746330382, "lat": -23.7854859185353 }
+  },
+  {
+    "id": 458,
+    "name": "Humahuaca",
+    "fullName": "Departamento Humahuaca",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0662014389727633
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.4095227491295, "lat": -23.0820099180032 }
+  },
+  {
+    "id": 459,
+    "name": "Cochinoca",
+    "fullName": "Departamento Cochinoca",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.134623813340465
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.9347260935414, "lat": -22.9392130779775 }
+  },
+  {
+    "id": 460,
+    "name": "Tumbaya",
+    "fullName": "Departamento Tumbaya",
+    "district": {
+      "id": 10,
+      "name": "Jujuy",
+      "intersection": 0.0620757763518778
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.6961901966194, "lat": -23.7434749479331 }
+  },
+  {
+    "id": 461,
+    "name": "Florentino Ameghino",
+    "fullName": "Partido de Florentino Ameghino",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00578883930628342
+    },
+    "category": "partido",
+    "centroid": { "lon": -62.4017162645879, "lat": -34.8741058055206 }
+  },
+  {
+    "id": 462,
+    "name": "Florentino Ameghino",
+    "fullName": "Departamento Florentino Ameghino",
+    "district": {
+      "id": 4,
+      "name": "Chubut",
+      "intersection": 0.0714445860828035
+    },
+    "category": "departamento",
+    "centroid": { "lon": -66.1302641083269, "lat": -44.4231369267293 }
+  },
+  {
+    "id": 463,
+    "name": "La Cocha",
+    "fullName": "Departamento La Cocha",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0427746144311694
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.5977877083311, "lat": -27.7940604809292 }
+  },
+  {
+    "id": 464,
+    "name": "Graneros",
+    "fullName": "Departamento Graneros",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0753677871399028
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.2550360276541, "lat": -27.7132775964524 }
+  },
+  {
+    "id": 465,
+    "name": "Juan Bautista Alberdi",
+    "fullName": "Departamento Juan Bautista Alberdi",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0328360714392479
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.7831912587906, "lat": -27.6060757021473 }
+  },
+  {
+    "id": 466,
+    "name": "Río Chico",
+    "fullName": "Departamento Río Chico",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0272145631674211
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.7518266389415, "lat": -27.4501203542874 }
+  },
+  {
+    "id": 467,
+    "name": "Simoca",
+    "fullName": "Departamento Simoca",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0594692915388672
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.2924847788807, "lat": -27.4238370613532 }
+  },
+  {
+    "id": 468,
+    "name": "Chicligasta",
+    "fullName": "Departamento Chicligasta",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0573707648111362
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.8110637206058, "lat": -27.2696018679715 }
+  },
+  {
+    "id": 469,
+    "name": "Monteros",
+    "fullName": "Departamento Monteros",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.052778773338602
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.6430768814482, "lat": -27.1106201705702 }
+  },
+  {
+    "id": 470,
+    "name": "Leales",
+    "fullName": "Departamento Leales",
+    "district": {
+      "id": 24,
+      "name": "Tucumán",
+      "intersection": 0.0875078813280736
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.0848647351414, "lat": -27.1918831757327 }
+  },
+  {
+    "id": 471,
+    "name": "San Martín",
+    "fullName": "Departamento San Martín",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0375590918572857
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.8090742014148, "lat": -32.0122706461745 }
+  },
+  {
+    "id": 472,
+    "name": "La Capital",
+    "fullName": "Departamento La Capital",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0225016794594139
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.6694790136058, "lat": -31.4753563668226 }
+  },
+  {
+    "id": 473,
+    "name": "General Manuel Belgrano",
+    "fullName": "Departamento General Manuel Belgrano",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0992544944135137
+    },
+    "category": "departamento",
+    "centroid": { "lon": -53.9638550967802, "lat": -25.9784317106931 }
+  },
+  {
+    "id": 474,
+    "name": "Guaraní",
+    "fullName": "Departamento Guaraní",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.109727613438413
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.2693651314473, "lat": -27.0262348990631 }
+  },
+  {
+    "id": 475,
+    "name": "Iguazú",
+    "fullName": "Departamento Iguazú",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0908753373537364
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.4004185890739, "lat": -25.8747354911285 }
+  },
+  {
+    "id": 476,
+    "name": "25 de Mayo",
+    "fullName": "Departamento 25 de Mayo",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0555201634202535
+    },
+    "category": "departamento",
+    "centroid": { "lon": -54.6340904863083, "lat": -27.3786143619873 }
+  },
+  {
+    "id": 477,
+    "name": "Oberá",
+    "fullName": "Departamento Oberá",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.052827142540477
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.0712221113606, "lat": -27.4763636010381 }
+  },
+  {
+    "id": 478,
+    "name": "Castellanos",
+    "fullName": "Departamento Castellanos",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0507295404343736
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.6572584461682, "lat": -31.2314615495091 }
+  },
+  {
+    "id": 479,
+    "name": "Garay",
+    "fullName": "Departamento Garay",
+    "district": {
+      "id": 21,
+      "name": "Santa Fe",
+      "intersection": 0.0305414278797358
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.1258077355938, "lat": -31.0546413334486 }
+  },
+  {
+    "id": 480,
+    "name": "Quemú Quemú",
+    "fullName": "Departamento Quemú Quemú",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0172782559904481
+    },
+    "category": "departamento",
+    "centroid": { "lon": -63.6637300134466, "lat": -36.1306405658638 }
+  },
+  {
+    "id": 481,
+    "name": "San Ignacio",
+    "fullName": "Departamento San Ignacio",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0559892387113582
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.3392901736977, "lat": -27.1765939471765 }
+  },
+  {
+    "id": 482,
+    "name": "Utracán",
+    "fullName": "Departamento Utracán",
+    "district": {
+      "id": 11,
+      "name": "La Pampa",
+      "intersection": 0.0901665018466089
+    },
+    "category": "departamento",
+    "centroid": { "lon": -65.082831667763, "lat": -37.3338794806419 }
+  },
+  {
+    "id": 483,
+    "name": "San Martín",
+    "fullName": "Departamento San Martín",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.07468107625038
+    },
+    "category": "departamento",
+    "centroid": { "lon": -56.9315835110542, "lat": -28.8289801487463 }
+  },
+  {
+    "id": 484,
+    "name": "Paso de los Libres",
+    "fullName": "Departamento Paso de los Libres",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0553298214831475
+    },
+    "category": "departamento",
+    "centroid": { "lon": -57.2996338361445, "lat": -29.5936363396967 }
+  },
+  {
+    "id": 485,
+    "name": "Goya",
+    "fullName": "Departamento Goya",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0540242609658804
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.2559121520651, "lat": -29.4514535088561 }
+  },
+  {
+    "id": 486,
+    "name": "Lavalle",
+    "fullName": "Departamento Lavalle",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0167862559774199
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.9337232555635, "lat": -28.9879904880901 }
+  },
+  {
+    "id": 487,
+    "name": "San Roque",
+    "fullName": "Departamento San Roque",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0272223503873453
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.6130359023562, "lat": -28.705807188664 }
+  },
+  {
+    "id": 488,
+    "name": "General Alvear",
+    "fullName": "Departamento General Alvear",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0218595659622828
+    },
+    "category": "departamento",
+    "centroid": { "lon": -56.5115304340621, "lat": -28.775163187308 }
+  },
+  {
+    "id": 489,
+    "name": "Concepción",
+    "fullName": "Departamento Concepción",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0590525344459261
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.0313928425117, "lat": -28.4083995312262 }
+  },
+  {
+    "id": 490,
+    "name": "Bella Vista",
+    "fullName": "Departamento Bella Vista",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0198915949417008
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.9304354321186, "lat": -28.4973870089949 }
+  },
+  {
+    "id": 491,
+    "name": "Santo Tomé",
+    "fullName": "Departamento Santo Tomé",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0782094581978813
+    },
+    "category": "departamento",
+    "centroid": { "lon": -56.2221766248194, "lat": -28.2311041286613 }
+  },
+  {
+    "id": 492,
+    "name": "Saladas",
+    "fullName": "Departamento Saladas",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0214240348523597
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.6199128880477, "lat": -28.2124686853348 }
+  },
+  {
+    "id": 493,
+    "name": "General Paz",
+    "fullName": "Departamento General Paz",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0289939222513631
+    },
+    "category": "departamento",
+    "centroid": { "lon": -57.7876331852429, "lat": -27.7199319611528 }
+  },
+  {
+    "id": 494,
+    "name": "Leandro N. Alem",
+    "fullName": "Departamento Leandro N. Alem",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0359712234849431
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.3880677316604, "lat": -27.6306652583192 }
+  },
+  {
+    "id": 495,
+    "name": "San Javier",
+    "fullName": "Departamento San Javier",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0218538501191516
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.1674595937339, "lat": -27.7771031453698 }
+  },
+  {
+    "id": 496,
+    "name": "Mburucuyá",
+    "fullName": "Departamento Mburucuyá",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.0111245064266218
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.1855639990468, "lat": -28.0163838994325 }
+  },
+  {
+    "id": 497,
+    "name": "Concepción",
+    "fullName": "Departamento Concepción",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0262344732764141
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.4670364912488, "lat": -27.9311673935877 }
+  },
+  {
+    "id": 498,
+    "name": "Apóstoles",
+    "fullName": "Departamento Apóstoles",
+    "district": {
+      "id": 14,
+      "name": "Misiones",
+      "intersection": 0.0349761683797671
+    },
+    "category": "departamento",
+    "centroid": { "lon": -55.6781134842867, "lat": -27.8887539522051 }
+  },
+  {
+    "id": 499,
+    "name": "1° de Mayo",
+    "fullName": "Departamento 1° de Mayo",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0129435993381663
+    },
+    "category": "departamento",
+    "centroid": { "lon": -58.9587415590109, "lat": -27.1678037354366 }
+  },
+  {
+    "id": 500,
+    "name": "San Fernando",
+    "fullName": "Departamento San Fernando",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0360590556268442
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.1154439908292, "lat": -27.7156982892704 }
+  },
+  {
+    "id": 501,
+    "name": "San Lorenzo",
+    "fullName": "Departamento San Lorenzo",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0217192105323007
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.3637302119912, "lat": -27.3933734765875 }
+  },
+  {
+    "id": 502,
+    "name": "Lomas de Zamora",
+    "fullName": "Partido de Lomas de Zamora",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00028297717812831
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.4240954303406, "lat": -34.7549679553956 }
+  },
+  {
+    "id": 503,
+    "name": "Avellaneda",
+    "fullName": "Partido de Avellaneda",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00017913873991004
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.3411445451106, "lat": -34.6781993084404 }
+  },
+  {
+    "id": 504,
+    "name": "25 de Mayo",
+    "fullName": "Departamento 25 de Mayo",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0238945964303814
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.0184594861944, "lat": -26.8170406143405 }
+  },
+  {
+    "id": 505,
+    "name": "General Belgrano",
+    "fullName": "Departamento General Belgrano",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0130954873857754
+    },
+    "category": "departamento",
+    "centroid": { "lon": -61.0713338324887, "lat": -26.8478157545068 }
+  },
+  {
+    "id": 506,
+    "name": "Libertad",
+    "fullName": "Departamento Libertad",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0105136220507616
+    },
+    "category": "departamento",
+    "centroid": { "lon": -59.2597877694895, "lat": -27.3493250970289 }
+  },
+  {
+    "id": 507,
+    "name": "Comandante Fernández",
+    "fullName": "Departamento Comandante Fernández",
+    "district": {
+      "id": 3,
+      "name": "Chaco",
+      "intersection": 0.0151142143981865
+    },
+    "category": "departamento",
+    "centroid": { "lon": -60.4612869070114, "lat": -26.7853900358381 }
+  },
+  {
+    "id": 508,
+    "name": "Comuna 15",
+    "fullName": "Comuna 15",
+    "district": {
+      "id": 5,
+      "name": "Ciudad Autónoma de Buenos Aires",
+      "intersection": 0.0696350360721548
+    },
+    "category": "comuna",
+    "centroid": { "lon": -58.4627740218465, "lat": -34.5918836701535 }
+  },
+  {
+    "id": 509,
+    "name": "Chimbas",
+    "fullName": "Departamento Chimbas",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.000762255112269867
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.5239289663008, "lat": -31.4874196948537 }
+  },
+  {
+    "id": 510,
+    "name": "Capital",
+    "fullName": "Departamento Capital",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.000304145576717271
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.5342856277496, "lat": -31.5330748483668 }
+  },
+  {
+    "id": 511,
+    "name": "Rivadavia",
+    "fullName": "Departamento Rivadavia",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.00137228537556859
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.6416232535725, "lat": -31.5542325394282 }
+  },
+  {
+    "id": 512,
+    "name": "9 de Julio",
+    "fullName": "Departamento 9 de Julio",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0017515074163577
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.3891603884533, "lat": -31.6454181217339 }
+  },
+  {
+    "id": 513,
+    "name": "Albardón",
+    "fullName": "Departamento Albardón",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0115161138362762
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4521792374306, "lat": -31.209735511428 }
+  },
+  {
+    "id": 514,
+    "name": "Angaco",
+    "fullName": "Departamento Angaco",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0290120221188157
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.1320483297946, "lat": -31.1922718652932 }
+  },
+  {
+    "id": 515,
+    "name": "Santa Lucía",
+    "fullName": "Departamento Santa Lucía",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0006168116181825
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4634100474193, "lat": -31.5327197592087 }
+  },
+  {
+    "id": 516,
+    "name": "Rawson",
+    "fullName": "Departamento Rawson",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.00325974147641732
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4675945970348, "lat": -31.6866317967417 }
+  },
+  {
+    "id": 517,
+    "name": "25 de Mayo",
+    "fullName": "Departamento 25 de Mayo",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0481827109415363
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.8268026426216, "lat": -31.9898921289958 }
+  },
+  {
+    "id": 518,
+    "name": "San Martín",
+    "fullName": "Departamento San Martín",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.00627852995341095
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.2072669737396, "lat": -31.5285457556281 }
+  },
+  {
+    "id": 519,
+    "name": "Pocito",
+    "fullName": "Departamento Pocito",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.00655251781392724
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.5846798192063, "lat": -31.7472539046839 }
+  },
+  {
+    "id": 520,
+    "name": "Zonda",
+    "fullName": "Departamento Zonda",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0275911099278849
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.9548418805416, "lat": -31.6417783563664 }
+  },
+  {
+    "id": 521,
+    "name": "Ullum",
+    "fullName": "Departamento Ullum",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0507864067700745
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.8823909182891, "lat": -31.0852853750901 }
+  },
+  {
+    "id": 522,
+    "name": "Sarmiento",
+    "fullName": "Departamento Sarmiento",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0324421208961299
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.6870408796588, "lat": -32.076116858425 }
+  },
+  {
+    "id": 523,
+    "name": "Calingasta",
+    "fullName": "Departamento Calingasta",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.258396615306014
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.8318658247746, "lat": -31.4509359086826 }
+  },
+  {
+    "id": 524,
+    "name": "Iglesia",
+    "fullName": "Departamento Iglesia",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.214009808551241
+    },
+    "category": "departamento",
+    "centroid": { "lon": -69.4387201063957, "lat": -29.6011907018103 }
+  },
+  {
+    "id": 525,
+    "name": "Jáchal",
+    "fullName": "Departamento Jáchal",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.161407148624041
+    },
+    "category": "departamento",
+    "centroid": { "lon": -68.4399965840681, "lat": -30.3546413571108 }
+  },
+  {
+    "id": 526,
+    "name": "Valle Fértil",
+    "fullName": "Departamento Valle Fértil",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0595753569711661
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.5276736787401, "lat": -30.7168856749658 }
+  },
+  {
+    "id": 527,
+    "name": "Caucete",
+    "fullName": "Departamento Caucete",
+    "district": {
+      "id": 18,
+      "name": "San Juan",
+      "intersection": 0.0861827900939675
+    },
+    "category": "departamento",
+    "centroid": { "lon": -67.5454408659079, "lat": -31.5069003261853 }
+  },
+  {
+    "id": 528,
+    "name": "La Plata",
+    "fullName": "Partido de La Plata",
+    "district": {
+      "id": 1,
+      "name": "Buenos Aires",
+      "intersection": 0.00285538368932256
+    },
+    "category": "partido",
+    "centroid": { "lon": -58.0177777886077, "lat": -35.0038470156345 }
+  },
+  {
+    "id": 529,
+    "name": "Mercedes",
+    "fullName": "Departamento Mercedes",
+    "district": {
+      "id": 7,
+      "name": "Corrientes",
+      "intersection": 0.109625204073435
+    },
+    "category": "departamento",
+    "centroid": { "lon": -57.8183859330354, "lat": -29.0645067636205 }
+  }
+]

@@ -6,7 +6,7 @@ from app.api.models.president import President
 from typing import List
 
 router = APIRouter(
-    prefix="/api/v1/President",
+    prefix="/api/v1/president",
     tags=["President"],
     responses={404: {"description": "Not found"}},
 )
@@ -18,12 +18,14 @@ president_data = parse_json("app/data/president.json")
 def get_presidents() -> List[President]:
     return president_data
 
+
 @router.get("/id/{president_id}")
 def get_president_by_id(president_id: int) -> President:
-    filtered_presidents = [president for president in president_data if president["id"] == president_id]
-    if not filtered_presidents:
-        raise HTTPException(status_code=404, detail="President not found")
-    return filtered_presidents[0]
+    for president in president_data:
+        if president["id"] == president_id:
+            return president
+    raise HTTPException(status_code=404, detail="President not found")
+
 
 @router.get("/name/{president_name}")
 def get_president_by_name(president_name: str) -> List[President]:
@@ -41,6 +43,7 @@ def get_president_by_name(president_name: str) -> List[President]:
         raise HTTPException(status_code=404, detail="President not found")
     return filtered_presidents
 
+
 @router.get("/year/{period_year}")
 def get_president_by_year(period_year: str) -> List[President]:
     filtered_presidents = []
@@ -56,6 +59,7 @@ def get_president_by_year(period_year: str) -> List[President]:
     if not filtered_presidents:
         raise HTTPException(status_code=404, detail="President not found")
     return filtered_presidents
+
 
 @router.get("/search/{keyword}")
 def get_president_by_keyword(keyword: str) -> List[President]:
@@ -76,5 +80,6 @@ def get_president_by_keyword(keyword: str) -> List[President]:
     if not filtered_presidents:
         raise HTTPException(status_code=404, detail="President not found")
     return filtered_presidents
+
 
 # Todo: add pagination for president list
