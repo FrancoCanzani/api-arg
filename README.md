@@ -27,7 +27,7 @@ ChatGPT
 Censo 2022 https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-41-165
 ANAC https://datos.anac.gob.ar/estadisticas/article/720c108f-3f8c-436c-8159-5fd0506b75e6
 Departamentos, provincias, municipios https://datos.gob.ar/dataset/jgm_8/archivo/jgm_8.1
-
+Tourism - https://www.indec.gob.ar/indec/web/Nivel4-Tema-3-13-55
 --
 
 In this document Google JSON Style Guide (recommendations for building JSON APIs at Google),

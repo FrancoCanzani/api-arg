@@ -10,8 +10,6 @@ router = APIRouter(
 
 argentina_data = parse_json("app/data/argentina.json")
 
-print(argentina_data)
-
 @router.get("/")
 def get_argentina() -> Argentina:
     return argentina_data[0]

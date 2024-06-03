@@ -1,0 +1,652 @@
+{
+  "2023": [
+    {
+      "id": 1,
+      "month": "january",
+      "data": {
+        "visitorsTravels": {
+          "total": 246.965,
+          "entryMethods": {
+            "air": 118.835,
+            "sea": 9.762,
+            "land": 118.368
+          }
+        },
+        "touristsTravels": {
+          "total": 210.145,
+          "entryMethods": {
+            "air": 105.072,
+            "sea": 8.043,
+            "land": 97.03
+          }
+        },
+        "excursionistsTravels": {
+          "total": 180.345,
+          "entryMethods": {
+            "air": 90.172,
+            "sea": 7.234,
+            "land": 82.939
+          }
+        },
+        "visitors": {
+          "total": 300.456,
+          "entryMethods": {
+            "air": 150.228,
+            "sea": 12.018,
+            "land": 138.21
+          }
+        },
+        "tourists": {
+          "total": 350.567,
+          "entryMethods": {
+            "air": 175.283,
+            "sea": 14.023,
+            "land": 161.261
+          }
+        },
+        "excursionists": {
+          "total": 270.678,
+          "entryMethods": {
+            "air": 135.339,
+            "sea": 10.827,
+            "land": 124.512
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "month": "february",
+      "data": {
+        "visitorsTravels": {
+          "total": 262.114,
+          "entryMethods": {
+            "air": 87.004,
+            "sea": 14.328,
+            "land": 160.782
+          }
+        },
+        "touristsTravels": {
+          "total": 220.154,
+          "entryMethods": {
+            "air": 110.077,
+            "sea": 12.021,
+            "land": 98.056
+          }
+        },
+        "excursionistsTravels": {
+          "total": 190.344,
+          "entryMethods": {
+            "air": 95.172,
+            "sea": 10.834,
+            "land": 84.338
+          }
+        },
+        "visitors": {
+          "total": 310.467,
+          "entryMethods": {
+            "air": 155.234,
+            "sea": 14.043,
+            "land": 141.19
+          }
+        },
+        "tourists": {
+          "total": 360.578,
+          "entryMethods": {
+            "air": 180.289,
+            "sea": 16.034,
+            "land": 164.255
+          }
+        },
+        "excursionists": {
+          "total": 280.689,
+          "entryMethods": {
+            "air": 140.344,
+            "sea": 12.043,
+            "land": 128.302
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "month": "march",
+      "data": {
+        "visitorsTravels": {
+          "total": 367.009,
+          "entryMethods": {
+            "air": 121.402,
+            "sea": 29.44,
+            "land": 216.167
+          }
+        },
+        "touristsTravels": {
+          "total": 330.156,
+          "entryMethods": {
+            "air": 165.078,
+            "sea": 22.043,
+            "land": 143.035
+          }
+        },
+        "excursionistsTravels": {
+          "total": 290.347,
+          "entryMethods": {
+            "air": 145.172,
+            "sea": 19.839,
+            "land": 125.336
+          }
+        },
+        "visitors": {
+          "total": 410.478,
+          "entryMethods": {
+            "air": 205.239,
+            "sea": 27.043,
+            "land": 178.196
+          }
+        },
+        "tourists": {
+          "total": 460.589,
+          "entryMethods": {
+            "air": 230.295,
+            "sea": 32.052,
+            "land": 198.242
+          }
+        },
+        "excursionists": {
+          "total": 380.7,
+          "entryMethods": {
+            "air": 190.35,
+            "sea": 24.028,
+            "land": 166.322
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "month": "april",
+      "data": {
+        "visitorsTravels": {
+          "total": 572.602,
+          "entryMethods": {
+            "air": 133.764,
+            "sea": 55.184,
+            "land": 383.654
+          }
+        },
+        "touristsTravels": {
+          "total": 470.167,
+          "entryMethods": {
+            "air": 235.084,
+            "sea": 44.065,
+            "land": 191.018
+          }
+        },
+        "excursionistsTravels": {
+          "total": 400.355,
+          "entryMethods": {
+            "air": 200.178,
+            "sea": 37.942,
+            "land": 162.235
+          }
+        },
+        "visitors": {
+          "total": 530.489,
+          "entryMethods": {
+            "air": 265.245,
+            "sea": 52.047,
+            "land": 213.197
+          }
+        },
+        "tourists": {
+          "total": 590.6,
+          "entryMethods": {
+            "air": 295.3,
+            "sea": 57.062,
+            "land": 238.238
+          }
+        },
+        "excursionists": {
+          "total": 470.711,
+          "entryMethods": {
+            "air": 235.356,
+            "sea": 45.057,
+            "land": 190.298
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "month": "may",
+      "data": {
+        "visitorsTravels": {
+          "total": 542.276,
+          "entryMethods": {
+            "air": 122.728,
+            "sea": 50.115,
+            "land": 369.433
+          }
+        },
+        "touristsTravels": {
+          "total": 450.156,
+          "entryMethods": {
+            "air": 225.078,
+            "sea": 40.043,
+            "land": 185.035
+          }
+        },
+        "excursionistsTravels": {
+          "total": 390.356,
+          "entryMethods": {
+            "air": 195.172,
+            "sea": 35.834,
+            "land": 159.336
+          }
+        },
+        "visitors": {
+          "total": 520.468,
+          "entryMethods": {
+            "air": 260.234,
+            "sea": 48.043,
+            "land": 212.191
+          }
+        },
+        "tourists": {
+          "total": 580.579,
+          "entryMethods": {
+            "air": 290.289,
+            "sea": 53.034,
+            "land": 237.255
+          }
+        },
+        "excursionists": {
+          "total": 460.689,
+          "entryMethods": {
+            "air": 230.344,
+            "sea": 45.043,
+            "land": 185.302
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "month": "june",
+      "data": {
+        "visitorsTravels": {
+          "total": 500.276,
+          "entryMethods": {
+            "air": 150.276,
+            "sea": 60.115,
+            "land": 289.885
+          }
+        },
+        "touristsTravels": {
+          "total": 420.176,
+          "entryMethods": {
+            "air": 210.088,
+            "sea": 50.044,
+            "land": 160.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 350.156,
+          "entryMethods": {
+            "air": 175.078,
+            "sea": 45.834,
+            "land": 129.244
+          }
+        },
+        "visitors": {
+          "total": 480.478,
+          "entryMethods": {
+            "air": 240.239,
+            "sea": 56.043,
+            "land": 184.196
+          }
+        },
+        "tourists": {
+          "total": 540.567,
+          "entryMethods": {
+            "air": 270.283,
+            "sea": 60.023,
+            "land": 210.261
+          }
+        },
+        "excursionists": {
+          "total": 450.689,
+          "entryMethods": {
+            "air": 225.344,
+            "sea": 50.043,
+            "land": 175.302
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "month": "july",
+      "data": {
+        "visitorsTravels": {
+          "total": 520.276,
+          "entryMethods": {
+            "air": 160.276,
+            "sea": 65.115,
+            "land": 294.885
+          }
+        },
+        "touristsTravels": {
+          "total": 440.176,
+          "entryMethods": {
+            "air": 220.088,
+            "sea": 55.044,
+            "land": 165.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 370.156,
+          "entryMethods": {
+            "air": 185.078,
+            "sea": 50.834,
+            "land": 134.244
+          }
+        },
+        "visitors": {
+          "total": 500.478,
+          "entryMethods": {
+            "air": 250.239,
+            "sea": 60.043,
+            "land": 190.196
+          }
+        },
+        "tourists": {
+          "total": 560.567,
+          "entryMethods": {
+            "air": 280.283,
+            "sea": 65.023,
+            "land": 215.261
+          }
+        },
+        "excursionists": {
+          "total": 470.689,
+          "entryMethods": {
+            "air": 235.344,
+            "sea": 55.043,
+            "land": 180.302
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "month": "august",
+      "data": {
+        "visitorsTravels": {
+          "total": 540.276,
+          "entryMethods": {
+            "air": 170.276,
+            "sea": 70.115,
+            "land": 299.885
+          }
+        },
+        "touristsTravels": {
+          "total": 460.176,
+          "entryMethods": {
+            "air": 230.088,
+            "sea": 60.044,
+            "land": 170.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 390.156,
+          "entryMethods": {
+            "air": 195.078,
+            "sea": 55.834,
+            "land": 139.244
+          }
+        },
+        "visitors": {
+          "total": 520.478,
+          "entryMethods": {
+            "air": 260.239,
+            "sea": 65.043,
+            "land": 195.196
+          }
+        },
+        "tourists": {
+          "total": 580.567,
+          "entryMethods": {
+            "air": 290.283,
+            "sea": 70.023,
+            "land": 220.261
+          }
+        },
+        "excursionists": {
+          "total": 490.689,
+          "entryMethods": {
+            "air": 245.344,
+            "sea": 60.043,
+            "land": 185.302
+          }
+        }
+      }
+    },
+    {
+      "id": 9,
+      "month": "september",
+      "data": {
+        "visitorsTravels": {
+          "total": 560.276,
+          "entryMethods": {
+            "air": 180.276,
+            "sea": 75.115,
+            "land": 304.885
+          }
+        },
+        "touristsTravels": {
+          "total": 480.176,
+          "entryMethods": {
+            "air": 240.088,
+            "sea": 65.044,
+            "land": 175.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 410.156,
+          "entryMethods": {
+            "air": 205.078,
+            "sea": 60.834,
+            "land": 144.244
+          }
+        },
+        "visitors": {
+          "total": 540.478,
+          "entryMethods": {
+            "air": 270.239,
+            "sea": 70.043,
+            "land": 200.196
+          }
+        },
+        "tourists": {
+          "total": 600.567,
+          "entryMethods": {
+            "air": 300.283,
+            "sea": 75.023,
+            "land": 225.261
+          }
+        },
+        "excursionists": {
+          "total": 510.689,
+          "entryMethods": {
+            "air": 255.344,
+            "sea": 65.043,
+            "land": 190.302
+          }
+        }
+      }
+    },
+    {
+      "id": 10,
+      "month": "october",
+      "data": {
+        "visitorsTravels": {
+          "total": 580.276,
+          "entryMethods": {
+            "air": 190.276,
+            "sea": 80.115,
+            "land": 309.885
+          }
+        },
+        "touristsTravels": {
+          "total": 500.176,
+          "entryMethods": {
+            "air": 250.088,
+            "sea": 70.044,
+            "land": 180.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 430.156,
+          "entryMethods": {
+            "air": 215.078,
+            "sea": 65.834,
+            "land": 149.244
+          }
+        },
+        "visitors": {
+          "total": 560.478,
+          "entryMethods": {
+            "air": 280.239,
+            "sea": 75.043,
+            "land": 205.196
+          }
+        },
+        "tourists": {
+          "total": 620.567,
+          "entryMethods": {
+            "air": 310.283,
+            "sea": 80.023,
+            "land": 230.261
+          }
+        },
+        "excursionists": {
+          "total": 530.689,
+          "entryMethods": {
+            "air": 265.344,
+            "sea": 70.043,
+            "land": 195.302
+          }
+        }
+      }
+    },
+    {
+      "id": 11,
+      "month": "november",
+      "data": {
+        "visitorsTravels": {
+          "total": 600.276,
+          "entryMethods": {
+            "air": 200.276,
+            "sea": 85.115,
+            "land": 314.885
+          }
+        },
+        "touristsTravels": {
+          "total": 520.176,
+          "entryMethods": {
+            "air": 260.088,
+            "sea": 75.044,
+            "land": 185.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 450.156,
+          "entryMethods": {
+            "air": 225.078,
+            "sea": 70.834,
+            "land": 154.244
+          }
+        },
+        "visitors": {
+          "total": 580.478,
+          "entryMethods": {
+            "air": 290.239,
+            "sea": 80.043,
+            "land": 210.196
+          }
+        },
+        "tourists": {
+          "total": 640.567,
+          "entryMethods": {
+            "air": 320.283,
+            "sea": 85.023,
+            "land": 235.261
+          }
+        },
+        "excursionists": {
+          "total": 550.689,
+          "entryMethods": {
+            "air": 275.344,
+            "sea": 75.043,
+            "land": 200.302
+          }
+        }
+      }
+    },
+    {
+      "id": 12,
+      "month": "december",
+      "data": {
+        "visitorsTravels": {
+          "total": 620.276,
+          "entryMethods": {
+            "air": 210.276,
+            "sea": 90.115,
+            "land": 319.885
+          }
+        },
+        "touristsTravels": {
+          "total": 540.176,
+          "entryMethods": {
+            "air": 270.088,
+            "sea": 80.044,
+            "land": 190.044
+          }
+        },
+        "excursionistsTravels": {
+          "total": 470.156,
+          "entryMethods": {
+            "air": 235.078,
+            "sea": 75.834,
+            "land": 159.244
+          }
+        },
+        "visitors": {
+          "total": 600.478,
+          "entryMethods": {
+            "air": 300.239,
+            "sea": 85.043,
+            "land": 215.196
+          }
+        },
+        "tourists": {
+          "total": 660.567,
+          "entryMethods": {
+            "air": 330.283,
+            "sea": 90.023,
+            "land": 240.261
+          }
+        },
+        "excursionists": {
+          "total": 570.689,
+          "entryMethods": {
+            "air": 285.344,
+            "sea": 80.043,
+            "land": 205.302
+          }
+        }
+      }
+    }
+  ]
+}
