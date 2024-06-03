@@ -15,3 +15,5 @@ app.include_router(district.router)
 app.include_router(airport.router)
 app.include_router(department.router)
 app.include_router(tourism.router)
+
+# uvicorn app.main:app --reload --reload-exclude '*.json'
